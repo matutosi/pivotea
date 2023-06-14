@@ -39,7 +39,7 @@ na_col_omit <- function(df){
     purrr::map_int(function(x) sum(is.na(x))) %>%
   #     purrr::map_int(na_count) %>%
     `!=`(nr)
-  dplyr::select(df, all_of(cnames[selected]))
+  dplyr::select(df, dplyr::all_of(cnames[selected]))
 }
 #' Helper for na_col_omit()
 #' @param x A vector

@@ -1,7 +1,10 @@
 #' Pivot easily by specifying rows, columns, values and split.
-#' @param df                   A dataframe.
-#' @param row,col,value,split  A string or string vector.
-#' @param sep                  A string for separator.
+#' @name pivot
+#' @param df         A dataframe.
+#' @param row,value  A string or string vector.
+#' @param col        A string or string vector.
+#' @param split      A string or string vector.
+#' @param sep        A string for separator.
 #' @return A dataframe.
 #' @examples
 #' library(tidyr)
@@ -26,7 +29,7 @@ pivot <- function(df, row, col, value, split = NULL, sep = "_"){
 
   if(length(value) > 1){
     vals <- paste0(value, collapse = sep)
-    df <- tidyr::unite(df, {{vals}}, all_of(value), sep = sep, remove = FALSE)
+    df <- tidyr::unite(df, {{vals}}, dplyr::all_of(value), sep = sep, remove = FALSE)
     value <- vals
     cols <- c(row, col, value, split)
   }
@@ -41,7 +44,7 @@ pivot <- function(df, row, col, value, split = NULL, sep = "_"){
       names_from = dplyr::all_of(col), 
       names_sep = sep, names_sort = TRUE, names_expand = TRUE,
       values_from = dplyr::all_of(value)) %>%
-    purrr::map(dplyr::arrange, across(dplyr::all_of(row))) %>%
+    purrr::map(dplyr::arrange, dplyr::across(dplyr::all_of(row))) %>%
     purrr::map(dplyr::select, -dplyr::all_of(tmp_col)) %>%
     purrr::map(dplyr::relocate, dplyr::any_of(split))
 
@@ -50,9 +53,10 @@ pivot <- function(df, row, col, value, split = NULL, sep = "_"){
 }
 
 #' Add sub index within group
-#' @param group  A string or string vector.
-#'               When vector, the first string will be used for 
-#'               adding sub index.
+#' @param group   A string or string vector.
+#'                When vector, the first string will be used for 
+#'                adding sub index.
+#' @param tmp_col A string of colnames for temporary use.
 #' @inherit pivot
 #' @examples
 #' library(dplyr)
@@ -64,7 +68,7 @@ add_group_sub <- function(df, group, sep = "_", tmp_col = "tmp_col"){
   g <- group[1]
   df %>%
     dplyr::group_by(dplyr::pick(dplyr::all_of(group))) %>%
-    dplyr::mutate({{tmp_col}} := paste0(.data[[g]], sep, row_number())) %>%
+    dplyr::mutate({{tmp_col}} := paste0(.data[[g]], sep, dplyr::row_number())) %>%
     dplyr::ungroup()
 }
 

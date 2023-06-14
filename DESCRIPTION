@@ -2,7 +2,8 @@ Package: pivoteasy
 Title: Make Pivot table easily
 Version: 0.9.9.9000
 Authors@R: 
-    person("Toshikazu", "Matsumura", , "matutosi@gmail.com", role = c("aut", "cre"))
+    person("Toshikazu", "Matsumura", , 
+           "matutosi@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-2306-6355"))
 Description: Pivot easily by specifying rows, columns, values and split.
 License: MIT + file LICENSE
@@ -10,9 +11,11 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Imports: 
-    tidyr,
     dplyr,
-    purrr
+    magrittr,
+    purrr,
+    rlang,
+    tidyr
 Suggests: 
     ggplot2,
     knitr,
