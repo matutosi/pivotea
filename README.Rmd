@@ -41,7 +41,7 @@ install.packages("pivotea")
 
 You can use pivot to make a pivot table easily.
 
-```{r example, eval = FALSE}
+```{r example}
 library(pivotea)
 library(dplyr)
 library(ggplot2)
