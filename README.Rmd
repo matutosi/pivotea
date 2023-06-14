@@ -13,36 +13,36 @@ knitr::opts_chunk$set(
 )
 ```
 
-# pivoteasy
+# pivotea
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of pivoteasy is to make pivot table easily by specifying rows, columns, values and split.
+The goal of pivotea is to make pivot table easily by specifying rows, columns, values and split.
 
 
 ## Installation
 
-You can install the development version of pivoteasy from [GitHub](https://github.com/) with:
+You can install the development version of pivotea from [GitHub](https://github.com/) with:
 
 ```{r, eval = FALSE}
 # install.packages("devtools")
-devtools::install_github("matutosi/pivoteasy")
+devtools::install_github("matutosi/pivotea")
 ```
 
 
 You can also install from CRAN:
 
 ```{r, eval = FALSE}
-install.packages("pivoteasy")
+install.packages("pivotea")
 ```
 
 ## Example
 
 You can use pivot to make a pivot table easily.
 
-```{r example}
-library(pivoteasy)
+```{r example, eval = FALSE}
+library(pivotea)
 library(dplyr)
 library(ggplot2)
 starwars %>%
@@ -58,4 +58,4 @@ diamonds %>%
 ```
 ## Citation
 
-Toshikazu Matsumura (2023) Create Pivot Table Easily. https://github.com/matutosi/pivoteasy/.
+Toshikazu Matsumura (2023) Create Pivot Table Easily. https://github.com/matutosi/pivotea/.

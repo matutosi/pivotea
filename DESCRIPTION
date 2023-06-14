@@ -1,6 +1,6 @@
-Package: pivoteasy
+Package: pivotea
 Title: Create Pivot Table Easily
-Version: 0.9.9.9000
+Version: 1.0.0
 Authors@R: 
     person("Toshikazu", "Matsumura", , 
            "matutosi@gmail.com", role = c("aut", "cre"),

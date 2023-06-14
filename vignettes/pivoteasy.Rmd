@@ -1,8 +1,8 @@
 ---
-title: "pivoteasy"
+title: "pivotea"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{pivoteasy}
+  %\VignetteIndexEntry{pivotea}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 ```
 
 ```{r setup}
-library(pivoteasy)
+library(pivotea)
 library(dplyr)
 library(ggplot2)
 ```

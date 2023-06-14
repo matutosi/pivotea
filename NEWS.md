@@ -1,6 +1,6 @@
-# pivoteasy release news
+# pivotea release news
 
-# pivoteasy 0.9.9.9000
+# pivotea 1.0.0
 
 * 2023-06-15
 
