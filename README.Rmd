@@ -33,17 +33,29 @@ devtools::install_github("matutosi/pivoteasy")
 
 You can also install from CRAN:
 
-
 ```{r, eval = FALSE}
 install.packages("pivoteasy")
 ```
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+You can use pivot to make a pivot table easily.
 
-```{r example, eval = FALSE}
+```{r example}
 library(pivoteasy)
+library(dplyr)
+library(ggplot2)
+starwars %>%
+  pivot(row = "homeworld", col = "species", value = "name", split = "sex")
+msleep %>%
+  pivot(row = "vore", col = "conservation", value = "name") %>%
+  na2empty() %>%
+  print(n = nrow(.))
+as_tibble(Titanic) %>%
+  pivot(row = "Age", col = c("Sex", "Survived"), value = "n", split = "Class")
+diamonds %>%
+  pivot(row = "cut", col = "color", value = "price", split = "clarity")
 ```
+## Citation
 
-
+Toshikazu Matsumura (2023) Create Pivot Table Easily. https://github.com/matutosi/pivoteasy/.

@@ -1,5 +1,5 @@
 Package: pivoteasy
-Title: Make Pivot table easily
+Title: Create Pivot Table Easily
 Version: 0.9.9.9000
 Authors@R: 
     person("Toshikazu", "Matsumura", , 
