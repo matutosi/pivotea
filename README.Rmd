@@ -1,0 +1,49 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# pivoteasy
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of pivoteasy is to make pivot table easily by specifying rows, columns, values and split.
+
+
+## Installation
+
+You can install the development version of pivoteasy from [GitHub](https://github.com/) with:
+
+```{r, eval = FALSE}
+# install.packages("devtools")
+devtools::install_github("matutosi/pivoteasy")
+```
+
+
+You can also install from CRAN:
+
+
+```{r, eval = FALSE}
+install.packages("pivoteasy")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example, eval = FALSE}
+library(pivoteasy)
+```
+
+
