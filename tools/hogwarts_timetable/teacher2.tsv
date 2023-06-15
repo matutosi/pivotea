@@ -1,0 +1,1113 @@
+Teacher	Day	Hour	Subject	Students	Room
+McGonagall	Monday	M1	Transfiguration		
+McGonagall	Monday	M1		4_G	
+McGonagall	Monday	M1		4_H	
+McGonagall	Monday	M2			
+McGonagall	Monday	M3	Transfiguration		
+McGonagall	Monday	M3		3_S	
+McGonagall	Monday	M3		3_R	
+McGonagall	Monday	M4	Transfiguration		
+McGonagall	Monday	M4		2_G	
+McGonagall	Monday	M4		2_H	
+McGonagall	Monday	Lunch			
+McGonagall	Monday	A1	Transfiguration		
+McGonagall	Monday	A1		4_S	
+McGonagall	Monday	A1		4_R	
+McGonagall	Monday	A2	Transfiguration		
+McGonagall	Monday	A2		2_S	
+McGonagall	Monday	A2		2_R	
+McGonagall	Monday	A3	Transfiguration		
+McGonagall	Monday	A3		7	
+McGonagall	Tuesday	M1	Transfiguration		
+McGonagall	Tuesday	M1		6	
+McGonagall	Tuesday	M2	Transfiguration		
+McGonagall	Tuesday	M2		3_G	
+McGonagall	Tuesday	M2		3_H	
+McGonagall	Tuesday	M3	Transfiguration		
+McGonagall	Tuesday	M3		3_G	
+McGonagall	Tuesday	M3		3_H	
+McGonagall	Tuesday	M4	Transfiguration		
+McGonagall	Tuesday	M4		1_G	
+McGonagall	Tuesday	M4		1_H	
+McGonagall	Tuesday	Lunch			
+McGonagall	Tuesday	A1	Transfiguration		
+McGonagall	Tuesday	A1		7	
+McGonagall	Tuesday	A2	Transfiguration		
+McGonagall	Tuesday	A2		5_R	
+McGonagall	Tuesday	A2		5_S	
+McGonagall	Tuesday	A3	Transfiguration		
+McGonagall	Tuesday	A3		5_R	
+McGonagall	Tuesday	A3		5_S	
+McGonagall	Wednesday	M1	Transfiguration		
+McGonagall	Wednesday	M1		5_G	
+McGonagall	Wednesday	M1		5_H	
+McGonagall	Wednesday	M2	Transfiguration		
+McGonagall	Wednesday	M2		5_G	
+McGonagall	Wednesday	M2		5_H	
+McGonagall	Wednesday	M3	Transfiguration		
+McGonagall	Wednesday	M3		4_G	
+McGonagall	Wednesday	M3		4_H	
+McGonagall	Wednesday	M4	Transfiguration		
+McGonagall	Wednesday	M4		3_S	
+McGonagall	Wednesday	M4		3_R	
+McGonagall	Wednesday	Lunch			
+McGonagall	Wednesday	A1	Transfiguration		
+McGonagall	Wednesday	A1		1_S	
+McGonagall	Wednesday	A1		1_R	
+McGonagall	Wednesday	A2	Transfiguration		
+McGonagall	Wednesday	A2		2_G	
+McGonagall	Wednesday	A2		2_H	
+McGonagall	Wednesday	A3	Transfiguration		
+McGonagall	Wednesday	A3		4_S	
+McGonagall	Wednesday	A3		4_R	
+McGonagall	Thursday	M1	Transfiguration		
+McGonagall	Thursday	M1		7	
+McGonagall	Thursday	M2	Transfiguration		
+McGonagall	Thursday	M2		1_G	
+McGonagall	Thursday	M2		1_H	
+McGonagall	Thursday	M3	Transfiguration		
+McGonagall	Thursday	M3		6	
+McGonagall	Thursday	M4	Transfiguration		
+McGonagall	Thursday	M4		6	
+McGonagall	Thursday	Lunch			
+McGonagall	Thursday	A1	Transfiguration		
+McGonagall	Thursday	A1		2_S	
+McGonagall	Thursday	A1		2_R	
+McGonagall	Thursday	A2	Transfiguration		
+McGonagall	Thursday	A2		2_S	
+McGonagall	Thursday	A2		2_R	
+McGonagall	Thursday	A3	Transfiguration		
+McGonagall	Thursday	A3		5_R	
+McGonagall	Thursday	A3		5_S	
+McGonagall	Friday	M1	Transfiguration		
+McGonagall	Friday	M1		4_G	
+McGonagall	Friday	M1		4_H	
+McGonagall	Friday	M2	Transfiguration		
+McGonagall	Friday	M2		3_S	
+McGonagall	Friday	M2		3_R	
+McGonagall	Friday	M3	Transfiguration		
+McGonagall	Friday	M3		2_G	
+McGonagall	Friday	M3		2_H	
+McGonagall	Friday	M4	Transfiguration		
+McGonagall	Friday	M4		1_S	
+McGonagall	Friday	M4		1_R	
+McGonagall	Friday	Lunch			
+McGonagall	Friday	A1	Transfiguration		
+McGonagall	Friday	A1		5_G	
+McGonagall	Friday	A1		5_H	
+McGonagall	Friday	A2	Transfiguration		
+McGonagall	Friday	A2		3_G	
+McGonagall	Friday	A2		3_H	
+McGonagall	Friday	A3	Transfiguration		
+McGonagall	Friday	A3		4_S	
+McGonagall	Friday	A3		4_R	
+Snape	Monday	M1	Potions		
+Snape	Monday	M1		5_R	
+Snape	Monday	M1		5_H	
+Snape	Monday	M2	Potions		
+Snape	Monday	M2		5_R	
+Snape	Monday	M2		5_H	
+Snape	Monday	M3	Potions		
+Snape	Monday	M3		1_R	
+Snape	Monday	M3		1_H	
+Snape	Monday	M4	Potions		
+Snape	Monday	M4		1_R	
+Snape	Monday	M4		1_H	
+Snape	Monday	Lunch			
+Snape	Monday	A1	Potions		
+Snape	Monday	A1		3_G	
+Snape	Monday	A1		3_S	
+Snape	Monday	A2	Potions		
+Snape	Monday	A2		3_G	
+Snape	Monday	A2		3_S	
+Snape	Monday	A3	Potions		
+Snape	Monday	A3		5_G	
+Snape	Monday	A3		5_S	
+Snape	Tuesday	M1	Potions		
+Snape	Tuesday	M1		4_R	
+Snape	Tuesday	M1		4_H	
+Snape	Tuesday	M2	Potions		
+Snape	Tuesday	M2		2_R	
+Snape	Tuesday	M2		2_H	
+Snape	Tuesday	M3	Potions		
+Snape	Tuesday	M3		2_R	
+Snape	Tuesday	M3		2_H	
+Snape	Tuesday	M4	Potions		
+Snape	Tuesday	M4		4_G	
+Snape	Tuesday	M4		4_S	
+Snape	Tuesday	Lunch			
+Snape	Tuesday	A1	Potions		
+Snape	Tuesday	A1		3_H	
+Snape	Tuesday	A1		3_R	
+Snape	Tuesday	A2	Potions		
+Snape	Tuesday	A2		3_H	
+Snape	Tuesday	A2		3_R	
+Snape	Tuesday	A3	Potions		
+Snape	Tuesday	A3		6	
+Snape	Wednesday	M1	Potions		
+Snape	Wednesday	M1		3_G	
+Snape	Wednesday	M1		3_S	
+Snape	Wednesday	M2	Potions		
+Snape	Wednesday	M2		1_G	
+Snape	Wednesday	M2		1_S	
+Snape	Wednesday	M3	Potions		
+Snape	Wednesday	M3		1_G	
+Snape	Wednesday	M3		1_S	
+Snape	Wednesday	M4	Potions		
+Snape	Wednesday	M4		2_R	
+Snape	Wednesday	M4		2_H	
+Snape	Wednesday	Lunch			
+Snape	Wednesday	A1	Potions		
+Snape	Wednesday	A1		2_G	
+Snape	Wednesday	A1		2_S	
+Snape	Wednesday	A2	Potions		
+Snape	Wednesday	A2		7	
+Snape	Wednesday	A3	Potions		
+Snape	Wednesday	A3		7	
+Snape	Thursday	M1	Potions		
+Snape	Thursday	M1		4_R	
+Snape	Thursday	M1		4_H	
+Snape	Thursday	M2	Potions		
+Snape	Thursday	M2		4_R	
+Snape	Thursday	M2		4_H	
+Snape	Thursday	M3	Potions		
+Snape	Thursday	M3		4_G	
+Snape	Thursday	M3		4_S	
+Snape	Thursday	M4	Potions		
+Snape	Thursday	M4		4_G	
+Snape	Thursday	M4		4_S	
+Snape	Thursday	Lunch			
+Snape	Thursday	A1	Potions		
+Snape	Thursday	A1		3_H	
+Snape	Thursday	A1		3_R	
+Snape	Thursday	A2	Potions		
+Snape	Thursday	A2		6	
+Snape	Thursday	A3	Potions		
+Snape	Thursday	A3		6	
+Snape	Friday	M1	Potions		
+Snape	Friday	M1		5_G	
+Snape	Friday	M1		5_S	
+Snape	Friday	M2	Potions		
+Snape	Friday	M2		5_G	
+Snape	Friday	M2		5_S	
+Snape	Friday	M3	Potions		
+Snape	Friday	M3		5_R	
+Snape	Friday	M3		5_H	
+Snape	Friday	M4			
+Snape	Friday	Lunch			
+Snape	Friday	A1	Potions		
+Snape	Friday	A1		2_G	
+Snape	Friday	A1		2_S	
+Snape	Friday	A2	Potions		
+Snape	Friday	A2		2_G	
+Snape	Friday	A2		2_S	
+Snape	Friday	A3	Potions		
+Snape	Friday	A3		7	
+Flitwick	Monday	M1	Charms		
+Flitwick	Monday	M1		3_G	
+Flitwick	Monday	M1		3_R	
+Flitwick	Monday	M2	Charms		
+Flitwick	Monday	M2		4_S	
+Flitwick	Monday	M2		4_H	
+Flitwick	Monday	M3	Charms		
+Flitwick	Monday	M3		2_G	
+Flitwick	Monday	M3		2_R	
+Flitwick	Monday	M4	Charms		
+Flitwick	Monday	M4		3_S	
+Flitwick	Monday	M4		3_H	
+Flitwick	Monday	Lunch			
+Flitwick	Monday	A1	Charms		
+Flitwick	Monday	A1		7	
+Flitwick	Monday	A2	Charms		
+Flitwick	Monday	A2		4_G	
+Flitwick	Monday	A2		4_R	
+Flitwick	Monday	A3	Charms		
+Flitwick	Monday	A3		6	
+Flitwick	Tuesday	M1	Charms		
+Flitwick	Tuesday	M1		5_G	
+Flitwick	Tuesday	M1		5_R	
+Flitwick	Tuesday	M2	Charms		
+Flitwick	Tuesday	M2		5_G	
+Flitwick	Tuesday	M2		5_R	
+Flitwick	Tuesday	M3	Charms		
+Flitwick	Tuesday	M3		1_G	
+Flitwick	Tuesday	M3		1_R	
+Flitwick	Tuesday	M4	Charms		
+Flitwick	Tuesday	M4		2_S	
+Flitwick	Tuesday	M4		2_H	
+Flitwick	Tuesday	Lunch			
+Flitwick	Tuesday	A1	Charms		
+Flitwick	Tuesday	A1		1_S	
+Flitwick	Tuesday	A1		1_H	
+Flitwick	Tuesday	A2	Charms		
+Flitwick	Tuesday	A2		4_G	
+Flitwick	Tuesday	A2		4_R	
+Flitwick	Tuesday	A3			
+Flitwick	Wednesday	M1	Charms		
+Flitwick	Wednesday	M1		4_S	
+Flitwick	Wednesday	M1		4_H	
+Flitwick	Wednesday	M2	Charms		
+Flitwick	Wednesday	M2		2_G	
+Flitwick	Wednesday	M2		2_R	
+Flitwick	Wednesday	M3	Charms		
+Flitwick	Wednesday	M3		5_S	
+Flitwick	Wednesday	M3		5_H	
+Flitwick	Wednesday	M4	Charms		
+Flitwick	Wednesday	M4		5_S	
+Flitwick	Wednesday	M4		5_H	
+Flitwick	Wednesday	Lunch			
+Flitwick	Wednesday	A1	Charms		
+Flitwick	Wednesday	A1		3_S	
+Flitwick	Wednesday	A1		3_H	
+Flitwick	Wednesday	A2	Charms		
+Flitwick	Wednesday	A2		3_G	
+Flitwick	Wednesday	A2		3_R	
+Flitwick	Wednesday	A3	Charms		
+Flitwick	Wednesday	A3		6	
+Flitwick	Thursday	M1			
+Flitwick	Thursday	M2	Charms		
+Flitwick	Thursday	M2		7	
+Flitwick	Thursday	M3	Charms		
+Flitwick	Thursday	M3		1_S	
+Flitwick	Thursday	M3		1_H	
+Flitwick	Thursday	M4	Charms		
+Flitwick	Thursday	M4		2_S	
+Flitwick	Thursday	M4		2_H	
+Flitwick	Thursday	Lunch			
+Flitwick	Thursday	A1	Charms		
+Flitwick	Thursday	A1		4_G	
+Flitwick	Thursday	A1		4_R	
+Flitwick	Thursday	A2	Charms		
+Flitwick	Thursday	A2		5_G	
+Flitwick	Thursday	A2		5_R	
+Flitwick	Thursday	A3			
+Flitwick	Friday	M1	Charms		
+Flitwick	Friday	M1		6	
+Flitwick	Friday	M2	Charms		
+Flitwick	Friday	M2		1_G	
+Flitwick	Friday	M2		1_R	
+Flitwick	Friday	M3	Charms		
+Flitwick	Friday	M3		3_G	
+Flitwick	Friday	M3		3_R	
+Flitwick	Friday	M4	Charms		
+Flitwick	Friday	M4		7	
+Flitwick	Friday	Lunch			
+Flitwick	Friday	A1	Charms		
+Flitwick	Friday	A1		3_S	
+Flitwick	Friday	A1		3_H	
+Flitwick	Friday	A2	Charms		
+Flitwick	Friday	A2		4_S	
+Flitwick	Friday	A2		4_H	
+Flitwick	Friday	A3	Charms		
+Flitwick	Friday	A3		5_S	
+Flitwick	Friday	A3		5_H	
+DADA Teacher	Monday	M1	DADA		
+DADA Teacher	Monday	M1		5_G	
+DADA Teacher	Monday	M1		5_S	
+DADA Teacher	Monday	M2	DADA		
+DADA Teacher	Monday	M2		2_R	
+DADA Teacher	Monday	M2		2_H	
+DADA Teacher	Monday	M3	DADA		
+DADA Teacher	Monday	M3		7	
+DADA Teacher	Monday	M4	DADA		
+DADA Teacher	Monday	M4		1_G	
+DADA Teacher	Monday	M4		1_S	
+DADA Teacher	Monday	Lunch			
+DADA Teacher	Monday	A1	DADA		
+DADA Teacher	Monday	A1		6	
+DADA Teacher	Monday	A2	DADA		
+DADA Teacher	Monday	A2		5_R	
+DADA Teacher	Monday	A2		5_H	
+DADA Teacher	Monday	A3	DADA		
+DADA Teacher	Monday	A3		5_R	
+DADA Teacher	Monday	A3		5_H	
+DADA Teacher	Tuesday	M1	DADA		
+DADA Teacher	Tuesday	M1		3_R	
+DADA Teacher	Tuesday	M1		3_H	
+DADA Teacher	Tuesday	M2	DADA		
+DADA Teacher	Tuesday	M2		4_R	
+DADA Teacher	Tuesday	M2		4_H	
+DADA Teacher	Tuesday	M3	DADA		
+DADA Teacher	Tuesday	M3		4_R	
+DADA Teacher	Tuesday	M3		4_H	
+DADA Teacher	Tuesday	M4	DADA		
+DADA Teacher	Tuesday	M4		3_G	
+DADA Teacher	Tuesday	M4		3_S	
+DADA Teacher	Tuesday	Lunch			
+DADA Teacher	Tuesday	A1	DADA		
+DADA Teacher	Tuesday	A1		2_G	
+DADA Teacher	Tuesday	A1		2_S	
+DADA Teacher	Tuesday	A2	DADA		
+DADA Teacher	Tuesday	A2		2_G	
+DADA Teacher	Tuesday	A2		2_S	
+DADA Teacher	Tuesday	A3	DADA		
+DADA Teacher	Tuesday	A3		4_G	
+DADA Teacher	Tuesday	A3		4_S	
+DADA Teacher	Wednesday	M1	DADA		
+DADA Teacher	Wednesday	M1		6	
+DADA Teacher	Wednesday	M2	DADA		
+DADA Teacher	Wednesday	M2		1_R	
+DADA Teacher	Wednesday	M2		1_H	
+DADA Teacher	Wednesday	M3	DADA		
+DADA Teacher	Wednesday	M3		7	
+DADA Teacher	Wednesday	M4			
+DADA Teacher	Wednesday	Lunch			
+DADA Teacher	Wednesday	A1	DADA		
+DADA Teacher	Wednesday	A1		2_R	
+DADA Teacher	Wednesday	A1		2_H	
+DADA Teacher	Wednesday	A2	DADA		
+DADA Teacher	Wednesday	A2		5_G	
+DADA Teacher	Wednesday	A2		5_S	
+DADA Teacher	Wednesday	A3	DADA		
+DADA Teacher	Wednesday	A3		5_G	
+DADA Teacher	Wednesday	A3		5_S	
+DADA Teacher	Thursday	M1			
+DADA Teacher	Thursday	M2	DADA		
+DADA Teacher	Thursday	M2		2_G	
+DADA Teacher	Thursday	M2		2_S	
+DADA Teacher	Thursday	M3	DADA		
+DADA Teacher	Thursday	M3		3_R	
+DADA Teacher	Thursday	M3		3_H	
+DADA Teacher	Thursday	M4	DADA		
+DADA Teacher	Thursday	M4		3_R	
+DADA Teacher	Thursday	M4		3_H	
+DADA Teacher	Thursday	Lunch			
+DADA Teacher	Thursday	A1	DADA		
+DADA Teacher	Thursday	A1		3_G	
+DADA Teacher	Thursday	A1		3_S	
+DADA Teacher	Thursday	A2	DADA		
+DADA Teacher	Thursday	A2		3_G	
+DADA Teacher	Thursday	A2		3_S	
+DADA Teacher	Thursday	A3	DADA		
+DADA Teacher	Thursday	A3		7	
+DADA Teacher	Friday	M1	DADA		
+DADA Teacher	Friday	M1		5_R	
+DADA Teacher	Friday	M1		5_H	
+DADA Teacher	Friday	M2	DADA		
+DADA Teacher	Friday	M2		6	
+DADA Teacher	Friday	M3	DADA		
+DADA Teacher	Friday	M3		4_G	
+DADA Teacher	Friday	M3		4_S	
+DADA Teacher	Friday	M4	DADA		
+DADA Teacher	Friday	M4		4_G	
+DADA Teacher	Friday	M4		4_S	
+DADA Teacher	Friday	Lunch			
+DADA Teacher	Friday	A1	DADA		
+DADA Teacher	Friday	A1		4_R	
+DADA Teacher	Friday	A1		4_H	
+DADA Teacher	Friday	A2	DADA		
+DADA Teacher	Friday	A2		2_R	
+DADA Teacher	Friday	A2		2_H	
+DADA Teacher	Friday	A3			
+Sprout	Monday	M1	Herbology		
+Sprout	Monday	M1		7	
+Sprout	Monday	M2	Herbology		
+Sprout	Monday	M2		3_G	
+Sprout	Monday	M2		3_H	
+Sprout	Monday	M3			
+Sprout	Monday	M4	Herbology		
+Sprout	Monday	M4		4_G	
+Sprout	Monday	M4		4_H	
+Sprout	Monday	Lunch			
+Sprout	Monday	A1	Herbology		
+Sprout	Monday	A1		1_G	
+Sprout	Monday	A1		1_H	
+Sprout	Monday	A2	Herbology		
+Sprout	Monday	A2		2_G	
+Sprout	Monday	A2		2_H	
+Sprout	Monday	A3	Herbology		
+Sprout	Monday	A3		4_S	
+Sprout	Monday	A3		4_R	
+Sprout	Tuesday	M1			
+Sprout	Tuesday	M2	Herbology		
+Sprout	Tuesday	M2		3_S	
+Sprout	Tuesday	M2		3_R	
+Sprout	Tuesday	M3	Herbology		
+Sprout	Tuesday	M3		6	
+Sprout	Tuesday	M4	Herbology		
+Sprout	Tuesday	M4		1_S	
+Sprout	Tuesday	M4		1_R	
+Sprout	Tuesday	Lunch			
+Sprout	Tuesday	A1	Herbology		
+Sprout	Tuesday	A1		5_S	
+Sprout	Tuesday	A1		5_R	
+Sprout	Tuesday	A2	Herbology		
+Sprout	Tuesday	A2		5_G	
+Sprout	Tuesday	A2		5_H	
+Sprout	Tuesday	A3	Herbology		
+Sprout	Tuesday	A3		5_G	
+Sprout	Tuesday	A3		5_H	
+Sprout	Wednesday	M1	Herbology		
+Sprout	Wednesday	M1		7	
+Sprout	Wednesday	M2	Herbology		
+Sprout	Wednesday	M2		3_G	
+Sprout	Wednesday	M2		3_H	
+Sprout	Wednesday	M3	Herbology		
+Sprout	Wednesday	M3		2_S	
+Sprout	Wednesday	M3		2_R	
+Sprout	Wednesday	M4			
+Sprout	Wednesday	Lunch			
+Sprout	Wednesday	A1	Herbology		
+Sprout	Wednesday	A1		1_G	
+Sprout	Wednesday	A1		1_H	
+Sprout	Wednesday	A2	Herbology		
+Sprout	Wednesday	A2		4_S	
+Sprout	Wednesday	A2		4_R	
+Sprout	Wednesday	A3	Herbology		
+Sprout	Wednesday	A3		4_G	
+Sprout	Wednesday	A3		4_H	
+Sprout	Thursday	M1	Herbology		
+Sprout	Thursday	M1		3_S	
+Sprout	Thursday	M1		3_R	
+Sprout	Thursday	M2	Herbology		
+Sprout	Thursday	M2		5_S	
+Sprout	Thursday	M2		5_R	
+Sprout	Thursday	M3	Herbology		
+Sprout	Thursday	M3		5_S	
+Sprout	Thursday	M3		5_R	
+Sprout	Thursday	M4	Herbology		
+Sprout	Thursday	M4		1_S	
+Sprout	Thursday	M4		1_R	
+Sprout	Thursday	Lunch			
+Sprout	Thursday	A1	Herbology		
+Sprout	Thursday	A1		2_G	
+Sprout	Thursday	A1		2_H	
+Sprout	Thursday	A2	Herbology		
+Sprout	Thursday	A2		2_G	
+Sprout	Thursday	A2		2_H	
+Sprout	Thursday	A3	Herbology		
+Sprout	Thursday	A3		5_G	
+Sprout	Thursday	A3		5_H	
+Sprout	Friday	M1	Herbology		
+Sprout	Friday	M1		4_S	
+Sprout	Friday	M1		4_R	
+Sprout	Friday	M2	Herbology		
+Sprout	Friday	M2		2_S	
+Sprout	Friday	M2		2_R	
+Sprout	Friday	M3	Herbology		
+Sprout	Friday	M3		2_S	
+Sprout	Friday	M3		2_R	
+Sprout	Friday	M4	Herbology		
+Sprout	Friday	M4		3_G	
+Sprout	Friday	M4		3_H	
+Sprout	Friday	Lunch			
+Sprout	Friday	A1	Herbology		
+Sprout	Friday	A1		6	
+Sprout	Friday	A2	Herbology		
+Sprout	Friday	A2		3_S	
+Sprout	Friday	A2		3_R	
+Sprout	Friday	A3	Herbology		
+Sprout	Friday	A3		4_G	
+Sprout	Friday	A3		4_H	
+Binns	Monday	M1			
+Binns	Monday	M2	History of Magic		
+Binns	Monday	M2		6	
+Binns	Monday	M3	History of Magic		
+Binns	Monday	M3		5_G	
+Binns	Monday	M3		5_R	
+Binns	Monday	M4	History of Magic		
+Binns	Monday	M4		5_G	
+Binns	Monday	M4		5_R	
+Binns	Monday	Lunch			
+Binns	Monday	A1	History of Magic		
+Binns	Monday	A1		2_S	
+Binns	Monday	A1		2_H	
+Binns	Monday	A2	History of Magic		
+Binns	Monday	A2		4_S	
+Binns	Monday	A2		4_H	
+Binns	Monday	A3			
+Binns	Tuesday	M1	History of Magic		
+Binns	Tuesday	M1		5_S	
+Binns	Tuesday	M1		5_H	
+Binns	Tuesday	M2	History of Magic		
+Binns	Tuesday	M2		7	
+Binns	Tuesday	M3	History of Magic		
+Binns	Tuesday	M3		1_S	
+Binns	Tuesday	M3		1_H	
+Binns	Tuesday	M4	History of Magic		
+Binns	Tuesday	M4		2_G	
+Binns	Tuesday	M4		2_R	
+Binns	Tuesday	Lunch			
+Binns	Tuesday	A1	History of Magic		
+Binns	Tuesday	A1		1_G	
+Binns	Tuesday	A1		1_R	
+Binns	Tuesday	A2			
+Binns	Tuesday	A3			
+Binns	Wednesday	M1	History of Magic		
+Binns	Wednesday	M1		4_G	
+Binns	Wednesday	M1		4_R	
+Binns	Wednesday	M2	History of Magic		
+Binns	Wednesday	M2		2_S	
+Binns	Wednesday	M2		2_H	
+Binns	Wednesday	M3	History of Magic		
+Binns	Wednesday	M3		3_S	
+Binns	Wednesday	M3		3_H	
+Binns	Wednesday	M4	History of Magic		
+Binns	Wednesday	M4		5_G	
+Binns	Wednesday	M4		5_R	
+Binns	Wednesday	Lunch			
+Binns	Wednesday	A1	History of Magic		
+Binns	Wednesday	A1		3_G	
+Binns	Wednesday	A1		3_R	
+Binns	Wednesday	A2			
+Binns	Wednesday	A3			
+Binns	Thursday	M1			
+Binns	Thursday	M2	History of Magic		
+Binns	Thursday	M2		6	
+Binns	Thursday	M3	History of Magic		
+Binns	Thursday	M3		1_G	
+Binns	Thursday	M3		1_R	
+Binns	Thursday	M4	History of Magic		
+Binns	Thursday	M4		2_G	
+Binns	Thursday	M4		2_R	
+Binns	Thursday	Lunch			
+Binns	Thursday	A1	History of Magic		
+Binns	Thursday	A1		5_S	
+Binns	Thursday	A1		5_H	
+Binns	Thursday	A2	History of Magic		
+Binns	Thursday	A2		5_S	
+Binns	Thursday	A2		5_H	
+Binns	Thursday	A3	History of Magic		
+Binns	Thursday	A3		4_S	
+Binns	Thursday	A3		4_H	
+Binns	Friday	M1	History of Magic		
+Binns	Friday	M1		3_S	
+Binns	Friday	M1		3_H	
+Binns	Friday	M2	History of Magic		
+Binns	Friday	M2		1_S	
+Binns	Friday	M2		1_H	
+Binns	Friday	M3	History of Magic		
+Binns	Friday	M3		7	
+Binns	Friday	M4			
+Binns	Friday	Lunch			
+Binns	Friday	A1	History of Magic		
+Binns	Friday	A1		3_G	
+Binns	Friday	A1		3_R	
+Binns	Friday	A2	History of Magic		
+Binns	Friday	A2		4_G	
+Binns	Friday	A2		4_R	
+Binns	Friday	A3			
+Hooch	Monday	M1			
+Hooch	Monday	M2			
+Hooch	Monday	M3			
+Hooch	Monday	M4			
+Hooch	Monday	Lunch			
+Hooch	Monday	A1			
+Hooch	Monday	A2			
+Hooch	Monday	A3			
+Hooch	Tuesday	M1			
+Hooch	Tuesday	M2			
+Hooch	Tuesday	M3			
+Hooch	Tuesday	M4			
+Hooch	Tuesday	Lunch			
+Hooch	Tuesday	A1			
+Hooch	Tuesday	A2			
+Hooch	Tuesday	A3			
+Hooch	Wednesday	M1			
+Hooch	Wednesday	M2			
+Hooch	Wednesday	M3			
+Hooch	Wednesday	M4			
+Hooch	Wednesday	Lunch			
+Hooch	Wednesday	A1			
+Hooch	Wednesday	A2			
+Hooch	Wednesday	A3			
+Hooch	Thursday	M1			
+Hooch	Thursday	M2			
+Hooch	Thursday	M3			
+Hooch	Thursday	M4			
+Hooch	Thursday	Lunch			
+Hooch	Thursday	A1	Flying		
+Hooch	Thursday	A1		1_G	
+Hooch	Thursday	A1		1_S	
+Hooch	Thursday	A2			
+Hooch	Thursday	A3			
+Hooch	Friday	M1			
+Hooch	Friday	M2			
+Hooch	Friday	M3			
+Hooch	Friday	M4			
+Hooch	Friday	Lunch			
+Hooch	Friday	A1	Flying		
+Hooch	Friday	A1		1_R	
+Hooch	Friday	A1		1_H	
+Hooch	Friday	A2			
+Hooch	Friday	A3			
+Vector	Monday	M1	Arithmancy		
+Vector	Monday	M1		4_S_Ar	
+Vector	Monday	M1		4_R_Ar	
+Vector	Monday	M1			4_E1
+Vector	Monday	M2	Arithmancy		
+Vector	Monday	M2		3_S_Ar	
+Vector	Monday	M2		3_R_Ar	
+Vector	Monday	M2			3_E1
+Vector	Monday	M3	Arithmancy		
+Vector	Monday	M3		3_G_Ar	
+Vector	Monday	M3		3_H_Ar	
+Vector	Monday	M3			3_E1
+Vector	Monday	M4			
+Vector	Monday	Lunch			
+Vector	Monday	A1	Arithmancy		
+Vector	Monday	A1		5_S_Ar	
+Vector	Monday	A1		5_R_Ar	
+Vector	Monday	A1			5_E1
+Vector	Monday	A2	Arithmancy		
+Vector	Monday	A2		6	
+Vector	Monday	A3	Arithmancy		
+Vector	Monday	A3		4_G_Ar	
+Vector	Monday	A3		4_H_Ar	
+Vector	Monday	A3			4_E1
+Vector	Tuesday	M1	Arithmancy		
+Vector	Tuesday	M1		7	
+Vector	Tuesday	M2			
+Vector	Tuesday	M3	Arithmancy		
+Vector	Tuesday	M3		3_S_Ar	
+Vector	Tuesday	M3		3_R_Ar	
+Vector	Tuesday	M3			3_E1
+Vector	Tuesday	M4			
+Vector	Tuesday	Lunch			
+Vector	Tuesday	A1	Arithmancy		
+Vector	Tuesday	A1		5_G_Ar	
+Vector	Tuesday	A1		5_H_Ar	
+Vector	Tuesday	A1			5_E1
+Vector	Tuesday	A2			
+Vector	Tuesday	A3			
+Vector	Wednesday	M1	Arithmancy		
+Vector	Wednesday	M1		5_S_Ar	
+Vector	Wednesday	M1		5_R_Ar	
+Vector	Wednesday	M1			5_E1
+Vector	Wednesday	M2	Arithmancy		
+Vector	Wednesday	M2		4_S_Ar	
+Vector	Wednesday	M2		4_R_Ar	
+Vector	Wednesday	M2			4_E1
+Vector	Wednesday	M3	Arithmancy		
+Vector	Wednesday	M3		4_S_Ar	
+Vector	Wednesday	M3		4_R_Ar	
+Vector	Wednesday	M3			4_E1
+Vector	Wednesday	M4	Arithmancy		
+Vector	Wednesday	M4		6	
+Vector	Wednesday	Lunch			
+Vector	Wednesday	A1	Arithmancy		
+Vector	Wednesday	A1		4_G_Ar	
+Vector	Wednesday	A1		4_H_Ar	
+Vector	Wednesday	A1			4_E1
+Vector	Wednesday	A2	Arithmancy		
+Vector	Wednesday	A2		4_G_Ar	
+Vector	Wednesday	A2		4_H_Ar	
+Vector	Wednesday	A2			4_E1
+Vector	Wednesday	A3			
+Vector	Thursday	M1			
+Vector	Thursday	M2	Arithmancy		
+Vector	Thursday	M2		3_G_Ar	
+Vector	Thursday	M2		3_H_Ar	
+Vector	Thursday	M2			3_E1
+Vector	Thursday	M3	Arithmancy		
+Vector	Thursday	M3		5_G_Ar	
+Vector	Thursday	M3		5_H_Ar	
+Vector	Thursday	M3			5_E1
+Vector	Thursday	M4	Arithmancy		
+Vector	Thursday	M4		5_G_Ar	
+Vector	Thursday	M4		5_H_Ar	
+Vector	Thursday	M4			5_E1
+Vector	Thursday	Lunch			
+Vector	Thursday	A1			
+Vector	Thursday	A2	Arithmancy		
+Vector	Thursday	A2		7	
+Vector	Thursday	A3			
+Vector	Friday	M1			
+Vector	Friday	M2	Arithmancy		
+Vector	Friday	M2		3_G_Ar	
+Vector	Friday	M2		3_H_Ar	
+Vector	Friday	M2			3_E1
+Vector	Friday	M3	Arithmancy		
+Vector	Friday	M3		6	
+Vector	Friday	M4	Arithmancy		
+Vector	Friday	M4		3_S_Ar	
+Vector	Friday	M4		3_R_Ar	
+Vector	Friday	M4			3_E1
+Vector	Friday	Lunch			
+Vector	Friday	A1	Arithmancy		
+Vector	Friday	A1		5_S_Ar	
+Vector	Friday	A1		5_R_Ar	
+Vector	Friday	A1			5_E1
+Vector	Friday	A2	Arithmancy		
+Vector	Friday	A2		7	
+Vector	Friday	A3			
+Burbage	Monday	M1	Muggle Studies		
+Burbage	Monday	M1		4_S_Mu	
+Burbage	Monday	M1		4_R_Mu	
+Burbage	Monday	M1			4_E1
+Burbage	Monday	M2	Muggle Studies		
+Burbage	Monday	M2		3_S_Mu	
+Burbage	Monday	M2		3_R_Mu	
+Burbage	Monday	M2			3_E1
+Burbage	Monday	M3	Muggle Studies		
+Burbage	Monday	M3		3_G_Mu	
+Burbage	Monday	M3		3_H_Mu	
+Burbage	Monday	M3			3_E1
+Burbage	Monday	M4	Muggle Studies		
+Burbage	Monday	M4		6	
+Burbage	Monday	Lunch			
+Burbage	Monday	A1			
+Burbage	Monday	A2			
+Burbage	Monday	A3	Muggle Studies		
+Burbage	Monday	A3		4_G_Mu	
+Burbage	Monday	A3		4_H_Mu	
+Burbage	Monday	A3			4_E1
+Burbage	Tuesday	M1			
+Burbage	Tuesday	M2	Muggle Studies		
+Burbage	Tuesday	M2		6	
+Burbage	Tuesday	M3			
+Burbage	Tuesday	M4			
+Burbage	Tuesday	Lunch			
+Burbage	Tuesday	A1	Muggle Studies		
+Burbage	Tuesday	A1		5_G_Mu	
+Burbage	Tuesday	A1		5_H_Mu	
+Burbage	Tuesday	A1			5_E1
+Burbage	Tuesday	A2			
+Burbage	Tuesday	A3	Muggle Studies		
+Burbage	Tuesday	A3		7	
+Burbage	Wednesday	M1	Muggle Studies		
+Burbage	Wednesday	M1		5_S_Mu	
+Burbage	Wednesday	M1		5_R_Mu	
+Burbage	Wednesday	M1			5_E1
+Burbage	Wednesday	M2			
+Burbage	Wednesday	M3	Muggle Studies		
+Burbage	Wednesday	M3		4_S_Mu	
+Burbage	Wednesday	M3		4_R_Mu	
+Burbage	Wednesday	M3			4_E1
+Burbage	Wednesday	M4			
+Burbage	Wednesday	Lunch			
+Burbage	Wednesday	A1	Muggle Studies		
+Burbage	Wednesday	A1		4_G_Mu	
+Burbage	Wednesday	A1		4_H_Mu	
+Burbage	Wednesday	A1			4_E1
+Burbage	Wednesday	A2			
+Burbage	Wednesday	A3			
+Burbage	Thursday	M1	Muggle Studies		
+Burbage	Thursday	M1		6	
+Burbage	Thursday	M2	Muggle Studies		
+Burbage	Thursday	M2		3_G_Mu	
+Burbage	Thursday	M2		3_H_Mu	
+Burbage	Thursday	M2			3_E1
+Burbage	Thursday	M3	Muggle Studies		
+Burbage	Thursday	M3		7	
+Burbage	Thursday	M4	Muggle Studies		
+Burbage	Thursday	M4		5_G_Mu	
+Burbage	Thursday	M4		5_H_Mu	
+Burbage	Thursday	M4			5_E1
+Burbage	Thursday	Lunch			
+Burbage	Thursday	A1			
+Burbage	Thursday	A2			
+Burbage	Thursday	A3			
+Burbage	Friday	M1	Muggle Studies		
+Burbage	Friday	M1		7	
+Burbage	Friday	M2			
+Burbage	Friday	M3			
+Burbage	Friday	M4	Muggle Studies		
+Burbage	Friday	M4		3_S_Mu	
+Burbage	Friday	M4		3_R_Mu	
+Burbage	Friday	M4			3_E1
+Burbage	Friday	Lunch			
+Burbage	Friday	A1	Muggle Studies		
+Burbage	Friday	A1		5_S_Mu	
+Burbage	Friday	A1		5_R_Mu	
+Burbage	Friday	A1			5_E1
+Burbage	Friday	A2			
+Burbage	Friday	A3			
+CoMC teacher	Monday	M1	Care of Magical Creatures		
+CoMC teacher	Monday	M1		6	
+CoMC teacher	Monday	M2	Care of Magical Creatures		
+CoMC teacher	Monday	M2		5_G_Ca	
+CoMC teacher	Monday	M2		5_S_Ca	
+CoMC teacher	Monday	M2			5_E3
+CoMC teacher	Monday	M3	Care of Magical Creatures		
+CoMC teacher	Monday	M3		4_G_Ca	
+CoMC teacher	Monday	M3		4_S_Ca	
+CoMC teacher	Monday	M3			4_E3
+CoMC teacher	Monday	M4	Care of Magical Creatures		
+CoMC teacher	Monday	M4		7	
+CoMC teacher	Monday	Lunch			
+CoMC teacher	Monday	A1	Care of Magical Creatures		
+CoMC teacher	Monday	A1		3_R_Ca	
+CoMC teacher	Monday	A1		3_H_Ca	
+CoMC teacher	Monday	A1			3_E3
+CoMC teacher	Monday	A2	Care of Magical Creatures		
+CoMC teacher	Monday	A2		3_R_Ca	
+CoMC teacher	Monday	A2		3_H_Ca	
+CoMC teacher	Monday	A2			3_E3
+CoMC teacher	Monday	A3			
+CoMC teacher	Tuesday	M1	Care of Magical Creatures		
+CoMC teacher	Tuesday	M1		4_G_Ca	
+CoMC teacher	Tuesday	M1		4_S_Ca	
+CoMC teacher	Tuesday	M1			4_E3
+CoMC teacher	Tuesday	M2			
+CoMC teacher	Tuesday	M3			
+CoMC teacher	Tuesday	M4			
+CoMC teacher	Tuesday	Lunch			
+CoMC teacher	Tuesday	A1	Care of Magical Creatures		
+CoMC teacher	Tuesday	A1		3_G_Ca	
+CoMC teacher	Tuesday	A1		3_S_Ca	
+CoMC teacher	Tuesday	A1			3_E3
+CoMC teacher	Tuesday	A2	Care of Magical Creatures		
+CoMC teacher	Tuesday	A2		3_G_Ca	
+CoMC teacher	Tuesday	A2		3_S_Ca	
+CoMC teacher	Tuesday	A2			3_E3
+CoMC teacher	Tuesday	A3	Care of Magical Creatures		
+CoMC teacher	Tuesday	A3		4_R_Ca	
+CoMC teacher	Tuesday	A3		4_H_Ca	
+CoMC teacher	Tuesday	A3			4_E3
+CoMC teacher	Wednesday	M1	Care of Magical Creatures		
+CoMC teacher	Wednesday	M1		3_R_Ca	
+CoMC teacher	Wednesday	M1		3_H_Ca	
+CoMC teacher	Wednesday	M1			3_E3
+CoMC teacher	Wednesday	M2	Care of Magical Creatures		
+CoMC teacher	Wednesday	M2		7	
+CoMC teacher	Wednesday	M3	Care of Magical Creatures		
+CoMC teacher	Wednesday	M3		6	
+CoMC teacher	Wednesday	M4	Care of Magical Creatures		
+CoMC teacher	Wednesday	M4		4_R_Ca	
+CoMC teacher	Wednesday	M4		4_H_Ca	
+CoMC teacher	Wednesday	M4			4_E3
+CoMC teacher	Wednesday	Lunch			
+CoMC teacher	Wednesday	A1	Care of Magical Creatures		
+CoMC teacher	Wednesday	A1		5_G_Ca	
+CoMC teacher	Wednesday	A1		5_S_Ca	
+CoMC teacher	Wednesday	A1			5_E3
+CoMC teacher	Wednesday	A2	Care of Magical Creatures		
+CoMC teacher	Wednesday	A2		5_R_Ca	
+CoMC teacher	Wednesday	A2		5_H_Ca	
+CoMC teacher	Wednesday	A2			5_E3
+CoMC teacher	Wednesday	A3	Care of Magical Creatures		
+CoMC teacher	Wednesday	A3		5_R_Ca	
+CoMC teacher	Wednesday	A3		5_H_Ca	
+CoMC teacher	Wednesday	A3			5_E3
+CoMC teacher	Thursday	M1	Care of Magical Creatures		
+CoMC teacher	Thursday	M1		4_G_Ca	
+CoMC teacher	Thursday	M1		4_S_Ca	
+CoMC teacher	Thursday	M1			4_E3
+CoMC teacher	Thursday	M2			
+CoMC teacher	Thursday	M3	Care of Magical Creatures		
+CoMC teacher	Thursday	M3		3_G_Ca	
+CoMC teacher	Thursday	M3		3_S_Ca	
+CoMC teacher	Thursday	M3			3_E3
+CoMC teacher	Thursday	M4	Care of Magical Creatures		
+CoMC teacher	Thursday	M4		3_G_Ca	
+CoMC teacher	Thursday	M4		3_S_Ca	
+CoMC teacher	Thursday	M4			3_E3
+CoMC teacher	Thursday	Lunch			
+CoMC teacher	Thursday	A1			
+CoMC teacher	Thursday	A2	Care of Magical Creatures		
+CoMC teacher	Thursday	A2		3_R_Ca	
+CoMC teacher	Thursday	A2		3_H_Ca	
+CoMC teacher	Thursday	A2			3_E3
+CoMC teacher	Thursday	A3			
+CoMC teacher	Friday	M1			
+CoMC teacher	Friday	M2	Care of Magical Creatures		
+CoMC teacher	Friday	M2		5_R_Ca	
+CoMC teacher	Friday	M2		5_H_Ca	
+CoMC teacher	Friday	M2			5_E3
+CoMC teacher	Friday	M3	Care of Magical Creatures		
+CoMC teacher	Friday	M3		5_G_Ca	
+CoMC teacher	Friday	M3		5_S_Ca	
+CoMC teacher	Friday	M3			5_E3
+CoMC teacher	Friday	M4	Care of Magical Creatures		
+CoMC teacher	Friday	M4		4_R_Ca	
+CoMC teacher	Friday	M4		4_H_Ca	
+CoMC teacher	Friday	M4			4_E3
+CoMC teacher	Friday	Lunch			
+CoMC teacher	Friday	A1	Care of Magical Creatures		
+CoMC teacher	Friday	A1		7	
+CoMC teacher	Friday	A2			
+CoMC teacher	Friday	A3	Care of Magical Creatures		
+CoMC teacher	Friday	A3		6	
+Div Teacher	Monday	M1	Divination		
+Div Teacher	Monday	M1		3_S_Di	
+Div Teacher	Monday	M1		3_H_Di	
+Div Teacher	Monday	M1			3_E2
+Div Teacher	Monday	M2	Divination		
+Div Teacher	Monday	M2		4_G_Di	
+Div Teacher	Monday	M2		4_R_Di	
+Div Teacher	Monday	M2			4_E2
+Div Teacher	Monday	M3	Divination		
+Div Teacher	Monday	M3		5_S_Di	
+Div Teacher	Monday	M3		5_H_Di	
+Div Teacher	Monday	M3			5_E2
+Div Teacher	Monday	M4	Divination		
+Div Teacher	Monday	M4		3_G_Di	
+Div Teacher	Monday	M4		3_R_Di	
+Div Teacher	Monday	M4			3_E2
+Div Teacher	Monday	Lunch			
+Div Teacher	Monday	A1			
+Div Teacher	Monday	A2			
+Div Teacher	Monday	A3			
+Div Teacher	Tuesday	M1			
+Div Teacher	Tuesday	M2			
+Div Teacher	Tuesday	M3	Divination		
+Div Teacher	Tuesday	M3		7	
+Div Teacher	Tuesday	M4	Divination		
+Div Teacher	Tuesday	M4		5_G_Di	
+Div Teacher	Tuesday	M4		5_R_Di	
+Div Teacher	Tuesday	M4			5_E2
+Div Teacher	Tuesday	Lunch			
+Div Teacher	Tuesday	A1	Divination		
+Div Teacher	Tuesday	A1		4_S_Di	
+Div Teacher	Tuesday	A1		4_H_Di	
+Div Teacher	Tuesday	A1			4_E2
+Div Teacher	Tuesday	A2	Divination		
+Div Teacher	Tuesday	A2		4_S_Di	
+Div Teacher	Tuesday	A2		4_H_Di	
+Div Teacher	Tuesday	A2			4_E2
+Div Teacher	Tuesday	A3			
+Div Teacher	Wednesday	M1			
+Div Teacher	Wednesday	M2	Divination		
+Div Teacher	Wednesday	M2		6	
+Div Teacher	Wednesday	M3	Divination		
+Div Teacher	Wednesday	M3		3_G_Di	
+Div Teacher	Wednesday	M3		3_R_Di	
+Div Teacher	Wednesday	M3			3_E2
+Div Teacher	Wednesday	M4			
+Div Teacher	Wednesday	Lunch			
+Div Teacher	Wednesday	A1			
+Div Teacher	Wednesday	A2	Divination		
+Div Teacher	Wednesday	A2		3_S_Di	
+Div Teacher	Wednesday	A2		3_H_Di	
+Div Teacher	Wednesday	A2			3_E2
+Div Teacher	Wednesday	A3			
+Div Teacher	Thursday	M1			
+Div Teacher	Thursday	M2			
+Div Teacher	Thursday	M3			
+Div Teacher	Thursday	M4	Divination		
+Div Teacher	Thursday	M4		7	
+Div Teacher	Thursday	Lunch			
+Div Teacher	Thursday	A1	Divination		
+Div Teacher	Thursday	A1		4_S_Di	
+Div Teacher	Thursday	A1		4_H_Di	
+Div Teacher	Thursday	A1			4_E2
+Div Teacher	Thursday	A2	Divination		
+Div Teacher	Thursday	A2		4_G_Di	
+Div Teacher	Thursday	A2		4_R_Di	
+Div Teacher	Thursday	A2			4_E2
+Div Teacher	Thursday	A3	Divination		
+Div Teacher	Thursday	A3		4_G_Di	
+Div Teacher	Thursday	A3		4_R_Di	
+Div Teacher	Thursday	A3			4_E2
+Div Teacher	Friday	M1	Divination		
+Div Teacher	Friday	M1		3_G_Di	
+Div Teacher	Friday	M1		3_R_Di	
+Div Teacher	Friday	M1			3_E2
+Div Teacher	Friday	M2			
+Div Teacher	Friday	M3	Divination		
+Div Teacher	Friday	M3		3_S_Di	
+Div Teacher	Friday	M3		3_H_Di	
+Div Teacher	Friday	M3			3_E2
+Div Teacher	Friday	M4	Divination		
+Div Teacher	Friday	M4		6	
+Div Teacher	Friday	Lunch			
+Div Teacher	Friday	A1			
+Div Teacher	Friday	A2	Divination		
+Div Teacher	Friday	A2		5_S_Di	
+Div Teacher	Friday	A2		5_H_Di	
+Div Teacher	Friday	A2			5_E2
+Div Teacher	Friday	A3	Divination		
+Div Teacher	Friday	A3		5_G_Di	
+Div Teacher	Friday	A3		5_R_Di	
+Div Teacher	Friday	A3			5_E2
+Batsheda Babbling	Monday	M1	Runes		
+Batsheda Babbling	Monday	M1		3_S_Ru	
+Batsheda Babbling	Monday	M1		3_H_Ru	
+Batsheda Babbling	Monday	M1			3_E2
+Batsheda Babbling	Monday	M2	Runes		
+Batsheda Babbling	Monday	M2		4_G_Ru	
+Batsheda Babbling	Monday	M2		4_R_Ru	
+Batsheda Babbling	Monday	M2			4_E2
+Batsheda Babbling	Monday	M3	Runes		
+Batsheda Babbling	Monday	M3		6	
+Batsheda Babbling	Monday	M4	Runes		
+Batsheda Babbling	Monday	M4		3_G_Ru	
+Batsheda Babbling	Monday	M4		3_R_Ru	
+Batsheda Babbling	Monday	M4			3_E2
+Batsheda Babbling	Monday	Lunch			
+Batsheda Babbling	Monday	A1			
+Batsheda Babbling	Monday	A2	Runes		
+Batsheda Babbling	Monday	A2		7	
+Batsheda Babbling	Monday	A3			
+Batsheda Babbling	Tuesday	M1			
+Batsheda Babbling	Tuesday	M2	Runes		
+Batsheda Babbling	Tuesday	M2		5_S_Ru	
+Batsheda Babbling	Tuesday	M2		5_H_Ru	
+Batsheda Babbling	Tuesday	M2			5_E2
+Batsheda Babbling	Tuesday	M3	Runes		
+Batsheda Babbling	Tuesday	M3		5_S_Ru	
+Batsheda Babbling	Tuesday	M3		5_H_Ru	
+Batsheda Babbling	Tuesday	M3			5_E2
+Batsheda Babbling	Tuesday	M4	Runes		
+Batsheda Babbling	Tuesday	M4		5_G_Ru	
+Batsheda Babbling	Tuesday	M4		5_R_Ru	
+Batsheda Babbling	Tuesday	M4			5_E2
+Batsheda Babbling	Tuesday	Lunch			
+Batsheda Babbling	Tuesday	A1	Runes		
+Batsheda Babbling	Tuesday	A1		4_S_Ru	
+Batsheda Babbling	Tuesday	A1		4_H_Ru	
+Batsheda Babbling	Tuesday	A1			4_E2
+Batsheda Babbling	Tuesday	A2	Runes		
+Batsheda Babbling	Tuesday	A2		4_S_Ru	
+Batsheda Babbling	Tuesday	A2		4_H_Ru	
+Batsheda Babbling	Tuesday	A2			4_E2
+Batsheda Babbling	Tuesday	A3			
+Batsheda Babbling	Wednesday	M1			
+Batsheda Babbling	Wednesday	M2			
+Batsheda Babbling	Wednesday	M3	Runes		
+Batsheda Babbling	Wednesday	M3		3_G_Ru	
+Batsheda Babbling	Wednesday	M3		3_R_Ru	
+Batsheda Babbling	Wednesday	M3			3_E2
+Batsheda Babbling	Wednesday	M4	Runes		
+Batsheda Babbling	Wednesday	M4		7	
+Batsheda Babbling	Wednesday	Lunch			
+Batsheda Babbling	Wednesday	A1	Runes		
+Batsheda Babbling	Wednesday	A1		6	
+Batsheda Babbling	Wednesday	A2	Runes		
+Batsheda Babbling	Wednesday	A2		3_S_Ru	
+Batsheda Babbling	Wednesday	A2		3_H_Ru	
+Batsheda Babbling	Wednesday	A2			3_E2
+Batsheda Babbling	Wednesday	A3			
+Batsheda Babbling	Thursday	M1	Runes		
+Batsheda Babbling	Thursday	M1		5_G_Ru	
+Batsheda Babbling	Thursday	M1		5_R_Ru	
+Batsheda Babbling	Thursday	M1			5_E2
+Batsheda Babbling	Thursday	M2			
+Batsheda Babbling	Thursday	M3			
+Batsheda Babbling	Thursday	M4			
+Batsheda Babbling	Thursday	Lunch			
+Batsheda Babbling	Thursday	A1	Runes		
+Batsheda Babbling	Thursday	A1		4_S_Ru	
+Batsheda Babbling	Thursday	A1		4_H_Ru	
+Batsheda Babbling	Thursday	A1			4_E2
+Batsheda Babbling	Thursday	A2	Runes		
+Batsheda Babbling	Thursday	A2		4_G_Ru	
+Batsheda Babbling	Thursday	A2		4_R_Ru	
+Batsheda Babbling	Thursday	A2			4_E2
+Batsheda Babbling	Thursday	A3	Runes		
+Batsheda Babbling	Thursday	A3		4_G_Ru	
+Batsheda Babbling	Thursday	A3		4_R_Ru	
+Batsheda Babbling	Thursday	A3			4_E2
+Batsheda Babbling	Friday	M1	Runes		
+Batsheda Babbling	Friday	M1		3_G_Ru	
+Batsheda Babbling	Friday	M1		3_R_Ru	
+Batsheda Babbling	Friday	M1			3_E2
+Batsheda Babbling	Friday	M2	Runes		
+Batsheda Babbling	Friday	M2		7	
+Batsheda Babbling	Friday	M3	Runes		
+Batsheda Babbling	Friday	M3		3_S_Ru	
+Batsheda Babbling	Friday	M3		3_H_Ru	
+Batsheda Babbling	Friday	M3			3_E2
+Batsheda Babbling	Friday	M4	Runes		
+Batsheda Babbling	Friday	M4		5_S_Ru	
+Batsheda Babbling	Friday	M4		5_H_Ru	
+Batsheda Babbling	Friday	M4			5_E2
+Batsheda Babbling	Friday	Lunch			
+Batsheda Babbling	Friday	A1			
+Batsheda Babbling	Friday	A2	Runes		
+Batsheda Babbling	Friday	A2		6	
+Batsheda Babbling	Friday	A3	Runes		
+Batsheda Babbling	Friday	A3		5_G_Ru	
+Batsheda Babbling	Friday	A3		5_R_Ru	
+Batsheda Babbling	Friday	A3			5_E2

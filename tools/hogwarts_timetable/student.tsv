@@ -1,0 +1,36 @@
+Hour	1G	1S	1R	1H	2G	2S	2R	2H	3G	3S	3R	3H	4G	4S	4R	4H	5G	5S	5R	5H	6	7
+Monday,M1									Charms	Runes, Divination	Charms	Runes, Divination	Transfiguration	Arithmancy, Muggle Studies	Arithmancy, Muggle Studies	Transfiguration	DADA	DADA	Potions	Potions	Care of Magical Creatures	Herbology
+Monday,M2							DADA	DADA	Herbology	Arithmancy, Muggle Studies	Arithmancy, Muggle Studies	Herbology	Runes, Divination	Charms	Runes, Divination	Charms	Care of Magical Creatures	Care of Magical Creatures	Potions	Potions	History of Magic	
+Monday,M3			Potions	Potions	Charms		Charms		Arithmancy, Muggle Studies	Transfiguration	Transfiguration	Arithmancy, Muggle Studies	Care of Magical Creatures	Care of Magical Creatures			History of Magic	Divination	History of Magic	Divination	Runes	DADA
+Monday,M4	DADA	DADA	Potions	Potions	Transfiguration			Transfiguration	Runes, Divination	Charms	Runes, Divination	Charms	Herbology			Herbology	History of Magic		History of Magic		Muggle Studies	Care of Magical Creatures
+Monday,A1	Herbology			Herbology		History of Magic		History of Magic	Potions	Potions	Care of Magical Creatures	Care of Magical Creatures		Transfiguration	Transfiguration			Arithmancy	Arithmancy		DADA	Charms
+Monday,A2					Herbology	Transfiguration	Transfiguration	Herbology	Potions	Potions	Care of Magical Creatures	Care of Magical Creatures	Charms	History of Magic	Charms	History of Magic			DADA	DADA	Arithmancy	Runes
+Monday,A3													Arithmancy, Muggle Studies	Herbology	Herbology	Arithmancy, Muggle Studies	Potions	Potions	DADA	DADA	Charms	Transfiguration
+Tuesday,M1											DADA	DADA	Care of Magical Creatures	Care of Magical Creatures	Potions	Potions	Charms	History of Magic	Charms	History of Magic	Transfiguration	Arithmancy
+Tuesday,M2							Potions	Potions	Transfiguration	Herbology	Herbology	Transfiguration			DADA	DADA	Charms	Runes	Charms	Runes	Muggle Studies	History of Magic
+Tuesday,M3	Charms	History of Magic	Charms	History of Magic			Potions	Potions	Transfiguration	Arithmancy	Arithmancy	Transfiguration			DADA	DADA		Runes		Runes	Herbology	Divination
+Tuesday,M4	Transfiguration	Herbology	Herbology	Transfiguration	History of Magic	Charms	History of Magic	Charms	DADA	DADA			Potions	Potions			Runes, Divination		Runes, Divination			
+Tuesday,A1	History of Magic	Charms	History of Magic	Charms	DADA	DADA			Care of Magical Creatures	Care of Magical Creatures	Potions	Potions		Runes, Divination		Runes, Divination	Arithmancy, Muggle Studies	Herbology	Herbology	Arithmancy, Muggle Studies		Transfiguration
+Tuesday,A2					DADA	DADA			Care of Magical Creatures	Care of Magical Creatures	Potions	Potions	Charms	Runes, Divination	Charms	Runes, Divination	Herbology	Transfiguration	Transfiguration	Herbology		
+Tuesday,A3													DADA	DADA	Care of Magical Creatures	Care of Magical Creatures	Herbology	Transfiguration	Transfiguration	Herbology	Potions	Muggle Studies
+Wednesday,M1									Potions	Potions	Care of Magical Creatures	Care of Magical Creatures	History of Magic	Charms	History of Magic	Charms	Transfiguration	Arithmancy, Muggle Studies	Arithmancy, Muggle Studies	Transfiguration	DADA	Herbology
+Wednesday,M2	Potions	Potions	DADA	DADA	Charms	History of Magic	Charms	History of Magic	Herbology			Herbology		Arithmancy	Arithmancy		Transfiguration			Transfiguration	Divination	Care of Magical Creatures
+Wednesday,M3	Potions	Potions				Herbology	Herbology		Runes, Divination	History of Magic	Runes, Divination	History of Magic	Transfiguration	Arithmancy, Muggle Studies	Arithmancy, Muggle Studies	Transfiguration		Charms		Charms	Care of Magical Creatures	DADA
+Wednesday,M4							Potions	Potions		Transfiguration	Transfiguration				Care of Magical Creatures	Care of Magical Creatures	History of Magic	Charms	History of Magic	Charms	Arithmancy	Runes
+Wednesday,A1	Herbology	Transfiguration	Transfiguration	Herbology	Potions	Potions	DADA	DADA	History of Magic	Charms	History of Magic	Charms	Arithmancy, Muggle Studies			Arithmancy, Muggle Studies	Care of Magical Creatures	Care of Magical Creatures			Runes	
+Wednesday,A2					Transfiguration			Transfiguration	Charms	Runes, Divination	Charms	Runes, Divination	Arithmancy	Herbology	Herbology	Arithmancy	DADA	DADA	Care of Magical Creatures	Care of Magical Creatures		Potions
+Wednesday,A3													Herbology	Transfiguration	Transfiguration	Herbology	DADA	DADA	Care of Magical Creatures	Care of Magical Creatures	Charms	Potions
+Thursday,M1										Herbology	Herbology		Care of Magical Creatures	Care of Magical Creatures	Potions	Potions	Runes		Runes		Muggle Studies	Transfiguration
+Thursday,M2	Transfiguration			Transfiguration	DADA	DADA			Arithmancy, Muggle Studies			Arithmancy, Muggle Studies			Potions	Potions		Herbology	Herbology		History of Magic	Charms
+Thursday,M3	History of Magic	Charms	History of Magic	Charms					Care of Magical Creatures	Care of Magical Creatures	DADA	DADA	Potions	Potions			Arithmancy	Herbology	Herbology	Arithmancy	Transfiguration	Muggle Studies
+Thursday,M4		Herbology	Herbology		History of Magic	Charms	History of Magic	Charms	Care of Magical Creatures	Care of Magical Creatures	DADA	DADA	Potions	Potions			Arithmancy, Muggle Studies			Arithmancy, Muggle Studies	Transfiguration	Divination
+Thursday,A1	Flying	Flying			Herbology	Transfiguration	Transfiguration	Herbology	DADA	DADA	Potions	Potions	Charms	Runes, Divination	Charms	Runes, Divination		History of Magic		History of Magic		
+Thursday,A2					Herbology	Transfiguration	Transfiguration	Herbology	DADA	DADA	Care of Magical Creatures	Care of Magical Creatures	Runes, Divination		Runes, Divination		Charms	History of Magic	Charms	History of Magic	Potions	Arithmancy
+Thursday,A3													Runes, Divination	History of Magic	Runes, Divination	History of Magic	Herbology	Transfiguration	Transfiguration	Herbology	Potions	DADA
+Friday,M1									Runes, Divination	History of Magic	Runes, Divination	History of Magic	Transfiguration	Herbology	Herbology	Transfiguration	Potions	Potions	DADA	DADA	Charms	Muggle Studies
+Friday,M2	Charms	History of Magic	Charms	History of Magic		Herbology	Herbology		Arithmancy	Transfiguration	Transfiguration	Arithmancy					Potions	Potions	Care of Magical Creatures	Care of Magical Creatures	DADA	Runes
+Friday,M3					Transfiguration	Herbology	Herbology	Transfiguration	Charms	Runes, Divination	Charms	Runes, Divination	DADA	DADA			Care of Magical Creatures	Care of Magical Creatures	Potions	Potions	Arithmancy	History of Magic
+Friday,M4		Transfiguration	Transfiguration						Herbology	Arithmancy, Muggle Studies	Arithmancy, Muggle Studies	Herbology	DADA	DADA	Care of Magical Creatures	Care of Magical Creatures		Runes		Runes	Divination	Charms
+Friday,A1			Flying	Flying	Potions	Potions			History of Magic	Charms	History of Magic	Charms			DADA	DADA	Transfiguration	Arithmancy, Muggle Studies	Arithmancy, Muggle Studies	Transfiguration	Herbology	Care of Magical Creatures
+Friday,A2					Potions	Potions	DADA	DADA	Transfiguration	Herbology	Herbology	Transfiguration	History of Magic	Charms	History of Magic	Charms		Divination		Divination	Runes	Arithmancy
+Friday,A3													Herbology	Transfiguration	Transfiguration	Herbology	Runes, Divination	Charms	Runes, Divination	Charms	Care of Magical Creatures	Potions

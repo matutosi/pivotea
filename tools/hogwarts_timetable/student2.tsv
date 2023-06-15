@@ -1,0 +1,2801 @@
+Subgroup	Day	Hour	Teacher	Subject	Room
+1_G Automatic Subgroup	Monday	M1			
+1_G Automatic Subgroup	Monday	M2			
+1_G Automatic Subgroup	Monday	M3			
+1_G Automatic Subgroup	Monday	M4	DADA Teacher	DADA	
+1_G Automatic Subgroup	Monday	Lunch			
+1_G Automatic Subgroup	Monday	A1	Sprout	Herbology	
+1_G Automatic Subgroup	Monday	A2			
+1_G Automatic Subgroup	Monday	A3			
+1_G Automatic Subgroup	Tuesday	M1			
+1_G Automatic Subgroup	Tuesday	M2			
+1_G Automatic Subgroup	Tuesday	M3	Flitwick	Charms	
+1_G Automatic Subgroup	Tuesday	M4	McGonagall	Transfiguration	
+1_G Automatic Subgroup	Tuesday	Lunch			
+1_G Automatic Subgroup	Tuesday	A1	Binns	History of Magic	
+1_G Automatic Subgroup	Tuesday	A2			
+1_G Automatic Subgroup	Tuesday	A3			
+1_G Automatic Subgroup	Wednesday	M1			
+1_G Automatic Subgroup	Wednesday	M2	Snape	Potions	
+1_G Automatic Subgroup	Wednesday	M3	Snape	Potions	
+1_G Automatic Subgroup	Wednesday	M4			
+1_G Automatic Subgroup	Wednesday	Lunch			
+1_G Automatic Subgroup	Wednesday	A1	Sprout	Herbology	
+1_G Automatic Subgroup	Wednesday	A2			
+1_G Automatic Subgroup	Wednesday	A3			
+1_G Automatic Subgroup	Thursday	M1			
+1_G Automatic Subgroup	Thursday	M2	McGonagall	Transfiguration	
+1_G Automatic Subgroup	Thursday	M3	Binns	History of Magic	
+1_G Automatic Subgroup	Thursday	M4			
+1_G Automatic Subgroup	Thursday	Lunch			
+1_G Automatic Subgroup	Thursday	A1	Hooch	Flying	
+1_G Automatic Subgroup	Thursday	A2			
+1_G Automatic Subgroup	Thursday	A3			
+1_G Automatic Subgroup	Friday	M1			
+1_G Automatic Subgroup	Friday	M2	Flitwick	Charms	
+1_G Automatic Subgroup	Friday	M3			
+1_G Automatic Subgroup	Friday	M4			
+1_G Automatic Subgroup	Friday	Lunch			
+1_G Automatic Subgroup	Friday	A1			
+1_G Automatic Subgroup	Friday	A2			
+1_G Automatic Subgroup	Friday	A3			
+1_S Automatic Subgroup	Monday	M1			
+1_S Automatic Subgroup	Monday	M2			
+1_S Automatic Subgroup	Monday	M3			
+1_S Automatic Subgroup	Monday	M4	DADA Teacher	DADA	
+1_S Automatic Subgroup	Monday	Lunch			
+1_S Automatic Subgroup	Monday	A1			
+1_S Automatic Subgroup	Monday	A2			
+1_S Automatic Subgroup	Monday	A3			
+1_S Automatic Subgroup	Tuesday	M1			
+1_S Automatic Subgroup	Tuesday	M2			
+1_S Automatic Subgroup	Tuesday	M3	Binns	History of Magic	
+1_S Automatic Subgroup	Tuesday	M4	Sprout	Herbology	
+1_S Automatic Subgroup	Tuesday	Lunch			
+1_S Automatic Subgroup	Tuesday	A1	Flitwick	Charms	
+1_S Automatic Subgroup	Tuesday	A2			
+1_S Automatic Subgroup	Tuesday	A3			
+1_S Automatic Subgroup	Wednesday	M1			
+1_S Automatic Subgroup	Wednesday	M2	Snape	Potions	
+1_S Automatic Subgroup	Wednesday	M3	Snape	Potions	
+1_S Automatic Subgroup	Wednesday	M4			
+1_S Automatic Subgroup	Wednesday	Lunch			
+1_S Automatic Subgroup	Wednesday	A1	McGonagall	Transfiguration	
+1_S Automatic Subgroup	Wednesday	A2			
+1_S Automatic Subgroup	Wednesday	A3			
+1_S Automatic Subgroup	Thursday	M1			
+1_S Automatic Subgroup	Thursday	M2			
+1_S Automatic Subgroup	Thursday	M3	Flitwick	Charms	
+1_S Automatic Subgroup	Thursday	M4	Sprout	Herbology	
+1_S Automatic Subgroup	Thursday	Lunch			
+1_S Automatic Subgroup	Thursday	A1	Hooch	Flying	
+1_S Automatic Subgroup	Thursday	A2			
+1_S Automatic Subgroup	Thursday	A3			
+1_S Automatic Subgroup	Friday	M1			
+1_S Automatic Subgroup	Friday	M2	Binns	History of Magic	
+1_S Automatic Subgroup	Friday	M3			
+1_S Automatic Subgroup	Friday	M4	McGonagall	Transfiguration	
+1_S Automatic Subgroup	Friday	Lunch			
+1_S Automatic Subgroup	Friday	A1			
+1_S Automatic Subgroup	Friday	A2			
+1_S Automatic Subgroup	Friday	A3			
+1_R Automatic Subgroup	Monday	M1			
+1_R Automatic Subgroup	Monday	M2			
+1_R Automatic Subgroup	Monday	M3	Snape	Potions	
+1_R Automatic Subgroup	Monday	M4	Snape	Potions	
+1_R Automatic Subgroup	Monday	Lunch			
+1_R Automatic Subgroup	Monday	A1			
+1_R Automatic Subgroup	Monday	A2			
+1_R Automatic Subgroup	Monday	A3			
+1_R Automatic Subgroup	Tuesday	M1			
+1_R Automatic Subgroup	Tuesday	M2			
+1_R Automatic Subgroup	Tuesday	M3	Flitwick	Charms	
+1_R Automatic Subgroup	Tuesday	M4	Sprout	Herbology	
+1_R Automatic Subgroup	Tuesday	Lunch			
+1_R Automatic Subgroup	Tuesday	A1	Binns	History of Magic	
+1_R Automatic Subgroup	Tuesday	A2			
+1_R Automatic Subgroup	Tuesday	A3			
+1_R Automatic Subgroup	Wednesday	M1			
+1_R Automatic Subgroup	Wednesday	M2	DADA Teacher	DADA	
+1_R Automatic Subgroup	Wednesday	M3			
+1_R Automatic Subgroup	Wednesday	M4			
+1_R Automatic Subgroup	Wednesday	Lunch			
+1_R Automatic Subgroup	Wednesday	A1	McGonagall	Transfiguration	
+1_R Automatic Subgroup	Wednesday	A2			
+1_R Automatic Subgroup	Wednesday	A3			
+1_R Automatic Subgroup	Thursday	M1			
+1_R Automatic Subgroup	Thursday	M2			
+1_R Automatic Subgroup	Thursday	M3	Binns	History of Magic	
+1_R Automatic Subgroup	Thursday	M4	Sprout	Herbology	
+1_R Automatic Subgroup	Thursday	Lunch			
+1_R Automatic Subgroup	Thursday	A1			
+1_R Automatic Subgroup	Thursday	A2			
+1_R Automatic Subgroup	Thursday	A3			
+1_R Automatic Subgroup	Friday	M1			
+1_R Automatic Subgroup	Friday	M2	Flitwick	Charms	
+1_R Automatic Subgroup	Friday	M3			
+1_R Automatic Subgroup	Friday	M4	McGonagall	Transfiguration	
+1_R Automatic Subgroup	Friday	Lunch			
+1_R Automatic Subgroup	Friday	A1	Hooch	Flying	
+1_R Automatic Subgroup	Friday	A2			
+1_R Automatic Subgroup	Friday	A3			
+1_H Automatic Subgroup	Monday	M1			
+1_H Automatic Subgroup	Monday	M2			
+1_H Automatic Subgroup	Monday	M3	Snape	Potions	
+1_H Automatic Subgroup	Monday	M4	Snape	Potions	
+1_H Automatic Subgroup	Monday	Lunch			
+1_H Automatic Subgroup	Monday	A1	Sprout	Herbology	
+1_H Automatic Subgroup	Monday	A2			
+1_H Automatic Subgroup	Monday	A3			
+1_H Automatic Subgroup	Tuesday	M1			
+1_H Automatic Subgroup	Tuesday	M2			
+1_H Automatic Subgroup	Tuesday	M3	Binns	History of Magic	
+1_H Automatic Subgroup	Tuesday	M4	McGonagall	Transfiguration	
+1_H Automatic Subgroup	Tuesday	Lunch			
+1_H Automatic Subgroup	Tuesday	A1	Flitwick	Charms	
+1_H Automatic Subgroup	Tuesday	A2			
+1_H Automatic Subgroup	Tuesday	A3			
+1_H Automatic Subgroup	Wednesday	M1			
+1_H Automatic Subgroup	Wednesday	M2	DADA Teacher	DADA	
+1_H Automatic Subgroup	Wednesday	M3			
+1_H Automatic Subgroup	Wednesday	M4			
+1_H Automatic Subgroup	Wednesday	Lunch			
+1_H Automatic Subgroup	Wednesday	A1	Sprout	Herbology	
+1_H Automatic Subgroup	Wednesday	A2			
+1_H Automatic Subgroup	Wednesday	A3			
+1_H Automatic Subgroup	Thursday	M1			
+1_H Automatic Subgroup	Thursday	M2	McGonagall	Transfiguration	
+1_H Automatic Subgroup	Thursday	M3	Flitwick	Charms	
+1_H Automatic Subgroup	Thursday	M4			
+1_H Automatic Subgroup	Thursday	Lunch			
+1_H Automatic Subgroup	Thursday	A1			
+1_H Automatic Subgroup	Thursday	A2			
+1_H Automatic Subgroup	Thursday	A3			
+1_H Automatic Subgroup	Friday	M1			
+1_H Automatic Subgroup	Friday	M2	Binns	History of Magic	
+1_H Automatic Subgroup	Friday	M3			
+1_H Automatic Subgroup	Friday	M4			
+1_H Automatic Subgroup	Friday	Lunch			
+1_H Automatic Subgroup	Friday	A1	Hooch	Flying	
+1_H Automatic Subgroup	Friday	A2			
+1_H Automatic Subgroup	Friday	A3			
+2_G Automatic Subgroup	Monday	M1			
+2_G Automatic Subgroup	Monday	M2			
+2_G Automatic Subgroup	Monday	M3	Flitwick	Charms	
+2_G Automatic Subgroup	Monday	M4	McGonagall	Transfiguration	
+2_G Automatic Subgroup	Monday	Lunch			
+2_G Automatic Subgroup	Monday	A1			
+2_G Automatic Subgroup	Monday	A2	Sprout	Herbology	
+2_G Automatic Subgroup	Monday	A3			
+2_G Automatic Subgroup	Tuesday	M1			
+2_G Automatic Subgroup	Tuesday	M2			
+2_G Automatic Subgroup	Tuesday	M3			
+2_G Automatic Subgroup	Tuesday	M4	Binns	History of Magic	
+2_G Automatic Subgroup	Tuesday	Lunch			
+2_G Automatic Subgroup	Tuesday	A1	DADA Teacher	DADA	
+2_G Automatic Subgroup	Tuesday	A2	DADA Teacher	DADA	
+2_G Automatic Subgroup	Tuesday	A3			
+2_G Automatic Subgroup	Wednesday	M1			
+2_G Automatic Subgroup	Wednesday	M2	Flitwick	Charms	
+2_G Automatic Subgroup	Wednesday	M3			
+2_G Automatic Subgroup	Wednesday	M4			
+2_G Automatic Subgroup	Wednesday	Lunch			
+2_G Automatic Subgroup	Wednesday	A1	Snape	Potions	
+2_G Automatic Subgroup	Wednesday	A2	McGonagall	Transfiguration	
+2_G Automatic Subgroup	Wednesday	A3			
+2_G Automatic Subgroup	Thursday	M1			
+2_G Automatic Subgroup	Thursday	M2	DADA Teacher	DADA	
+2_G Automatic Subgroup	Thursday	M3			
+2_G Automatic Subgroup	Thursday	M4	Binns	History of Magic	
+2_G Automatic Subgroup	Thursday	Lunch			
+2_G Automatic Subgroup	Thursday	A1	Sprout	Herbology	
+2_G Automatic Subgroup	Thursday	A2	Sprout	Herbology	
+2_G Automatic Subgroup	Thursday	A3			
+2_G Automatic Subgroup	Friday	M1			
+2_G Automatic Subgroup	Friday	M2			
+2_G Automatic Subgroup	Friday	M3	McGonagall	Transfiguration	
+2_G Automatic Subgroup	Friday	M4			
+2_G Automatic Subgroup	Friday	Lunch			
+2_G Automatic Subgroup	Friday	A1	Snape	Potions	
+2_G Automatic Subgroup	Friday	A2	Snape	Potions	
+2_G Automatic Subgroup	Friday	A3			
+2_S Automatic Subgroup	Monday	M1			
+2_S Automatic Subgroup	Monday	M2			
+2_S Automatic Subgroup	Monday	M3			
+2_S Automatic Subgroup	Monday	M4			
+2_S Automatic Subgroup	Monday	Lunch			
+2_S Automatic Subgroup	Monday	A1	Binns	History of Magic	
+2_S Automatic Subgroup	Monday	A2	McGonagall	Transfiguration	
+2_S Automatic Subgroup	Monday	A3			
+2_S Automatic Subgroup	Tuesday	M1			
+2_S Automatic Subgroup	Tuesday	M2			
+2_S Automatic Subgroup	Tuesday	M3			
+2_S Automatic Subgroup	Tuesday	M4	Flitwick	Charms	
+2_S Automatic Subgroup	Tuesday	Lunch			
+2_S Automatic Subgroup	Tuesday	A1	DADA Teacher	DADA	
+2_S Automatic Subgroup	Tuesday	A2	DADA Teacher	DADA	
+2_S Automatic Subgroup	Tuesday	A3			
+2_S Automatic Subgroup	Wednesday	M1			
+2_S Automatic Subgroup	Wednesday	M2	Binns	History of Magic	
+2_S Automatic Subgroup	Wednesday	M3	Sprout	Herbology	
+2_S Automatic Subgroup	Wednesday	M4			
+2_S Automatic Subgroup	Wednesday	Lunch			
+2_S Automatic Subgroup	Wednesday	A1	Snape	Potions	
+2_S Automatic Subgroup	Wednesday	A2			
+2_S Automatic Subgroup	Wednesday	A3			
+2_S Automatic Subgroup	Thursday	M1			
+2_S Automatic Subgroup	Thursday	M2	DADA Teacher	DADA	
+2_S Automatic Subgroup	Thursday	M3			
+2_S Automatic Subgroup	Thursday	M4	Flitwick	Charms	
+2_S Automatic Subgroup	Thursday	Lunch			
+2_S Automatic Subgroup	Thursday	A1	McGonagall	Transfiguration	
+2_S Automatic Subgroup	Thursday	A2	McGonagall	Transfiguration	
+2_S Automatic Subgroup	Thursday	A3			
+2_S Automatic Subgroup	Friday	M1			
+2_S Automatic Subgroup	Friday	M2	Sprout	Herbology	
+2_S Automatic Subgroup	Friday	M3	Sprout	Herbology	
+2_S Automatic Subgroup	Friday	M4			
+2_S Automatic Subgroup	Friday	Lunch			
+2_S Automatic Subgroup	Friday	A1	Snape	Potions	
+2_S Automatic Subgroup	Friday	A2	Snape	Potions	
+2_S Automatic Subgroup	Friday	A3			
+2_R Automatic Subgroup	Monday	M1			
+2_R Automatic Subgroup	Monday	M2	DADA Teacher	DADA	
+2_R Automatic Subgroup	Monday	M3	Flitwick	Charms	
+2_R Automatic Subgroup	Monday	M4			
+2_R Automatic Subgroup	Monday	Lunch			
+2_R Automatic Subgroup	Monday	A1			
+2_R Automatic Subgroup	Monday	A2	McGonagall	Transfiguration	
+2_R Automatic Subgroup	Monday	A3			
+2_R Automatic Subgroup	Tuesday	M1			
+2_R Automatic Subgroup	Tuesday	M2	Snape	Potions	
+2_R Automatic Subgroup	Tuesday	M3	Snape	Potions	
+2_R Automatic Subgroup	Tuesday	M4	Binns	History of Magic	
+2_R Automatic Subgroup	Tuesday	Lunch			
+2_R Automatic Subgroup	Tuesday	A1			
+2_R Automatic Subgroup	Tuesday	A2			
+2_R Automatic Subgroup	Tuesday	A3			
+2_R Automatic Subgroup	Wednesday	M1			
+2_R Automatic Subgroup	Wednesday	M2	Flitwick	Charms	
+2_R Automatic Subgroup	Wednesday	M3	Sprout	Herbology	
+2_R Automatic Subgroup	Wednesday	M4	Snape	Potions	
+2_R Automatic Subgroup	Wednesday	Lunch			
+2_R Automatic Subgroup	Wednesday	A1	DADA Teacher	DADA	
+2_R Automatic Subgroup	Wednesday	A2			
+2_R Automatic Subgroup	Wednesday	A3			
+2_R Automatic Subgroup	Thursday	M1			
+2_R Automatic Subgroup	Thursday	M2			
+2_R Automatic Subgroup	Thursday	M3			
+2_R Automatic Subgroup	Thursday	M4	Binns	History of Magic	
+2_R Automatic Subgroup	Thursday	Lunch			
+2_R Automatic Subgroup	Thursday	A1	McGonagall	Transfiguration	
+2_R Automatic Subgroup	Thursday	A2	McGonagall	Transfiguration	
+2_R Automatic Subgroup	Thursday	A3			
+2_R Automatic Subgroup	Friday	M1			
+2_R Automatic Subgroup	Friday	M2	Sprout	Herbology	
+2_R Automatic Subgroup	Friday	M3	Sprout	Herbology	
+2_R Automatic Subgroup	Friday	M4			
+2_R Automatic Subgroup	Friday	Lunch			
+2_R Automatic Subgroup	Friday	A1			
+2_R Automatic Subgroup	Friday	A2	DADA Teacher	DADA	
+2_R Automatic Subgroup	Friday	A3			
+2_H Automatic Subgroup	Monday	M1			
+2_H Automatic Subgroup	Monday	M2	DADA Teacher	DADA	
+2_H Automatic Subgroup	Monday	M3			
+2_H Automatic Subgroup	Monday	M4	McGonagall	Transfiguration	
+2_H Automatic Subgroup	Monday	Lunch			
+2_H Automatic Subgroup	Monday	A1	Binns	History of Magic	
+2_H Automatic Subgroup	Monday	A2	Sprout	Herbology	
+2_H Automatic Subgroup	Monday	A3			
+2_H Automatic Subgroup	Tuesday	M1			
+2_H Automatic Subgroup	Tuesday	M2	Snape	Potions	
+2_H Automatic Subgroup	Tuesday	M3	Snape	Potions	
+2_H Automatic Subgroup	Tuesday	M4	Flitwick	Charms	
+2_H Automatic Subgroup	Tuesday	Lunch			
+2_H Automatic Subgroup	Tuesday	A1			
+2_H Automatic Subgroup	Tuesday	A2			
+2_H Automatic Subgroup	Tuesday	A3			
+2_H Automatic Subgroup	Wednesday	M1			
+2_H Automatic Subgroup	Wednesday	M2	Binns	History of Magic	
+2_H Automatic Subgroup	Wednesday	M3			
+2_H Automatic Subgroup	Wednesday	M4	Snape	Potions	
+2_H Automatic Subgroup	Wednesday	Lunch			
+2_H Automatic Subgroup	Wednesday	A1	DADA Teacher	DADA	
+2_H Automatic Subgroup	Wednesday	A2	McGonagall	Transfiguration	
+2_H Automatic Subgroup	Wednesday	A3			
+2_H Automatic Subgroup	Thursday	M1			
+2_H Automatic Subgroup	Thursday	M2			
+2_H Automatic Subgroup	Thursday	M3			
+2_H Automatic Subgroup	Thursday	M4	Flitwick	Charms	
+2_H Automatic Subgroup	Thursday	Lunch			
+2_H Automatic Subgroup	Thursday	A1	Sprout	Herbology	
+2_H Automatic Subgroup	Thursday	A2	Sprout	Herbology	
+2_H Automatic Subgroup	Thursday	A3			
+2_H Automatic Subgroup	Friday	M1			
+2_H Automatic Subgroup	Friday	M2			
+2_H Automatic Subgroup	Friday	M3	McGonagall	Transfiguration	
+2_H Automatic Subgroup	Friday	M4			
+2_H Automatic Subgroup	Friday	Lunch			
+2_H Automatic Subgroup	Friday	A1			
+2_H Automatic Subgroup	Friday	A2	DADA Teacher	DADA	
+2_H Automatic Subgroup	Friday	A3			
+3_G_Ar	Monday	M1	Flitwick	Charms	
+3_G_Ar	Monday	M2	Sprout	Herbology	
+3_G_Ar	Monday	M3	Vector	Arithmancy	3_E1
+3_G_Ar	Monday	M4			
+3_G_Ar	Monday	Lunch			
+3_G_Ar	Monday	A1	Snape	Potions	
+3_G_Ar	Monday	A2	Snape	Potions	
+3_G_Ar	Monday	A3			
+3_G_Ar	Tuesday	M1			
+3_G_Ar	Tuesday	M2	McGonagall	Transfiguration	
+3_G_Ar	Tuesday	M3	McGonagall	Transfiguration	
+3_G_Ar	Tuesday	M4	DADA Teacher	DADA	
+3_G_Ar	Tuesday	Lunch			
+3_G_Ar	Tuesday	A1			
+3_G_Ar	Tuesday	A2			
+3_G_Ar	Tuesday	A3			
+3_G_Ar	Wednesday	M1	Snape	Potions	
+3_G_Ar	Wednesday	M2	Sprout	Herbology	
+3_G_Ar	Wednesday	M3			
+3_G_Ar	Wednesday	M4			
+3_G_Ar	Wednesday	Lunch			
+3_G_Ar	Wednesday	A1	Binns	History of Magic	
+3_G_Ar	Wednesday	A2	Flitwick	Charms	
+3_G_Ar	Wednesday	A3			
+3_G_Ar	Thursday	M1			
+3_G_Ar	Thursday	M2	Vector	Arithmancy	3_E1
+3_G_Ar	Thursday	M3			
+3_G_Ar	Thursday	M4			
+3_G_Ar	Thursday	Lunch			
+3_G_Ar	Thursday	A1	DADA Teacher	DADA	
+3_G_Ar	Thursday	A2	DADA Teacher	DADA	
+3_G_Ar	Thursday	A3			
+3_G_Ar	Friday	M1			
+3_G_Ar	Friday	M2	Vector	Arithmancy	3_E1
+3_G_Ar	Friday	M3	Flitwick	Charms	
+3_G_Ar	Friday	M4	Sprout	Herbology	
+3_G_Ar	Friday	Lunch			
+3_G_Ar	Friday	A1	Binns	History of Magic	
+3_G_Ar	Friday	A2	McGonagall	Transfiguration	
+3_G_Ar	Friday	A3			
+3_G_Mu	Monday	M1	Flitwick	Charms	
+3_G_Mu	Monday	M2	Sprout	Herbology	
+3_G_Mu	Monday	M3	Burbage	Muggle Studies	3_E1
+3_G_Mu	Monday	M4			
+3_G_Mu	Monday	Lunch			
+3_G_Mu	Monday	A1	Snape	Potions	
+3_G_Mu	Monday	A2	Snape	Potions	
+3_G_Mu	Monday	A3			
+3_G_Mu	Tuesday	M1			
+3_G_Mu	Tuesday	M2	McGonagall	Transfiguration	
+3_G_Mu	Tuesday	M3	McGonagall	Transfiguration	
+3_G_Mu	Tuesday	M4	DADA Teacher	DADA	
+3_G_Mu	Tuesday	Lunch			
+3_G_Mu	Tuesday	A1			
+3_G_Mu	Tuesday	A2			
+3_G_Mu	Tuesday	A3			
+3_G_Mu	Wednesday	M1	Snape	Potions	
+3_G_Mu	Wednesday	M2	Sprout	Herbology	
+3_G_Mu	Wednesday	M3			
+3_G_Mu	Wednesday	M4			
+3_G_Mu	Wednesday	Lunch			
+3_G_Mu	Wednesday	A1	Binns	History of Magic	
+3_G_Mu	Wednesday	A2	Flitwick	Charms	
+3_G_Mu	Wednesday	A3			
+3_G_Mu	Thursday	M1			
+3_G_Mu	Thursday	M2	Burbage	Muggle Studies	3_E1
+3_G_Mu	Thursday	M3			
+3_G_Mu	Thursday	M4			
+3_G_Mu	Thursday	Lunch			
+3_G_Mu	Thursday	A1	DADA Teacher	DADA	
+3_G_Mu	Thursday	A2	DADA Teacher	DADA	
+3_G_Mu	Thursday	A3			
+3_G_Mu	Friday	M1			
+3_G_Mu	Friday	M2			
+3_G_Mu	Friday	M3	Flitwick	Charms	
+3_G_Mu	Friday	M4	Sprout	Herbology	
+3_G_Mu	Friday	Lunch			
+3_G_Mu	Friday	A1	Binns	History of Magic	
+3_G_Mu	Friday	A2	McGonagall	Transfiguration	
+3_G_Mu	Friday	A3			
+3_G_Ru	Monday	M1	Flitwick	Charms	
+3_G_Ru	Monday	M2	Sprout	Herbology	
+3_G_Ru	Monday	M3			
+3_G_Ru	Monday	M4	Batsheda Babbling	Runes	3_E2
+3_G_Ru	Monday	Lunch			
+3_G_Ru	Monday	A1	Snape	Potions	
+3_G_Ru	Monday	A2	Snape	Potions	
+3_G_Ru	Monday	A3			
+3_G_Ru	Tuesday	M1			
+3_G_Ru	Tuesday	M2	McGonagall	Transfiguration	
+3_G_Ru	Tuesday	M3	McGonagall	Transfiguration	
+3_G_Ru	Tuesday	M4	DADA Teacher	DADA	
+3_G_Ru	Tuesday	Lunch			
+3_G_Ru	Tuesday	A1			
+3_G_Ru	Tuesday	A2			
+3_G_Ru	Tuesday	A3			
+3_G_Ru	Wednesday	M1	Snape	Potions	
+3_G_Ru	Wednesday	M2	Sprout	Herbology	
+3_G_Ru	Wednesday	M3	Batsheda Babbling	Runes	3_E2
+3_G_Ru	Wednesday	M4			
+3_G_Ru	Wednesday	Lunch			
+3_G_Ru	Wednesday	A1	Binns	History of Magic	
+3_G_Ru	Wednesday	A2	Flitwick	Charms	
+3_G_Ru	Wednesday	A3			
+3_G_Ru	Thursday	M1			
+3_G_Ru	Thursday	M2			
+3_G_Ru	Thursday	M3			
+3_G_Ru	Thursday	M4			
+3_G_Ru	Thursday	Lunch			
+3_G_Ru	Thursday	A1	DADA Teacher	DADA	
+3_G_Ru	Thursday	A2	DADA Teacher	DADA	
+3_G_Ru	Thursday	A3			
+3_G_Ru	Friday	M1	Batsheda Babbling	Runes	3_E2
+3_G_Ru	Friday	M2			
+3_G_Ru	Friday	M3	Flitwick	Charms	
+3_G_Ru	Friday	M4	Sprout	Herbology	
+3_G_Ru	Friday	Lunch			
+3_G_Ru	Friday	A1	Binns	History of Magic	
+3_G_Ru	Friday	A2	McGonagall	Transfiguration	
+3_G_Ru	Friday	A3			
+3_G_Di	Monday	M1	Flitwick	Charms	
+3_G_Di	Monday	M2	Sprout	Herbology	
+3_G_Di	Monday	M3			
+3_G_Di	Monday	M4	Div Teacher	Divination	3_E2
+3_G_Di	Monday	Lunch			
+3_G_Di	Monday	A1	Snape	Potions	
+3_G_Di	Monday	A2	Snape	Potions	
+3_G_Di	Monday	A3			
+3_G_Di	Tuesday	M1			
+3_G_Di	Tuesday	M2	McGonagall	Transfiguration	
+3_G_Di	Tuesday	M3	McGonagall	Transfiguration	
+3_G_Di	Tuesday	M4	DADA Teacher	DADA	
+3_G_Di	Tuesday	Lunch			
+3_G_Di	Tuesday	A1			
+3_G_Di	Tuesday	A2			
+3_G_Di	Tuesday	A3			
+3_G_Di	Wednesday	M1	Snape	Potions	
+3_G_Di	Wednesday	M2	Sprout	Herbology	
+3_G_Di	Wednesday	M3	Div Teacher	Divination	3_E2
+3_G_Di	Wednesday	M4			
+3_G_Di	Wednesday	Lunch			
+3_G_Di	Wednesday	A1	Binns	History of Magic	
+3_G_Di	Wednesday	A2	Flitwick	Charms	
+3_G_Di	Wednesday	A3			
+3_G_Di	Thursday	M1			
+3_G_Di	Thursday	M2			
+3_G_Di	Thursday	M3			
+3_G_Di	Thursday	M4			
+3_G_Di	Thursday	Lunch			
+3_G_Di	Thursday	A1	DADA Teacher	DADA	
+3_G_Di	Thursday	A2	DADA Teacher	DADA	
+3_G_Di	Thursday	A3			
+3_G_Di	Friday	M1	Div Teacher	Divination	3_E2
+3_G_Di	Friday	M2			
+3_G_Di	Friday	M3	Flitwick	Charms	
+3_G_Di	Friday	M4	Sprout	Herbology	
+3_G_Di	Friday	Lunch			
+3_G_Di	Friday	A1	Binns	History of Magic	
+3_G_Di	Friday	A2	McGonagall	Transfiguration	
+3_G_Di	Friday	A3			
+3_G_Ca	Monday	M1	Flitwick	Charms	
+3_G_Ca	Monday	M2	Sprout	Herbology	
+3_G_Ca	Monday	M3			
+3_G_Ca	Monday	M4			
+3_G_Ca	Monday	Lunch			
+3_G_Ca	Monday	A1	Snape	Potions	
+3_G_Ca	Monday	A2	Snape	Potions	
+3_G_Ca	Monday	A3			
+3_G_Ca	Tuesday	M1			
+3_G_Ca	Tuesday	M2	McGonagall	Transfiguration	
+3_G_Ca	Tuesday	M3	McGonagall	Transfiguration	
+3_G_Ca	Tuesday	M4	DADA Teacher	DADA	
+3_G_Ca	Tuesday	Lunch			
+3_G_Ca	Tuesday	A1	CoMC teacher	Care of Magical Creatures	3_E3
+3_G_Ca	Tuesday	A2	CoMC teacher	Care of Magical Creatures	3_E3
+3_G_Ca	Tuesday	A3			
+3_G_Ca	Wednesday	M1	Snape	Potions	
+3_G_Ca	Wednesday	M2	Sprout	Herbology	
+3_G_Ca	Wednesday	M3			
+3_G_Ca	Wednesday	M4			
+3_G_Ca	Wednesday	Lunch			
+3_G_Ca	Wednesday	A1	Binns	History of Magic	
+3_G_Ca	Wednesday	A2	Flitwick	Charms	
+3_G_Ca	Wednesday	A3			
+3_G_Ca	Thursday	M1			
+3_G_Ca	Thursday	M2			
+3_G_Ca	Thursday	M3	CoMC teacher	Care of Magical Creatures	3_E3
+3_G_Ca	Thursday	M4	CoMC teacher	Care of Magical Creatures	3_E3
+3_G_Ca	Thursday	Lunch			
+3_G_Ca	Thursday	A1	DADA Teacher	DADA	
+3_G_Ca	Thursday	A2	DADA Teacher	DADA	
+3_G_Ca	Thursday	A3			
+3_G_Ca	Friday	M1			
+3_G_Ca	Friday	M2			
+3_G_Ca	Friday	M3	Flitwick	Charms	
+3_G_Ca	Friday	M4	Sprout	Herbology	
+3_G_Ca	Friday	Lunch			
+3_G_Ca	Friday	A1	Binns	History of Magic	
+3_G_Ca	Friday	A2	McGonagall	Transfiguration	
+3_G_Ca	Friday	A3			
+3_S_Ar	Monday	M1			
+3_S_Ar	Monday	M2	Vector	Arithmancy	3_E1
+3_S_Ar	Monday	M3	McGonagall	Transfiguration	
+3_S_Ar	Monday	M4	Flitwick	Charms	
+3_S_Ar	Monday	Lunch			
+3_S_Ar	Monday	A1	Snape	Potions	
+3_S_Ar	Monday	A2	Snape	Potions	
+3_S_Ar	Monday	A3			
+3_S_Ar	Tuesday	M1			
+3_S_Ar	Tuesday	M2	Sprout	Herbology	
+3_S_Ar	Tuesday	M3	Vector	Arithmancy	3_E1
+3_S_Ar	Tuesday	M4	DADA Teacher	DADA	
+3_S_Ar	Tuesday	Lunch			
+3_S_Ar	Tuesday	A1			
+3_S_Ar	Tuesday	A2			
+3_S_Ar	Tuesday	A3			
+3_S_Ar	Wednesday	M1	Snape	Potions	
+3_S_Ar	Wednesday	M2			
+3_S_Ar	Wednesday	M3	Binns	History of Magic	
+3_S_Ar	Wednesday	M4	McGonagall	Transfiguration	
+3_S_Ar	Wednesday	Lunch			
+3_S_Ar	Wednesday	A1	Flitwick	Charms	
+3_S_Ar	Wednesday	A2			
+3_S_Ar	Wednesday	A3			
+3_S_Ar	Thursday	M1	Sprout	Herbology	
+3_S_Ar	Thursday	M2			
+3_S_Ar	Thursday	M3			
+3_S_Ar	Thursday	M4			
+3_S_Ar	Thursday	Lunch			
+3_S_Ar	Thursday	A1	DADA Teacher	DADA	
+3_S_Ar	Thursday	A2	DADA Teacher	DADA	
+3_S_Ar	Thursday	A3			
+3_S_Ar	Friday	M1	Binns	History of Magic	
+3_S_Ar	Friday	M2	McGonagall	Transfiguration	
+3_S_Ar	Friday	M3			
+3_S_Ar	Friday	M4	Vector	Arithmancy	3_E1
+3_S_Ar	Friday	Lunch			
+3_S_Ar	Friday	A1	Flitwick	Charms	
+3_S_Ar	Friday	A2	Sprout	Herbology	
+3_S_Ar	Friday	A3			
+3_S_Mu	Monday	M1			
+3_S_Mu	Monday	M2	Burbage	Muggle Studies	3_E1
+3_S_Mu	Monday	M3	McGonagall	Transfiguration	
+3_S_Mu	Monday	M4	Flitwick	Charms	
+3_S_Mu	Monday	Lunch			
+3_S_Mu	Monday	A1	Snape	Potions	
+3_S_Mu	Monday	A2	Snape	Potions	
+3_S_Mu	Monday	A3			
+3_S_Mu	Tuesday	M1			
+3_S_Mu	Tuesday	M2	Sprout	Herbology	
+3_S_Mu	Tuesday	M3			
+3_S_Mu	Tuesday	M4	DADA Teacher	DADA	
+3_S_Mu	Tuesday	Lunch			
+3_S_Mu	Tuesday	A1			
+3_S_Mu	Tuesday	A2			
+3_S_Mu	Tuesday	A3			
+3_S_Mu	Wednesday	M1	Snape	Potions	
+3_S_Mu	Wednesday	M2			
+3_S_Mu	Wednesday	M3	Binns	History of Magic	
+3_S_Mu	Wednesday	M4	McGonagall	Transfiguration	
+3_S_Mu	Wednesday	Lunch			
+3_S_Mu	Wednesday	A1	Flitwick	Charms	
+3_S_Mu	Wednesday	A2			
+3_S_Mu	Wednesday	A3			
+3_S_Mu	Thursday	M1	Sprout	Herbology	
+3_S_Mu	Thursday	M2			
+3_S_Mu	Thursday	M3			
+3_S_Mu	Thursday	M4			
+3_S_Mu	Thursday	Lunch			
+3_S_Mu	Thursday	A1	DADA Teacher	DADA	
+3_S_Mu	Thursday	A2	DADA Teacher	DADA	
+3_S_Mu	Thursday	A3			
+3_S_Mu	Friday	M1	Binns	History of Magic	
+3_S_Mu	Friday	M2	McGonagall	Transfiguration	
+3_S_Mu	Friday	M3			
+3_S_Mu	Friday	M4	Burbage	Muggle Studies	3_E1
+3_S_Mu	Friday	Lunch			
+3_S_Mu	Friday	A1	Flitwick	Charms	
+3_S_Mu	Friday	A2	Sprout	Herbology	
+3_S_Mu	Friday	A3			
+3_S_Ru	Monday	M1	Batsheda Babbling	Runes	3_E2
+3_S_Ru	Monday	M2			
+3_S_Ru	Monday	M3	McGonagall	Transfiguration	
+3_S_Ru	Monday	M4	Flitwick	Charms	
+3_S_Ru	Monday	Lunch			
+3_S_Ru	Monday	A1	Snape	Potions	
+3_S_Ru	Monday	A2	Snape	Potions	
+3_S_Ru	Monday	A3			
+3_S_Ru	Tuesday	M1			
+3_S_Ru	Tuesday	M2	Sprout	Herbology	
+3_S_Ru	Tuesday	M3			
+3_S_Ru	Tuesday	M4	DADA Teacher	DADA	
+3_S_Ru	Tuesday	Lunch			
+3_S_Ru	Tuesday	A1			
+3_S_Ru	Tuesday	A2			
+3_S_Ru	Tuesday	A3			
+3_S_Ru	Wednesday	M1	Snape	Potions	
+3_S_Ru	Wednesday	M2			
+3_S_Ru	Wednesday	M3	Binns	History of Magic	
+3_S_Ru	Wednesday	M4	McGonagall	Transfiguration	
+3_S_Ru	Wednesday	Lunch			
+3_S_Ru	Wednesday	A1	Flitwick	Charms	
+3_S_Ru	Wednesday	A2	Batsheda Babbling	Runes	3_E2
+3_S_Ru	Wednesday	A3			
+3_S_Ru	Thursday	M1	Sprout	Herbology	
+3_S_Ru	Thursday	M2			
+3_S_Ru	Thursday	M3			
+3_S_Ru	Thursday	M4			
+3_S_Ru	Thursday	Lunch			
+3_S_Ru	Thursday	A1	DADA Teacher	DADA	
+3_S_Ru	Thursday	A2	DADA Teacher	DADA	
+3_S_Ru	Thursday	A3			
+3_S_Ru	Friday	M1	Binns	History of Magic	
+3_S_Ru	Friday	M2	McGonagall	Transfiguration	
+3_S_Ru	Friday	M3	Batsheda Babbling	Runes	3_E2
+3_S_Ru	Friday	M4			
+3_S_Ru	Friday	Lunch			
+3_S_Ru	Friday	A1	Flitwick	Charms	
+3_S_Ru	Friday	A2	Sprout	Herbology	
+3_S_Ru	Friday	A3			
+3_S_Di	Monday	M1	Div Teacher	Divination	3_E2
+3_S_Di	Monday	M2			
+3_S_Di	Monday	M3	McGonagall	Transfiguration	
+3_S_Di	Monday	M4	Flitwick	Charms	
+3_S_Di	Monday	Lunch			
+3_S_Di	Monday	A1	Snape	Potions	
+3_S_Di	Monday	A2	Snape	Potions	
+3_S_Di	Monday	A3			
+3_S_Di	Tuesday	M1			
+3_S_Di	Tuesday	M2	Sprout	Herbology	
+3_S_Di	Tuesday	M3			
+3_S_Di	Tuesday	M4	DADA Teacher	DADA	
+3_S_Di	Tuesday	Lunch			
+3_S_Di	Tuesday	A1			
+3_S_Di	Tuesday	A2			
+3_S_Di	Tuesday	A3			
+3_S_Di	Wednesday	M1	Snape	Potions	
+3_S_Di	Wednesday	M2			
+3_S_Di	Wednesday	M3	Binns	History of Magic	
+3_S_Di	Wednesday	M4	McGonagall	Transfiguration	
+3_S_Di	Wednesday	Lunch			
+3_S_Di	Wednesday	A1	Flitwick	Charms	
+3_S_Di	Wednesday	A2	Div Teacher	Divination	3_E2
+3_S_Di	Wednesday	A3			
+3_S_Di	Thursday	M1	Sprout	Herbology	
+3_S_Di	Thursday	M2			
+3_S_Di	Thursday	M3			
+3_S_Di	Thursday	M4			
+3_S_Di	Thursday	Lunch			
+3_S_Di	Thursday	A1	DADA Teacher	DADA	
+3_S_Di	Thursday	A2	DADA Teacher	DADA	
+3_S_Di	Thursday	A3			
+3_S_Di	Friday	M1	Binns	History of Magic	
+3_S_Di	Friday	M2	McGonagall	Transfiguration	
+3_S_Di	Friday	M3	Div Teacher	Divination	3_E2
+3_S_Di	Friday	M4			
+3_S_Di	Friday	Lunch			
+3_S_Di	Friday	A1	Flitwick	Charms	
+3_S_Di	Friday	A2	Sprout	Herbology	
+3_S_Di	Friday	A3			
+3_S_Ca	Monday	M1			
+3_S_Ca	Monday	M2			
+3_S_Ca	Monday	M3	McGonagall	Transfiguration	
+3_S_Ca	Monday	M4	Flitwick	Charms	
+3_S_Ca	Monday	Lunch			
+3_S_Ca	Monday	A1	Snape	Potions	
+3_S_Ca	Monday	A2	Snape	Potions	
+3_S_Ca	Monday	A3			
+3_S_Ca	Tuesday	M1			
+3_S_Ca	Tuesday	M2	Sprout	Herbology	
+3_S_Ca	Tuesday	M3			
+3_S_Ca	Tuesday	M4	DADA Teacher	DADA	
+3_S_Ca	Tuesday	Lunch			
+3_S_Ca	Tuesday	A1	CoMC teacher	Care of Magical Creatures	3_E3
+3_S_Ca	Tuesday	A2	CoMC teacher	Care of Magical Creatures	3_E3
+3_S_Ca	Tuesday	A3			
+3_S_Ca	Wednesday	M1	Snape	Potions	
+3_S_Ca	Wednesday	M2			
+3_S_Ca	Wednesday	M3	Binns	History of Magic	
+3_S_Ca	Wednesday	M4	McGonagall	Transfiguration	
+3_S_Ca	Wednesday	Lunch			
+3_S_Ca	Wednesday	A1	Flitwick	Charms	
+3_S_Ca	Wednesday	A2			
+3_S_Ca	Wednesday	A3			
+3_S_Ca	Thursday	M1	Sprout	Herbology	
+3_S_Ca	Thursday	M2			
+3_S_Ca	Thursday	M3	CoMC teacher	Care of Magical Creatures	3_E3
+3_S_Ca	Thursday	M4	CoMC teacher	Care of Magical Creatures	3_E3
+3_S_Ca	Thursday	Lunch			
+3_S_Ca	Thursday	A1	DADA Teacher	DADA	
+3_S_Ca	Thursday	A2	DADA Teacher	DADA	
+3_S_Ca	Thursday	A3			
+3_S_Ca	Friday	M1	Binns	History of Magic	
+3_S_Ca	Friday	M2	McGonagall	Transfiguration	
+3_S_Ca	Friday	M3			
+3_S_Ca	Friday	M4			
+3_S_Ca	Friday	Lunch			
+3_S_Ca	Friday	A1	Flitwick	Charms	
+3_S_Ca	Friday	A2	Sprout	Herbology	
+3_S_Ca	Friday	A3			
+3_R_Ar	Monday	M1	Flitwick	Charms	
+3_R_Ar	Monday	M2	Vector	Arithmancy	3_E1
+3_R_Ar	Monday	M3	McGonagall	Transfiguration	
+3_R_Ar	Monday	M4			
+3_R_Ar	Monday	Lunch			
+3_R_Ar	Monday	A1			
+3_R_Ar	Monday	A2			
+3_R_Ar	Monday	A3			
+3_R_Ar	Tuesday	M1	DADA Teacher	DADA	
+3_R_Ar	Tuesday	M2	Sprout	Herbology	
+3_R_Ar	Tuesday	M3	Vector	Arithmancy	3_E1
+3_R_Ar	Tuesday	M4			
+3_R_Ar	Tuesday	Lunch			
+3_R_Ar	Tuesday	A1	Snape	Potions	
+3_R_Ar	Tuesday	A2	Snape	Potions	
+3_R_Ar	Tuesday	A3			
+3_R_Ar	Wednesday	M1			
+3_R_Ar	Wednesday	M2			
+3_R_Ar	Wednesday	M3			
+3_R_Ar	Wednesday	M4	McGonagall	Transfiguration	
+3_R_Ar	Wednesday	Lunch			
+3_R_Ar	Wednesday	A1	Binns	History of Magic	
+3_R_Ar	Wednesday	A2	Flitwick	Charms	
+3_R_Ar	Wednesday	A3			
+3_R_Ar	Thursday	M1	Sprout	Herbology	
+3_R_Ar	Thursday	M2			
+3_R_Ar	Thursday	M3	DADA Teacher	DADA	
+3_R_Ar	Thursday	M4	DADA Teacher	DADA	
+3_R_Ar	Thursday	Lunch			
+3_R_Ar	Thursday	A1	Snape	Potions	
+3_R_Ar	Thursday	A2			
+3_R_Ar	Thursday	A3			
+3_R_Ar	Friday	M1			
+3_R_Ar	Friday	M2	McGonagall	Transfiguration	
+3_R_Ar	Friday	M3	Flitwick	Charms	
+3_R_Ar	Friday	M4	Vector	Arithmancy	3_E1
+3_R_Ar	Friday	Lunch			
+3_R_Ar	Friday	A1	Binns	History of Magic	
+3_R_Ar	Friday	A2	Sprout	Herbology	
+3_R_Ar	Friday	A3			
+3_R_Mu	Monday	M1	Flitwick	Charms	
+3_R_Mu	Monday	M2	Burbage	Muggle Studies	3_E1
+3_R_Mu	Monday	M3	McGonagall	Transfiguration	
+3_R_Mu	Monday	M4			
+3_R_Mu	Monday	Lunch			
+3_R_Mu	Monday	A1			
+3_R_Mu	Monday	A2			
+3_R_Mu	Monday	A3			
+3_R_Mu	Tuesday	M1	DADA Teacher	DADA	
+3_R_Mu	Tuesday	M2	Sprout	Herbology	
+3_R_Mu	Tuesday	M3			
+3_R_Mu	Tuesday	M4			
+3_R_Mu	Tuesday	Lunch			
+3_R_Mu	Tuesday	A1	Snape	Potions	
+3_R_Mu	Tuesday	A2	Snape	Potions	
+3_R_Mu	Tuesday	A3			
+3_R_Mu	Wednesday	M1			
+3_R_Mu	Wednesday	M2			
+3_R_Mu	Wednesday	M3			
+3_R_Mu	Wednesday	M4	McGonagall	Transfiguration	
+3_R_Mu	Wednesday	Lunch			
+3_R_Mu	Wednesday	A1	Binns	History of Magic	
+3_R_Mu	Wednesday	A2	Flitwick	Charms	
+3_R_Mu	Wednesday	A3			
+3_R_Mu	Thursday	M1	Sprout	Herbology	
+3_R_Mu	Thursday	M2			
+3_R_Mu	Thursday	M3	DADA Teacher	DADA	
+3_R_Mu	Thursday	M4	DADA Teacher	DADA	
+3_R_Mu	Thursday	Lunch			
+3_R_Mu	Thursday	A1	Snape	Potions	
+3_R_Mu	Thursday	A2			
+3_R_Mu	Thursday	A3			
+3_R_Mu	Friday	M1			
+3_R_Mu	Friday	M2	McGonagall	Transfiguration	
+3_R_Mu	Friday	M3	Flitwick	Charms	
+3_R_Mu	Friday	M4	Burbage	Muggle Studies	3_E1
+3_R_Mu	Friday	Lunch			
+3_R_Mu	Friday	A1	Binns	History of Magic	
+3_R_Mu	Friday	A2	Sprout	Herbology	
+3_R_Mu	Friday	A3			
+3_R_Ru	Monday	M1	Flitwick	Charms	
+3_R_Ru	Monday	M2			
+3_R_Ru	Monday	M3	McGonagall	Transfiguration	
+3_R_Ru	Monday	M4	Batsheda Babbling	Runes	3_E2
+3_R_Ru	Monday	Lunch			
+3_R_Ru	Monday	A1			
+3_R_Ru	Monday	A2			
+3_R_Ru	Monday	A3			
+3_R_Ru	Tuesday	M1	DADA Teacher	DADA	
+3_R_Ru	Tuesday	M2	Sprout	Herbology	
+3_R_Ru	Tuesday	M3			
+3_R_Ru	Tuesday	M4			
+3_R_Ru	Tuesday	Lunch			
+3_R_Ru	Tuesday	A1	Snape	Potions	
+3_R_Ru	Tuesday	A2	Snape	Potions	
+3_R_Ru	Tuesday	A3			
+3_R_Ru	Wednesday	M1			
+3_R_Ru	Wednesday	M2			
+3_R_Ru	Wednesday	M3	Batsheda Babbling	Runes	3_E2
+3_R_Ru	Wednesday	M4	McGonagall	Transfiguration	
+3_R_Ru	Wednesday	Lunch			
+3_R_Ru	Wednesday	A1	Binns	History of Magic	
+3_R_Ru	Wednesday	A2	Flitwick	Charms	
+3_R_Ru	Wednesday	A3			
+3_R_Ru	Thursday	M1	Sprout	Herbology	
+3_R_Ru	Thursday	M2			
+3_R_Ru	Thursday	M3	DADA Teacher	DADA	
+3_R_Ru	Thursday	M4	DADA Teacher	DADA	
+3_R_Ru	Thursday	Lunch			
+3_R_Ru	Thursday	A1	Snape	Potions	
+3_R_Ru	Thursday	A2			
+3_R_Ru	Thursday	A3			
+3_R_Ru	Friday	M1	Batsheda Babbling	Runes	3_E2
+3_R_Ru	Friday	M2	McGonagall	Transfiguration	
+3_R_Ru	Friday	M3	Flitwick	Charms	
+3_R_Ru	Friday	M4			
+3_R_Ru	Friday	Lunch			
+3_R_Ru	Friday	A1	Binns	History of Magic	
+3_R_Ru	Friday	A2	Sprout	Herbology	
+3_R_Ru	Friday	A3			
+3_R_Di	Monday	M1	Flitwick	Charms	
+3_R_Di	Monday	M2			
+3_R_Di	Monday	M3	McGonagall	Transfiguration	
+3_R_Di	Monday	M4	Div Teacher	Divination	3_E2
+3_R_Di	Monday	Lunch			
+3_R_Di	Monday	A1			
+3_R_Di	Monday	A2			
+3_R_Di	Monday	A3			
+3_R_Di	Tuesday	M1	DADA Teacher	DADA	
+3_R_Di	Tuesday	M2	Sprout	Herbology	
+3_R_Di	Tuesday	M3			
+3_R_Di	Tuesday	M4			
+3_R_Di	Tuesday	Lunch			
+3_R_Di	Tuesday	A1	Snape	Potions	
+3_R_Di	Tuesday	A2	Snape	Potions	
+3_R_Di	Tuesday	A3			
+3_R_Di	Wednesday	M1			
+3_R_Di	Wednesday	M2			
+3_R_Di	Wednesday	M3	Div Teacher	Divination	3_E2
+3_R_Di	Wednesday	M4	McGonagall	Transfiguration	
+3_R_Di	Wednesday	Lunch			
+3_R_Di	Wednesday	A1	Binns	History of Magic	
+3_R_Di	Wednesday	A2	Flitwick	Charms	
+3_R_Di	Wednesday	A3			
+3_R_Di	Thursday	M1	Sprout	Herbology	
+3_R_Di	Thursday	M2			
+3_R_Di	Thursday	M3	DADA Teacher	DADA	
+3_R_Di	Thursday	M4	DADA Teacher	DADA	
+3_R_Di	Thursday	Lunch			
+3_R_Di	Thursday	A1	Snape	Potions	
+3_R_Di	Thursday	A2			
+3_R_Di	Thursday	A3			
+3_R_Di	Friday	M1	Div Teacher	Divination	3_E2
+3_R_Di	Friday	M2	McGonagall	Transfiguration	
+3_R_Di	Friday	M3	Flitwick	Charms	
+3_R_Di	Friday	M4			
+3_R_Di	Friday	Lunch			
+3_R_Di	Friday	A1	Binns	History of Magic	
+3_R_Di	Friday	A2	Sprout	Herbology	
+3_R_Di	Friday	A3			
+3_R_Ca	Monday	M1	Flitwick	Charms	
+3_R_Ca	Monday	M2			
+3_R_Ca	Monday	M3	McGonagall	Transfiguration	
+3_R_Ca	Monday	M4			
+3_R_Ca	Monday	Lunch			
+3_R_Ca	Monday	A1	CoMC teacher	Care of Magical Creatures	3_E3
+3_R_Ca	Monday	A2	CoMC teacher	Care of Magical Creatures	3_E3
+3_R_Ca	Monday	A3			
+3_R_Ca	Tuesday	M1	DADA Teacher	DADA	
+3_R_Ca	Tuesday	M2	Sprout	Herbology	
+3_R_Ca	Tuesday	M3			
+3_R_Ca	Tuesday	M4			
+3_R_Ca	Tuesday	Lunch			
+3_R_Ca	Tuesday	A1	Snape	Potions	
+3_R_Ca	Tuesday	A2	Snape	Potions	
+3_R_Ca	Tuesday	A3			
+3_R_Ca	Wednesday	M1	CoMC teacher	Care of Magical Creatures	3_E3
+3_R_Ca	Wednesday	M2			
+3_R_Ca	Wednesday	M3			
+3_R_Ca	Wednesday	M4	McGonagall	Transfiguration	
+3_R_Ca	Wednesday	Lunch			
+3_R_Ca	Wednesday	A1	Binns	History of Magic	
+3_R_Ca	Wednesday	A2	Flitwick	Charms	
+3_R_Ca	Wednesday	A3			
+3_R_Ca	Thursday	M1	Sprout	Herbology	
+3_R_Ca	Thursday	M2			
+3_R_Ca	Thursday	M3	DADA Teacher	DADA	
+3_R_Ca	Thursday	M4	DADA Teacher	DADA	
+3_R_Ca	Thursday	Lunch			
+3_R_Ca	Thursday	A1	Snape	Potions	
+3_R_Ca	Thursday	A2	CoMC teacher	Care of Magical Creatures	3_E3
+3_R_Ca	Thursday	A3			
+3_R_Ca	Friday	M1			
+3_R_Ca	Friday	M2	McGonagall	Transfiguration	
+3_R_Ca	Friday	M3	Flitwick	Charms	
+3_R_Ca	Friday	M4			
+3_R_Ca	Friday	Lunch			
+3_R_Ca	Friday	A1	Binns	History of Magic	
+3_R_Ca	Friday	A2	Sprout	Herbology	
+3_R_Ca	Friday	A3			
+3_H_Ar	Monday	M1			
+3_H_Ar	Monday	M2	Sprout	Herbology	
+3_H_Ar	Monday	M3	Vector	Arithmancy	3_E1
+3_H_Ar	Monday	M4	Flitwick	Charms	
+3_H_Ar	Monday	Lunch			
+3_H_Ar	Monday	A1			
+3_H_Ar	Monday	A2			
+3_H_Ar	Monday	A3			
+3_H_Ar	Tuesday	M1	DADA Teacher	DADA	
+3_H_Ar	Tuesday	M2	McGonagall	Transfiguration	
+3_H_Ar	Tuesday	M3	McGonagall	Transfiguration	
+3_H_Ar	Tuesday	M4			
+3_H_Ar	Tuesday	Lunch			
+3_H_Ar	Tuesday	A1	Snape	Potions	
+3_H_Ar	Tuesday	A2	Snape	Potions	
+3_H_Ar	Tuesday	A3			
+3_H_Ar	Wednesday	M1			
+3_H_Ar	Wednesday	M2	Sprout	Herbology	
+3_H_Ar	Wednesday	M3	Binns	History of Magic	
+3_H_Ar	Wednesday	M4			
+3_H_Ar	Wednesday	Lunch			
+3_H_Ar	Wednesday	A1	Flitwick	Charms	
+3_H_Ar	Wednesday	A2			
+3_H_Ar	Wednesday	A3			
+3_H_Ar	Thursday	M1			
+3_H_Ar	Thursday	M2	Vector	Arithmancy	3_E1
+3_H_Ar	Thursday	M3	DADA Teacher	DADA	
+3_H_Ar	Thursday	M4	DADA Teacher	DADA	
+3_H_Ar	Thursday	Lunch			
+3_H_Ar	Thursday	A1	Snape	Potions	
+3_H_Ar	Thursday	A2			
+3_H_Ar	Thursday	A3			
+3_H_Ar	Friday	M1	Binns	History of Magic	
+3_H_Ar	Friday	M2	Vector	Arithmancy	3_E1
+3_H_Ar	Friday	M3			
+3_H_Ar	Friday	M4	Sprout	Herbology	
+3_H_Ar	Friday	Lunch			
+3_H_Ar	Friday	A1	Flitwick	Charms	
+3_H_Ar	Friday	A2	McGonagall	Transfiguration	
+3_H_Ar	Friday	A3			
+3_H_Mu	Monday	M1			
+3_H_Mu	Monday	M2	Sprout	Herbology	
+3_H_Mu	Monday	M3	Burbage	Muggle Studies	3_E1
+3_H_Mu	Monday	M4	Flitwick	Charms	
+3_H_Mu	Monday	Lunch			
+3_H_Mu	Monday	A1			
+3_H_Mu	Monday	A2			
+3_H_Mu	Monday	A3			
+3_H_Mu	Tuesday	M1	DADA Teacher	DADA	
+3_H_Mu	Tuesday	M2	McGonagall	Transfiguration	
+3_H_Mu	Tuesday	M3	McGonagall	Transfiguration	
+3_H_Mu	Tuesday	M4			
+3_H_Mu	Tuesday	Lunch			
+3_H_Mu	Tuesday	A1	Snape	Potions	
+3_H_Mu	Tuesday	A2	Snape	Potions	
+3_H_Mu	Tuesday	A3			
+3_H_Mu	Wednesday	M1			
+3_H_Mu	Wednesday	M2	Sprout	Herbology	
+3_H_Mu	Wednesday	M3	Binns	History of Magic	
+3_H_Mu	Wednesday	M4			
+3_H_Mu	Wednesday	Lunch			
+3_H_Mu	Wednesday	A1	Flitwick	Charms	
+3_H_Mu	Wednesday	A2			
+3_H_Mu	Wednesday	A3			
+3_H_Mu	Thursday	M1			
+3_H_Mu	Thursday	M2	Burbage	Muggle Studies	3_E1
+3_H_Mu	Thursday	M3	DADA Teacher	DADA	
+3_H_Mu	Thursday	M4	DADA Teacher	DADA	
+3_H_Mu	Thursday	Lunch			
+3_H_Mu	Thursday	A1	Snape	Potions	
+3_H_Mu	Thursday	A2			
+3_H_Mu	Thursday	A3			
+3_H_Mu	Friday	M1	Binns	History of Magic	
+3_H_Mu	Friday	M2			
+3_H_Mu	Friday	M3			
+3_H_Mu	Friday	M4	Sprout	Herbology	
+3_H_Mu	Friday	Lunch			
+3_H_Mu	Friday	A1	Flitwick	Charms	
+3_H_Mu	Friday	A2	McGonagall	Transfiguration	
+3_H_Mu	Friday	A3			
+3_H_Ru	Monday	M1	Batsheda Babbling	Runes	3_E2
+3_H_Ru	Monday	M2	Sprout	Herbology	
+3_H_Ru	Monday	M3			
+3_H_Ru	Monday	M4	Flitwick	Charms	
+3_H_Ru	Monday	Lunch			
+3_H_Ru	Monday	A1			
+3_H_Ru	Monday	A2			
+3_H_Ru	Monday	A3			
+3_H_Ru	Tuesday	M1	DADA Teacher	DADA	
+3_H_Ru	Tuesday	M2	McGonagall	Transfiguration	
+3_H_Ru	Tuesday	M3	McGonagall	Transfiguration	
+3_H_Ru	Tuesday	M4			
+3_H_Ru	Tuesday	Lunch			
+3_H_Ru	Tuesday	A1	Snape	Potions	
+3_H_Ru	Tuesday	A2	Snape	Potions	
+3_H_Ru	Tuesday	A3			
+3_H_Ru	Wednesday	M1			
+3_H_Ru	Wednesday	M2	Sprout	Herbology	
+3_H_Ru	Wednesday	M3	Binns	History of Magic	
+3_H_Ru	Wednesday	M4			
+3_H_Ru	Wednesday	Lunch			
+3_H_Ru	Wednesday	A1	Flitwick	Charms	
+3_H_Ru	Wednesday	A2	Batsheda Babbling	Runes	3_E2
+3_H_Ru	Wednesday	A3			
+3_H_Ru	Thursday	M1			
+3_H_Ru	Thursday	M2			
+3_H_Ru	Thursday	M3	DADA Teacher	DADA	
+3_H_Ru	Thursday	M4	DADA Teacher	DADA	
+3_H_Ru	Thursday	Lunch			
+3_H_Ru	Thursday	A1	Snape	Potions	
+3_H_Ru	Thursday	A2			
+3_H_Ru	Thursday	A3			
+3_H_Ru	Friday	M1	Binns	History of Magic	
+3_H_Ru	Friday	M2			
+3_H_Ru	Friday	M3	Batsheda Babbling	Runes	3_E2
+3_H_Ru	Friday	M4	Sprout	Herbology	
+3_H_Ru	Friday	Lunch			
+3_H_Ru	Friday	A1	Flitwick	Charms	
+3_H_Ru	Friday	A2	McGonagall	Transfiguration	
+3_H_Ru	Friday	A3			
+3_H_Di	Monday	M1	Div Teacher	Divination	3_E2
+3_H_Di	Monday	M2	Sprout	Herbology	
+3_H_Di	Monday	M3			
+3_H_Di	Monday	M4	Flitwick	Charms	
+3_H_Di	Monday	Lunch			
+3_H_Di	Monday	A1			
+3_H_Di	Monday	A2			
+3_H_Di	Monday	A3			
+3_H_Di	Tuesday	M1	DADA Teacher	DADA	
+3_H_Di	Tuesday	M2	McGonagall	Transfiguration	
+3_H_Di	Tuesday	M3	McGonagall	Transfiguration	
+3_H_Di	Tuesday	M4			
+3_H_Di	Tuesday	Lunch			
+3_H_Di	Tuesday	A1	Snape	Potions	
+3_H_Di	Tuesday	A2	Snape	Potions	
+3_H_Di	Tuesday	A3			
+3_H_Di	Wednesday	M1			
+3_H_Di	Wednesday	M2	Sprout	Herbology	
+3_H_Di	Wednesday	M3	Binns	History of Magic	
+3_H_Di	Wednesday	M4			
+3_H_Di	Wednesday	Lunch			
+3_H_Di	Wednesday	A1	Flitwick	Charms	
+3_H_Di	Wednesday	A2	Div Teacher	Divination	3_E2
+3_H_Di	Wednesday	A3			
+3_H_Di	Thursday	M1			
+3_H_Di	Thursday	M2			
+3_H_Di	Thursday	M3	DADA Teacher	DADA	
+3_H_Di	Thursday	M4	DADA Teacher	DADA	
+3_H_Di	Thursday	Lunch			
+3_H_Di	Thursday	A1	Snape	Potions	
+3_H_Di	Thursday	A2			
+3_H_Di	Thursday	A3			
+3_H_Di	Friday	M1	Binns	History of Magic	
+3_H_Di	Friday	M2			
+3_H_Di	Friday	M3	Div Teacher	Divination	3_E2
+3_H_Di	Friday	M4	Sprout	Herbology	
+3_H_Di	Friday	Lunch			
+3_H_Di	Friday	A1	Flitwick	Charms	
+3_H_Di	Friday	A2	McGonagall	Transfiguration	
+3_H_Di	Friday	A3			
+3_H_Ca	Monday	M1			
+3_H_Ca	Monday	M2	Sprout	Herbology	
+3_H_Ca	Monday	M3			
+3_H_Ca	Monday	M4	Flitwick	Charms	
+3_H_Ca	Monday	Lunch			
+3_H_Ca	Monday	A1	CoMC teacher	Care of Magical Creatures	3_E3
+3_H_Ca	Monday	A2	CoMC teacher	Care of Magical Creatures	3_E3
+3_H_Ca	Monday	A3			
+3_H_Ca	Tuesday	M1	DADA Teacher	DADA	
+3_H_Ca	Tuesday	M2	McGonagall	Transfiguration	
+3_H_Ca	Tuesday	M3	McGonagall	Transfiguration	
+3_H_Ca	Tuesday	M4			
+3_H_Ca	Tuesday	Lunch			
+3_H_Ca	Tuesday	A1	Snape	Potions	
+3_H_Ca	Tuesday	A2	Snape	Potions	
+3_H_Ca	Tuesday	A3			
+3_H_Ca	Wednesday	M1	CoMC teacher	Care of Magical Creatures	3_E3
+3_H_Ca	Wednesday	M2	Sprout	Herbology	
+3_H_Ca	Wednesday	M3	Binns	History of Magic	
+3_H_Ca	Wednesday	M4			
+3_H_Ca	Wednesday	Lunch			
+3_H_Ca	Wednesday	A1	Flitwick	Charms	
+3_H_Ca	Wednesday	A2			
+3_H_Ca	Wednesday	A3			
+3_H_Ca	Thursday	M1			
+3_H_Ca	Thursday	M2			
+3_H_Ca	Thursday	M3	DADA Teacher	DADA	
+3_H_Ca	Thursday	M4	DADA Teacher	DADA	
+3_H_Ca	Thursday	Lunch			
+3_H_Ca	Thursday	A1	Snape	Potions	
+3_H_Ca	Thursday	A2	CoMC teacher	Care of Magical Creatures	3_E3
+3_H_Ca	Thursday	A3			
+3_H_Ca	Friday	M1	Binns	History of Magic	
+3_H_Ca	Friday	M2			
+3_H_Ca	Friday	M3			
+3_H_Ca	Friday	M4	Sprout	Herbology	
+3_H_Ca	Friday	Lunch			
+3_H_Ca	Friday	A1	Flitwick	Charms	
+3_H_Ca	Friday	A2	McGonagall	Transfiguration	
+3_H_Ca	Friday	A3			
+4_G_Ar	Monday	M1	McGonagall	Transfiguration	
+4_G_Ar	Monday	M2			
+4_G_Ar	Monday	M3			
+4_G_Ar	Monday	M4	Sprout	Herbology	
+4_G_Ar	Monday	Lunch			
+4_G_Ar	Monday	A1			
+4_G_Ar	Monday	A2	Flitwick	Charms	
+4_G_Ar	Monday	A3	Vector	Arithmancy	4_E1
+4_G_Ar	Tuesday	M1			
+4_G_Ar	Tuesday	M2			
+4_G_Ar	Tuesday	M3			
+4_G_Ar	Tuesday	M4	Snape	Potions	
+4_G_Ar	Tuesday	Lunch			
+4_G_Ar	Tuesday	A1			
+4_G_Ar	Tuesday	A2	Flitwick	Charms	
+4_G_Ar	Tuesday	A3	DADA Teacher	DADA	
+4_G_Ar	Wednesday	M1	Binns	History of Magic	
+4_G_Ar	Wednesday	M2			
+4_G_Ar	Wednesday	M3	McGonagall	Transfiguration	
+4_G_Ar	Wednesday	M4			
+4_G_Ar	Wednesday	Lunch			
+4_G_Ar	Wednesday	A1	Vector	Arithmancy	4_E1
+4_G_Ar	Wednesday	A2	Vector	Arithmancy	4_E1
+4_G_Ar	Wednesday	A3	Sprout	Herbology	
+4_G_Ar	Thursday	M1			
+4_G_Ar	Thursday	M2			
+4_G_Ar	Thursday	M3	Snape	Potions	
+4_G_Ar	Thursday	M4	Snape	Potions	
+4_G_Ar	Thursday	Lunch			
+4_G_Ar	Thursday	A1	Flitwick	Charms	
+4_G_Ar	Thursday	A2			
+4_G_Ar	Thursday	A3			
+4_G_Ar	Friday	M1	McGonagall	Transfiguration	
+4_G_Ar	Friday	M2			
+4_G_Ar	Friday	M3	DADA Teacher	DADA	
+4_G_Ar	Friday	M4	DADA Teacher	DADA	
+4_G_Ar	Friday	Lunch			
+4_G_Ar	Friday	A1			
+4_G_Ar	Friday	A2	Binns	History of Magic	
+4_G_Ar	Friday	A3	Sprout	Herbology	
+4_G_Mu	Monday	M1	McGonagall	Transfiguration	
+4_G_Mu	Monday	M2			
+4_G_Mu	Monday	M3			
+4_G_Mu	Monday	M4	Sprout	Herbology	
+4_G_Mu	Monday	Lunch			
+4_G_Mu	Monday	A1			
+4_G_Mu	Monday	A2	Flitwick	Charms	
+4_G_Mu	Monday	A3	Burbage	Muggle Studies	4_E1
+4_G_Mu	Tuesday	M1			
+4_G_Mu	Tuesday	M2			
+4_G_Mu	Tuesday	M3			
+4_G_Mu	Tuesday	M4	Snape	Potions	
+4_G_Mu	Tuesday	Lunch			
+4_G_Mu	Tuesday	A1			
+4_G_Mu	Tuesday	A2	Flitwick	Charms	
+4_G_Mu	Tuesday	A3	DADA Teacher	DADA	
+4_G_Mu	Wednesday	M1	Binns	History of Magic	
+4_G_Mu	Wednesday	M2			
+4_G_Mu	Wednesday	M3	McGonagall	Transfiguration	
+4_G_Mu	Wednesday	M4			
+4_G_Mu	Wednesday	Lunch			
+4_G_Mu	Wednesday	A1	Burbage	Muggle Studies	4_E1
+4_G_Mu	Wednesday	A2			
+4_G_Mu	Wednesday	A3	Sprout	Herbology	
+4_G_Mu	Thursday	M1			
+4_G_Mu	Thursday	M2			
+4_G_Mu	Thursday	M3	Snape	Potions	
+4_G_Mu	Thursday	M4	Snape	Potions	
+4_G_Mu	Thursday	Lunch			
+4_G_Mu	Thursday	A1	Flitwick	Charms	
+4_G_Mu	Thursday	A2			
+4_G_Mu	Thursday	A3			
+4_G_Mu	Friday	M1	McGonagall	Transfiguration	
+4_G_Mu	Friday	M2			
+4_G_Mu	Friday	M3	DADA Teacher	DADA	
+4_G_Mu	Friday	M4	DADA Teacher	DADA	
+4_G_Mu	Friday	Lunch			
+4_G_Mu	Friday	A1			
+4_G_Mu	Friday	A2	Binns	History of Magic	
+4_G_Mu	Friday	A3	Sprout	Herbology	
+4_G_Ru	Monday	M1	McGonagall	Transfiguration	
+4_G_Ru	Monday	M2	Batsheda Babbling	Runes	4_E2
+4_G_Ru	Monday	M3			
+4_G_Ru	Monday	M4	Sprout	Herbology	
+4_G_Ru	Monday	Lunch			
+4_G_Ru	Monday	A1			
+4_G_Ru	Monday	A2	Flitwick	Charms	
+4_G_Ru	Monday	A3			
+4_G_Ru	Tuesday	M1			
+4_G_Ru	Tuesday	M2			
+4_G_Ru	Tuesday	M3			
+4_G_Ru	Tuesday	M4	Snape	Potions	
+4_G_Ru	Tuesday	Lunch			
+4_G_Ru	Tuesday	A1			
+4_G_Ru	Tuesday	A2	Flitwick	Charms	
+4_G_Ru	Tuesday	A3	DADA Teacher	DADA	
+4_G_Ru	Wednesday	M1	Binns	History of Magic	
+4_G_Ru	Wednesday	M2			
+4_G_Ru	Wednesday	M3	McGonagall	Transfiguration	
+4_G_Ru	Wednesday	M4			
+4_G_Ru	Wednesday	Lunch			
+4_G_Ru	Wednesday	A1			
+4_G_Ru	Wednesday	A2			
+4_G_Ru	Wednesday	A3	Sprout	Herbology	
+4_G_Ru	Thursday	M1			
+4_G_Ru	Thursday	M2			
+4_G_Ru	Thursday	M3	Snape	Potions	
+4_G_Ru	Thursday	M4	Snape	Potions	
+4_G_Ru	Thursday	Lunch			
+4_G_Ru	Thursday	A1	Flitwick	Charms	
+4_G_Ru	Thursday	A2	Batsheda Babbling	Runes	4_E2
+4_G_Ru	Thursday	A3	Batsheda Babbling	Runes	4_E2
+4_G_Ru	Friday	M1	McGonagall	Transfiguration	
+4_G_Ru	Friday	M2			
+4_G_Ru	Friday	M3	DADA Teacher	DADA	
+4_G_Ru	Friday	M4	DADA Teacher	DADA	
+4_G_Ru	Friday	Lunch			
+4_G_Ru	Friday	A1			
+4_G_Ru	Friday	A2	Binns	History of Magic	
+4_G_Ru	Friday	A3	Sprout	Herbology	
+4_G_Di	Monday	M1	McGonagall	Transfiguration	
+4_G_Di	Monday	M2	Div Teacher	Divination	4_E2
+4_G_Di	Monday	M3			
+4_G_Di	Monday	M4	Sprout	Herbology	
+4_G_Di	Monday	Lunch			
+4_G_Di	Monday	A1			
+4_G_Di	Monday	A2	Flitwick	Charms	
+4_G_Di	Monday	A3			
+4_G_Di	Tuesday	M1			
+4_G_Di	Tuesday	M2			
+4_G_Di	Tuesday	M3			
+4_G_Di	Tuesday	M4	Snape	Potions	
+4_G_Di	Tuesday	Lunch			
+4_G_Di	Tuesday	A1			
+4_G_Di	Tuesday	A2	Flitwick	Charms	
+4_G_Di	Tuesday	A3	DADA Teacher	DADA	
+4_G_Di	Wednesday	M1	Binns	History of Magic	
+4_G_Di	Wednesday	M2			
+4_G_Di	Wednesday	M3	McGonagall	Transfiguration	
+4_G_Di	Wednesday	M4			
+4_G_Di	Wednesday	Lunch			
+4_G_Di	Wednesday	A1			
+4_G_Di	Wednesday	A2			
+4_G_Di	Wednesday	A3	Sprout	Herbology	
+4_G_Di	Thursday	M1			
+4_G_Di	Thursday	M2			
+4_G_Di	Thursday	M3	Snape	Potions	
+4_G_Di	Thursday	M4	Snape	Potions	
+4_G_Di	Thursday	Lunch			
+4_G_Di	Thursday	A1	Flitwick	Charms	
+4_G_Di	Thursday	A2	Div Teacher	Divination	4_E2
+4_G_Di	Thursday	A3	Div Teacher	Divination	4_E2
+4_G_Di	Friday	M1	McGonagall	Transfiguration	
+4_G_Di	Friday	M2			
+4_G_Di	Friday	M3	DADA Teacher	DADA	
+4_G_Di	Friday	M4	DADA Teacher	DADA	
+4_G_Di	Friday	Lunch			
+4_G_Di	Friday	A1			
+4_G_Di	Friday	A2	Binns	History of Magic	
+4_G_Di	Friday	A3	Sprout	Herbology	
+4_G_Ca	Monday	M1	McGonagall	Transfiguration	
+4_G_Ca	Monday	M2			
+4_G_Ca	Monday	M3	CoMC teacher	Care of Magical Creatures	4_E3
+4_G_Ca	Monday	M4	Sprout	Herbology	
+4_G_Ca	Monday	Lunch			
+4_G_Ca	Monday	A1			
+4_G_Ca	Monday	A2	Flitwick	Charms	
+4_G_Ca	Monday	A3			
+4_G_Ca	Tuesday	M1	CoMC teacher	Care of Magical Creatures	4_E3
+4_G_Ca	Tuesday	M2			
+4_G_Ca	Tuesday	M3			
+4_G_Ca	Tuesday	M4	Snape	Potions	
+4_G_Ca	Tuesday	Lunch			
+4_G_Ca	Tuesday	A1			
+4_G_Ca	Tuesday	A2	Flitwick	Charms	
+4_G_Ca	Tuesday	A3	DADA Teacher	DADA	
+4_G_Ca	Wednesday	M1	Binns	History of Magic	
+4_G_Ca	Wednesday	M2			
+4_G_Ca	Wednesday	M3	McGonagall	Transfiguration	
+4_G_Ca	Wednesday	M4			
+4_G_Ca	Wednesday	Lunch			
+4_G_Ca	Wednesday	A1			
+4_G_Ca	Wednesday	A2			
+4_G_Ca	Wednesday	A3	Sprout	Herbology	
+4_G_Ca	Thursday	M1	CoMC teacher	Care of Magical Creatures	4_E3
+4_G_Ca	Thursday	M2			
+4_G_Ca	Thursday	M3	Snape	Potions	
+4_G_Ca	Thursday	M4	Snape	Potions	
+4_G_Ca	Thursday	Lunch			
+4_G_Ca	Thursday	A1	Flitwick	Charms	
+4_G_Ca	Thursday	A2			
+4_G_Ca	Thursday	A3			
+4_G_Ca	Friday	M1	McGonagall	Transfiguration	
+4_G_Ca	Friday	M2			
+4_G_Ca	Friday	M3	DADA Teacher	DADA	
+4_G_Ca	Friday	M4	DADA Teacher	DADA	
+4_G_Ca	Friday	Lunch			
+4_G_Ca	Friday	A1			
+4_G_Ca	Friday	A2	Binns	History of Magic	
+4_G_Ca	Friday	A3	Sprout	Herbology	
+4_S_Ar	Monday	M1	Vector	Arithmancy	4_E1
+4_S_Ar	Monday	M2	Flitwick	Charms	
+4_S_Ar	Monday	M3			
+4_S_Ar	Monday	M4			
+4_S_Ar	Monday	Lunch			
+4_S_Ar	Monday	A1	McGonagall	Transfiguration	
+4_S_Ar	Monday	A2	Binns	History of Magic	
+4_S_Ar	Monday	A3	Sprout	Herbology	
+4_S_Ar	Tuesday	M1			
+4_S_Ar	Tuesday	M2			
+4_S_Ar	Tuesday	M3			
+4_S_Ar	Tuesday	M4	Snape	Potions	
+4_S_Ar	Tuesday	Lunch			
+4_S_Ar	Tuesday	A1			
+4_S_Ar	Tuesday	A2			
+4_S_Ar	Tuesday	A3	DADA Teacher	DADA	
+4_S_Ar	Wednesday	M1	Flitwick	Charms	
+4_S_Ar	Wednesday	M2	Vector	Arithmancy	4_E1
+4_S_Ar	Wednesday	M3	Vector	Arithmancy	4_E1
+4_S_Ar	Wednesday	M4			
+4_S_Ar	Wednesday	Lunch			
+4_S_Ar	Wednesday	A1			
+4_S_Ar	Wednesday	A2	Sprout	Herbology	
+4_S_Ar	Wednesday	A3	McGonagall	Transfiguration	
+4_S_Ar	Thursday	M1			
+4_S_Ar	Thursday	M2			
+4_S_Ar	Thursday	M3	Snape	Potions	
+4_S_Ar	Thursday	M4	Snape	Potions	
+4_S_Ar	Thursday	Lunch			
+4_S_Ar	Thursday	A1			
+4_S_Ar	Thursday	A2			
+4_S_Ar	Thursday	A3	Binns	History of Magic	
+4_S_Ar	Friday	M1	Sprout	Herbology	
+4_S_Ar	Friday	M2			
+4_S_Ar	Friday	M3	DADA Teacher	DADA	
+4_S_Ar	Friday	M4	DADA Teacher	DADA	
+4_S_Ar	Friday	Lunch			
+4_S_Ar	Friday	A1			
+4_S_Ar	Friday	A2	Flitwick	Charms	
+4_S_Ar	Friday	A3	McGonagall	Transfiguration	
+4_S_Mu	Monday	M1	Burbage	Muggle Studies	4_E1
+4_S_Mu	Monday	M2	Flitwick	Charms	
+4_S_Mu	Monday	M3			
+4_S_Mu	Monday	M4			
+4_S_Mu	Monday	Lunch			
+4_S_Mu	Monday	A1	McGonagall	Transfiguration	
+4_S_Mu	Monday	A2	Binns	History of Magic	
+4_S_Mu	Monday	A3	Sprout	Herbology	
+4_S_Mu	Tuesday	M1			
+4_S_Mu	Tuesday	M2			
+4_S_Mu	Tuesday	M3			
+4_S_Mu	Tuesday	M4	Snape	Potions	
+4_S_Mu	Tuesday	Lunch			
+4_S_Mu	Tuesday	A1			
+4_S_Mu	Tuesday	A2			
+4_S_Mu	Tuesday	A3	DADA Teacher	DADA	
+4_S_Mu	Wednesday	M1	Flitwick	Charms	
+4_S_Mu	Wednesday	M2			
+4_S_Mu	Wednesday	M3	Burbage	Muggle Studies	4_E1
+4_S_Mu	Wednesday	M4			
+4_S_Mu	Wednesday	Lunch			
+4_S_Mu	Wednesday	A1			
+4_S_Mu	Wednesday	A2	Sprout	Herbology	
+4_S_Mu	Wednesday	A3	McGonagall	Transfiguration	
+4_S_Mu	Thursday	M1			
+4_S_Mu	Thursday	M2			
+4_S_Mu	Thursday	M3	Snape	Potions	
+4_S_Mu	Thursday	M4	Snape	Potions	
+4_S_Mu	Thursday	Lunch			
+4_S_Mu	Thursday	A1			
+4_S_Mu	Thursday	A2			
+4_S_Mu	Thursday	A3	Binns	History of Magic	
+4_S_Mu	Friday	M1	Sprout	Herbology	
+4_S_Mu	Friday	M2			
+4_S_Mu	Friday	M3	DADA Teacher	DADA	
+4_S_Mu	Friday	M4	DADA Teacher	DADA	
+4_S_Mu	Friday	Lunch			
+4_S_Mu	Friday	A1			
+4_S_Mu	Friday	A2	Flitwick	Charms	
+4_S_Mu	Friday	A3	McGonagall	Transfiguration	
+4_S_Ru	Monday	M1			
+4_S_Ru	Monday	M2	Flitwick	Charms	
+4_S_Ru	Monday	M3			
+4_S_Ru	Monday	M4			
+4_S_Ru	Monday	Lunch			
+4_S_Ru	Monday	A1	McGonagall	Transfiguration	
+4_S_Ru	Monday	A2	Binns	History of Magic	
+4_S_Ru	Monday	A3	Sprout	Herbology	
+4_S_Ru	Tuesday	M1			
+4_S_Ru	Tuesday	M2			
+4_S_Ru	Tuesday	M3			
+4_S_Ru	Tuesday	M4	Snape	Potions	
+4_S_Ru	Tuesday	Lunch			
+4_S_Ru	Tuesday	A1	Batsheda Babbling	Runes	4_E2
+4_S_Ru	Tuesday	A2	Batsheda Babbling	Runes	4_E2
+4_S_Ru	Tuesday	A3	DADA Teacher	DADA	
+4_S_Ru	Wednesday	M1	Flitwick	Charms	
+4_S_Ru	Wednesday	M2			
+4_S_Ru	Wednesday	M3			
+4_S_Ru	Wednesday	M4			
+4_S_Ru	Wednesday	Lunch			
+4_S_Ru	Wednesday	A1			
+4_S_Ru	Wednesday	A2	Sprout	Herbology	
+4_S_Ru	Wednesday	A3	McGonagall	Transfiguration	
+4_S_Ru	Thursday	M1			
+4_S_Ru	Thursday	M2			
+4_S_Ru	Thursday	M3	Snape	Potions	
+4_S_Ru	Thursday	M4	Snape	Potions	
+4_S_Ru	Thursday	Lunch			
+4_S_Ru	Thursday	A1	Batsheda Babbling	Runes	4_E2
+4_S_Ru	Thursday	A2			
+4_S_Ru	Thursday	A3	Binns	History of Magic	
+4_S_Ru	Friday	M1	Sprout	Herbology	
+4_S_Ru	Friday	M2			
+4_S_Ru	Friday	M3	DADA Teacher	DADA	
+4_S_Ru	Friday	M4	DADA Teacher	DADA	
+4_S_Ru	Friday	Lunch			
+4_S_Ru	Friday	A1			
+4_S_Ru	Friday	A2	Flitwick	Charms	
+4_S_Ru	Friday	A3	McGonagall	Transfiguration	
+4_S_Di	Monday	M1			
+4_S_Di	Monday	M2	Flitwick	Charms	
+4_S_Di	Monday	M3			
+4_S_Di	Monday	M4			
+4_S_Di	Monday	Lunch			
+4_S_Di	Monday	A1	McGonagall	Transfiguration	
+4_S_Di	Monday	A2	Binns	History of Magic	
+4_S_Di	Monday	A3	Sprout	Herbology	
+4_S_Di	Tuesday	M1			
+4_S_Di	Tuesday	M2			
+4_S_Di	Tuesday	M3			
+4_S_Di	Tuesday	M4	Snape	Potions	
+4_S_Di	Tuesday	Lunch			
+4_S_Di	Tuesday	A1	Div Teacher	Divination	4_E2
+4_S_Di	Tuesday	A2	Div Teacher	Divination	4_E2
+4_S_Di	Tuesday	A3	DADA Teacher	DADA	
+4_S_Di	Wednesday	M1	Flitwick	Charms	
+4_S_Di	Wednesday	M2			
+4_S_Di	Wednesday	M3			
+4_S_Di	Wednesday	M4			
+4_S_Di	Wednesday	Lunch			
+4_S_Di	Wednesday	A1			
+4_S_Di	Wednesday	A2	Sprout	Herbology	
+4_S_Di	Wednesday	A3	McGonagall	Transfiguration	
+4_S_Di	Thursday	M1			
+4_S_Di	Thursday	M2			
+4_S_Di	Thursday	M3	Snape	Potions	
+4_S_Di	Thursday	M4	Snape	Potions	
+4_S_Di	Thursday	Lunch			
+4_S_Di	Thursday	A1	Div Teacher	Divination	4_E2
+4_S_Di	Thursday	A2			
+4_S_Di	Thursday	A3	Binns	History of Magic	
+4_S_Di	Friday	M1	Sprout	Herbology	
+4_S_Di	Friday	M2			
+4_S_Di	Friday	M3	DADA Teacher	DADA	
+4_S_Di	Friday	M4	DADA Teacher	DADA	
+4_S_Di	Friday	Lunch			
+4_S_Di	Friday	A1			
+4_S_Di	Friday	A2	Flitwick	Charms	
+4_S_Di	Friday	A3	McGonagall	Transfiguration	
+4_S_Ca	Monday	M1			
+4_S_Ca	Monday	M2	Flitwick	Charms	
+4_S_Ca	Monday	M3	CoMC teacher	Care of Magical Creatures	4_E3
+4_S_Ca	Monday	M4			
+4_S_Ca	Monday	Lunch			
+4_S_Ca	Monday	A1	McGonagall	Transfiguration	
+4_S_Ca	Monday	A2	Binns	History of Magic	
+4_S_Ca	Monday	A3	Sprout	Herbology	
+4_S_Ca	Tuesday	M1	CoMC teacher	Care of Magical Creatures	4_E3
+4_S_Ca	Tuesday	M2			
+4_S_Ca	Tuesday	M3			
+4_S_Ca	Tuesday	M4	Snape	Potions	
+4_S_Ca	Tuesday	Lunch			
+4_S_Ca	Tuesday	A1			
+4_S_Ca	Tuesday	A2			
+4_S_Ca	Tuesday	A3	DADA Teacher	DADA	
+4_S_Ca	Wednesday	M1	Flitwick	Charms	
+4_S_Ca	Wednesday	M2			
+4_S_Ca	Wednesday	M3			
+4_S_Ca	Wednesday	M4			
+4_S_Ca	Wednesday	Lunch			
+4_S_Ca	Wednesday	A1			
+4_S_Ca	Wednesday	A2	Sprout	Herbology	
+4_S_Ca	Wednesday	A3	McGonagall	Transfiguration	
+4_S_Ca	Thursday	M1	CoMC teacher	Care of Magical Creatures	4_E3
+4_S_Ca	Thursday	M2			
+4_S_Ca	Thursday	M3	Snape	Potions	
+4_S_Ca	Thursday	M4	Snape	Potions	
+4_S_Ca	Thursday	Lunch			
+4_S_Ca	Thursday	A1			
+4_S_Ca	Thursday	A2			
+4_S_Ca	Thursday	A3	Binns	History of Magic	
+4_S_Ca	Friday	M1	Sprout	Herbology	
+4_S_Ca	Friday	M2			
+4_S_Ca	Friday	M3	DADA Teacher	DADA	
+4_S_Ca	Friday	M4	DADA Teacher	DADA	
+4_S_Ca	Friday	Lunch			
+4_S_Ca	Friday	A1			
+4_S_Ca	Friday	A2	Flitwick	Charms	
+4_S_Ca	Friday	A3	McGonagall	Transfiguration	
+4_R_Ar	Monday	M1	Vector	Arithmancy	4_E1
+4_R_Ar	Monday	M2			
+4_R_Ar	Monday	M3			
+4_R_Ar	Monday	M4			
+4_R_Ar	Monday	Lunch			
+4_R_Ar	Monday	A1	McGonagall	Transfiguration	
+4_R_Ar	Monday	A2	Flitwick	Charms	
+4_R_Ar	Monday	A3	Sprout	Herbology	
+4_R_Ar	Tuesday	M1	Snape	Potions	
+4_R_Ar	Tuesday	M2	DADA Teacher	DADA	
+4_R_Ar	Tuesday	M3	DADA Teacher	DADA	
+4_R_Ar	Tuesday	M4			
+4_R_Ar	Tuesday	Lunch			
+4_R_Ar	Tuesday	A1			
+4_R_Ar	Tuesday	A2	Flitwick	Charms	
+4_R_Ar	Tuesday	A3			
+4_R_Ar	Wednesday	M1	Binns	History of Magic	
+4_R_Ar	Wednesday	M2	Vector	Arithmancy	4_E1
+4_R_Ar	Wednesday	M3	Vector	Arithmancy	4_E1
+4_R_Ar	Wednesday	M4			
+4_R_Ar	Wednesday	Lunch			
+4_R_Ar	Wednesday	A1			
+4_R_Ar	Wednesday	A2	Sprout	Herbology	
+4_R_Ar	Wednesday	A3	McGonagall	Transfiguration	
+4_R_Ar	Thursday	M1	Snape	Potions	
+4_R_Ar	Thursday	M2	Snape	Potions	
+4_R_Ar	Thursday	M3			
+4_R_Ar	Thursday	M4			
+4_R_Ar	Thursday	Lunch			
+4_R_Ar	Thursday	A1	Flitwick	Charms	
+4_R_Ar	Thursday	A2			
+4_R_Ar	Thursday	A3			
+4_R_Ar	Friday	M1	Sprout	Herbology	
+4_R_Ar	Friday	M2			
+4_R_Ar	Friday	M3			
+4_R_Ar	Friday	M4			
+4_R_Ar	Friday	Lunch			
+4_R_Ar	Friday	A1	DADA Teacher	DADA	
+4_R_Ar	Friday	A2	Binns	History of Magic	
+4_R_Ar	Friday	A3	McGonagall	Transfiguration	
+4_R_Mu	Monday	M1	Burbage	Muggle Studies	4_E1
+4_R_Mu	Monday	M2			
+4_R_Mu	Monday	M3			
+4_R_Mu	Monday	M4			
+4_R_Mu	Monday	Lunch			
+4_R_Mu	Monday	A1	McGonagall	Transfiguration	
+4_R_Mu	Monday	A2	Flitwick	Charms	
+4_R_Mu	Monday	A3	Sprout	Herbology	
+4_R_Mu	Tuesday	M1	Snape	Potions	
+4_R_Mu	Tuesday	M2	DADA Teacher	DADA	
+4_R_Mu	Tuesday	M3	DADA Teacher	DADA	
+4_R_Mu	Tuesday	M4			
+4_R_Mu	Tuesday	Lunch			
+4_R_Mu	Tuesday	A1			
+4_R_Mu	Tuesday	A2	Flitwick	Charms	
+4_R_Mu	Tuesday	A3			
+4_R_Mu	Wednesday	M1	Binns	History of Magic	
+4_R_Mu	Wednesday	M2			
+4_R_Mu	Wednesday	M3	Burbage	Muggle Studies	4_E1
+4_R_Mu	Wednesday	M4			
+4_R_Mu	Wednesday	Lunch			
+4_R_Mu	Wednesday	A1			
+4_R_Mu	Wednesday	A2	Sprout	Herbology	
+4_R_Mu	Wednesday	A3	McGonagall	Transfiguration	
+4_R_Mu	Thursday	M1	Snape	Potions	
+4_R_Mu	Thursday	M2	Snape	Potions	
+4_R_Mu	Thursday	M3			
+4_R_Mu	Thursday	M4			
+4_R_Mu	Thursday	Lunch			
+4_R_Mu	Thursday	A1	Flitwick	Charms	
+4_R_Mu	Thursday	A2			
+4_R_Mu	Thursday	A3			
+4_R_Mu	Friday	M1	Sprout	Herbology	
+4_R_Mu	Friday	M2			
+4_R_Mu	Friday	M3			
+4_R_Mu	Friday	M4			
+4_R_Mu	Friday	Lunch			
+4_R_Mu	Friday	A1	DADA Teacher	DADA	
+4_R_Mu	Friday	A2	Binns	History of Magic	
+4_R_Mu	Friday	A3	McGonagall	Transfiguration	
+4_R_Ru	Monday	M1			
+4_R_Ru	Monday	M2	Batsheda Babbling	Runes	4_E2
+4_R_Ru	Monday	M3			
+4_R_Ru	Monday	M4			
+4_R_Ru	Monday	Lunch			
+4_R_Ru	Monday	A1	McGonagall	Transfiguration	
+4_R_Ru	Monday	A2	Flitwick	Charms	
+4_R_Ru	Monday	A3	Sprout	Herbology	
+4_R_Ru	Tuesday	M1	Snape	Potions	
+4_R_Ru	Tuesday	M2	DADA Teacher	DADA	
+4_R_Ru	Tuesday	M3	DADA Teacher	DADA	
+4_R_Ru	Tuesday	M4			
+4_R_Ru	Tuesday	Lunch			
+4_R_Ru	Tuesday	A1			
+4_R_Ru	Tuesday	A2	Flitwick	Charms	
+4_R_Ru	Tuesday	A3			
+4_R_Ru	Wednesday	M1	Binns	History of Magic	
+4_R_Ru	Wednesday	M2			
+4_R_Ru	Wednesday	M3			
+4_R_Ru	Wednesday	M4			
+4_R_Ru	Wednesday	Lunch			
+4_R_Ru	Wednesday	A1			
+4_R_Ru	Wednesday	A2	Sprout	Herbology	
+4_R_Ru	Wednesday	A3	McGonagall	Transfiguration	
+4_R_Ru	Thursday	M1	Snape	Potions	
+4_R_Ru	Thursday	M2	Snape	Potions	
+4_R_Ru	Thursday	M3			
+4_R_Ru	Thursday	M4			
+4_R_Ru	Thursday	Lunch			
+4_R_Ru	Thursday	A1	Flitwick	Charms	
+4_R_Ru	Thursday	A2	Batsheda Babbling	Runes	4_E2
+4_R_Ru	Thursday	A3	Batsheda Babbling	Runes	4_E2
+4_R_Ru	Friday	M1	Sprout	Herbology	
+4_R_Ru	Friday	M2			
+4_R_Ru	Friday	M3			
+4_R_Ru	Friday	M4			
+4_R_Ru	Friday	Lunch			
+4_R_Ru	Friday	A1	DADA Teacher	DADA	
+4_R_Ru	Friday	A2	Binns	History of Magic	
+4_R_Ru	Friday	A3	McGonagall	Transfiguration	
+4_R_Di	Monday	M1			
+4_R_Di	Monday	M2	Div Teacher	Divination	4_E2
+4_R_Di	Monday	M3			
+4_R_Di	Monday	M4			
+4_R_Di	Monday	Lunch			
+4_R_Di	Monday	A1	McGonagall	Transfiguration	
+4_R_Di	Monday	A2	Flitwick	Charms	
+4_R_Di	Monday	A3	Sprout	Herbology	
+4_R_Di	Tuesday	M1	Snape	Potions	
+4_R_Di	Tuesday	M2	DADA Teacher	DADA	
+4_R_Di	Tuesday	M3	DADA Teacher	DADA	
+4_R_Di	Tuesday	M4			
+4_R_Di	Tuesday	Lunch			
+4_R_Di	Tuesday	A1			
+4_R_Di	Tuesday	A2	Flitwick	Charms	
+4_R_Di	Tuesday	A3			
+4_R_Di	Wednesday	M1	Binns	History of Magic	
+4_R_Di	Wednesday	M2			
+4_R_Di	Wednesday	M3			
+4_R_Di	Wednesday	M4			
+4_R_Di	Wednesday	Lunch			
+4_R_Di	Wednesday	A1			
+4_R_Di	Wednesday	A2	Sprout	Herbology	
+4_R_Di	Wednesday	A3	McGonagall	Transfiguration	
+4_R_Di	Thursday	M1	Snape	Potions	
+4_R_Di	Thursday	M2	Snape	Potions	
+4_R_Di	Thursday	M3			
+4_R_Di	Thursday	M4			
+4_R_Di	Thursday	Lunch			
+4_R_Di	Thursday	A1	Flitwick	Charms	
+4_R_Di	Thursday	A2	Div Teacher	Divination	4_E2
+4_R_Di	Thursday	A3	Div Teacher	Divination	4_E2
+4_R_Di	Friday	M1	Sprout	Herbology	
+4_R_Di	Friday	M2			
+4_R_Di	Friday	M3			
+4_R_Di	Friday	M4			
+4_R_Di	Friday	Lunch			
+4_R_Di	Friday	A1	DADA Teacher	DADA	
+4_R_Di	Friday	A2	Binns	History of Magic	
+4_R_Di	Friday	A3	McGonagall	Transfiguration	
+4_R_Ca	Monday	M1			
+4_R_Ca	Monday	M2			
+4_R_Ca	Monday	M3			
+4_R_Ca	Monday	M4			
+4_R_Ca	Monday	Lunch			
+4_R_Ca	Monday	A1	McGonagall	Transfiguration	
+4_R_Ca	Monday	A2	Flitwick	Charms	
+4_R_Ca	Monday	A3	Sprout	Herbology	
+4_R_Ca	Tuesday	M1	Snape	Potions	
+4_R_Ca	Tuesday	M2	DADA Teacher	DADA	
+4_R_Ca	Tuesday	M3	DADA Teacher	DADA	
+4_R_Ca	Tuesday	M4			
+4_R_Ca	Tuesday	Lunch			
+4_R_Ca	Tuesday	A1			
+4_R_Ca	Tuesday	A2	Flitwick	Charms	
+4_R_Ca	Tuesday	A3	CoMC teacher	Care of Magical Creatures	4_E3
+4_R_Ca	Wednesday	M1	Binns	History of Magic	
+4_R_Ca	Wednesday	M2			
+4_R_Ca	Wednesday	M3			
+4_R_Ca	Wednesday	M4	CoMC teacher	Care of Magical Creatures	4_E3
+4_R_Ca	Wednesday	Lunch			
+4_R_Ca	Wednesday	A1			
+4_R_Ca	Wednesday	A2	Sprout	Herbology	
+4_R_Ca	Wednesday	A3	McGonagall	Transfiguration	
+4_R_Ca	Thursday	M1	Snape	Potions	
+4_R_Ca	Thursday	M2	Snape	Potions	
+4_R_Ca	Thursday	M3			
+4_R_Ca	Thursday	M4			
+4_R_Ca	Thursday	Lunch			
+4_R_Ca	Thursday	A1	Flitwick	Charms	
+4_R_Ca	Thursday	A2			
+4_R_Ca	Thursday	A3			
+4_R_Ca	Friday	M1	Sprout	Herbology	
+4_R_Ca	Friday	M2			
+4_R_Ca	Friday	M3			
+4_R_Ca	Friday	M4	CoMC teacher	Care of Magical Creatures	4_E3
+4_R_Ca	Friday	Lunch			
+4_R_Ca	Friday	A1	DADA Teacher	DADA	
+4_R_Ca	Friday	A2	Binns	History of Magic	
+4_R_Ca	Friday	A3	McGonagall	Transfiguration	
+4_H_Ar	Monday	M1	McGonagall	Transfiguration	
+4_H_Ar	Monday	M2	Flitwick	Charms	
+4_H_Ar	Monday	M3			
+4_H_Ar	Monday	M4	Sprout	Herbology	
+4_H_Ar	Monday	Lunch			
+4_H_Ar	Monday	A1			
+4_H_Ar	Monday	A2	Binns	History of Magic	
+4_H_Ar	Monday	A3	Vector	Arithmancy	4_E1
+4_H_Ar	Tuesday	M1	Snape	Potions	
+4_H_Ar	Tuesday	M2	DADA Teacher	DADA	
+4_H_Ar	Tuesday	M3	DADA Teacher	DADA	
+4_H_Ar	Tuesday	M4			
+4_H_Ar	Tuesday	Lunch			
+4_H_Ar	Tuesday	A1			
+4_H_Ar	Tuesday	A2			
+4_H_Ar	Tuesday	A3			
+4_H_Ar	Wednesday	M1	Flitwick	Charms	
+4_H_Ar	Wednesday	M2			
+4_H_Ar	Wednesday	M3	McGonagall	Transfiguration	
+4_H_Ar	Wednesday	M4			
+4_H_Ar	Wednesday	Lunch			
+4_H_Ar	Wednesday	A1	Vector	Arithmancy	4_E1
+4_H_Ar	Wednesday	A2	Vector	Arithmancy	4_E1
+4_H_Ar	Wednesday	A3	Sprout	Herbology	
+4_H_Ar	Thursday	M1	Snape	Potions	
+4_H_Ar	Thursday	M2	Snape	Potions	
+4_H_Ar	Thursday	M3			
+4_H_Ar	Thursday	M4			
+4_H_Ar	Thursday	Lunch			
+4_H_Ar	Thursday	A1			
+4_H_Ar	Thursday	A2			
+4_H_Ar	Thursday	A3	Binns	History of Magic	
+4_H_Ar	Friday	M1	McGonagall	Transfiguration	
+4_H_Ar	Friday	M2			
+4_H_Ar	Friday	M3			
+4_H_Ar	Friday	M4			
+4_H_Ar	Friday	Lunch			
+4_H_Ar	Friday	A1	DADA Teacher	DADA	
+4_H_Ar	Friday	A2	Flitwick	Charms	
+4_H_Ar	Friday	A3	Sprout	Herbology	
+4_H_Mu	Monday	M1	McGonagall	Transfiguration	
+4_H_Mu	Monday	M2	Flitwick	Charms	
+4_H_Mu	Monday	M3			
+4_H_Mu	Monday	M4	Sprout	Herbology	
+4_H_Mu	Monday	Lunch			
+4_H_Mu	Monday	A1			
+4_H_Mu	Monday	A2	Binns	History of Magic	
+4_H_Mu	Monday	A3	Burbage	Muggle Studies	4_E1
+4_H_Mu	Tuesday	M1	Snape	Potions	
+4_H_Mu	Tuesday	M2	DADA Teacher	DADA	
+4_H_Mu	Tuesday	M3	DADA Teacher	DADA	
+4_H_Mu	Tuesday	M4			
+4_H_Mu	Tuesday	Lunch			
+4_H_Mu	Tuesday	A1			
+4_H_Mu	Tuesday	A2			
+4_H_Mu	Tuesday	A3			
+4_H_Mu	Wednesday	M1	Flitwick	Charms	
+4_H_Mu	Wednesday	M2			
+4_H_Mu	Wednesday	M3	McGonagall	Transfiguration	
+4_H_Mu	Wednesday	M4			
+4_H_Mu	Wednesday	Lunch			
+4_H_Mu	Wednesday	A1	Burbage	Muggle Studies	4_E1
+4_H_Mu	Wednesday	A2			
+4_H_Mu	Wednesday	A3	Sprout	Herbology	
+4_H_Mu	Thursday	M1	Snape	Potions	
+4_H_Mu	Thursday	M2	Snape	Potions	
+4_H_Mu	Thursday	M3			
+4_H_Mu	Thursday	M4			
+4_H_Mu	Thursday	Lunch			
+4_H_Mu	Thursday	A1			
+4_H_Mu	Thursday	A2			
+4_H_Mu	Thursday	A3	Binns	History of Magic	
+4_H_Mu	Friday	M1	McGonagall	Transfiguration	
+4_H_Mu	Friday	M2			
+4_H_Mu	Friday	M3			
+4_H_Mu	Friday	M4			
+4_H_Mu	Friday	Lunch			
+4_H_Mu	Friday	A1	DADA Teacher	DADA	
+4_H_Mu	Friday	A2	Flitwick	Charms	
+4_H_Mu	Friday	A3	Sprout	Herbology	
+4_H_Ru	Monday	M1	McGonagall	Transfiguration	
+4_H_Ru	Monday	M2	Flitwick	Charms	
+4_H_Ru	Monday	M3			
+4_H_Ru	Monday	M4	Sprout	Herbology	
+4_H_Ru	Monday	Lunch			
+4_H_Ru	Monday	A1			
+4_H_Ru	Monday	A2	Binns	History of Magic	
+4_H_Ru	Monday	A3			
+4_H_Ru	Tuesday	M1	Snape	Potions	
+4_H_Ru	Tuesday	M2	DADA Teacher	DADA	
+4_H_Ru	Tuesday	M3	DADA Teacher	DADA	
+4_H_Ru	Tuesday	M4			
+4_H_Ru	Tuesday	Lunch			
+4_H_Ru	Tuesday	A1	Batsheda Babbling	Runes	4_E2
+4_H_Ru	Tuesday	A2	Batsheda Babbling	Runes	4_E2
+4_H_Ru	Tuesday	A3			
+4_H_Ru	Wednesday	M1	Flitwick	Charms	
+4_H_Ru	Wednesday	M2			
+4_H_Ru	Wednesday	M3	McGonagall	Transfiguration	
+4_H_Ru	Wednesday	M4			
+4_H_Ru	Wednesday	Lunch			
+4_H_Ru	Wednesday	A1			
+4_H_Ru	Wednesday	A2			
+4_H_Ru	Wednesday	A3	Sprout	Herbology	
+4_H_Ru	Thursday	M1	Snape	Potions	
+4_H_Ru	Thursday	M2	Snape	Potions	
+4_H_Ru	Thursday	M3			
+4_H_Ru	Thursday	M4			
+4_H_Ru	Thursday	Lunch			
+4_H_Ru	Thursday	A1	Batsheda Babbling	Runes	4_E2
+4_H_Ru	Thursday	A2			
+4_H_Ru	Thursday	A3	Binns	History of Magic	
+4_H_Ru	Friday	M1	McGonagall	Transfiguration	
+4_H_Ru	Friday	M2			
+4_H_Ru	Friday	M3			
+4_H_Ru	Friday	M4			
+4_H_Ru	Friday	Lunch			
+4_H_Ru	Friday	A1	DADA Teacher	DADA	
+4_H_Ru	Friday	A2	Flitwick	Charms	
+4_H_Ru	Friday	A3	Sprout	Herbology	
+4_H_Di	Monday	M1	McGonagall	Transfiguration	
+4_H_Di	Monday	M2	Flitwick	Charms	
+4_H_Di	Monday	M3			
+4_H_Di	Monday	M4	Sprout	Herbology	
+4_H_Di	Monday	Lunch			
+4_H_Di	Monday	A1			
+4_H_Di	Monday	A2	Binns	History of Magic	
+4_H_Di	Monday	A3			
+4_H_Di	Tuesday	M1	Snape	Potions	
+4_H_Di	Tuesday	M2	DADA Teacher	DADA	
+4_H_Di	Tuesday	M3	DADA Teacher	DADA	
+4_H_Di	Tuesday	M4			
+4_H_Di	Tuesday	Lunch			
+4_H_Di	Tuesday	A1	Div Teacher	Divination	4_E2
+4_H_Di	Tuesday	A2	Div Teacher	Divination	4_E2
+4_H_Di	Tuesday	A3			
+4_H_Di	Wednesday	M1	Flitwick	Charms	
+4_H_Di	Wednesday	M2			
+4_H_Di	Wednesday	M3	McGonagall	Transfiguration	
+4_H_Di	Wednesday	M4			
+4_H_Di	Wednesday	Lunch			
+4_H_Di	Wednesday	A1			
+4_H_Di	Wednesday	A2			
+4_H_Di	Wednesday	A3	Sprout	Herbology	
+4_H_Di	Thursday	M1	Snape	Potions	
+4_H_Di	Thursday	M2	Snape	Potions	
+4_H_Di	Thursday	M3			
+4_H_Di	Thursday	M4			
+4_H_Di	Thursday	Lunch			
+4_H_Di	Thursday	A1	Div Teacher	Divination	4_E2
+4_H_Di	Thursday	A2			
+4_H_Di	Thursday	A3	Binns	History of Magic	
+4_H_Di	Friday	M1	McGonagall	Transfiguration	
+4_H_Di	Friday	M2			
+4_H_Di	Friday	M3			
+4_H_Di	Friday	M4			
+4_H_Di	Friday	Lunch			
+4_H_Di	Friday	A1	DADA Teacher	DADA	
+4_H_Di	Friday	A2	Flitwick	Charms	
+4_H_Di	Friday	A3	Sprout	Herbology	
+4_H_Ca	Monday	M1	McGonagall	Transfiguration	
+4_H_Ca	Monday	M2	Flitwick	Charms	
+4_H_Ca	Monday	M3			
+4_H_Ca	Monday	M4	Sprout	Herbology	
+4_H_Ca	Monday	Lunch			
+4_H_Ca	Monday	A1			
+4_H_Ca	Monday	A2	Binns	History of Magic	
+4_H_Ca	Monday	A3			
+4_H_Ca	Tuesday	M1	Snape	Potions	
+4_H_Ca	Tuesday	M2	DADA Teacher	DADA	
+4_H_Ca	Tuesday	M3	DADA Teacher	DADA	
+4_H_Ca	Tuesday	M4			
+4_H_Ca	Tuesday	Lunch			
+4_H_Ca	Tuesday	A1			
+4_H_Ca	Tuesday	A2			
+4_H_Ca	Tuesday	A3	CoMC teacher	Care of Magical Creatures	4_E3
+4_H_Ca	Wednesday	M1	Flitwick	Charms	
+4_H_Ca	Wednesday	M2			
+4_H_Ca	Wednesday	M3	McGonagall	Transfiguration	
+4_H_Ca	Wednesday	M4	CoMC teacher	Care of Magical Creatures	4_E3
+4_H_Ca	Wednesday	Lunch			
+4_H_Ca	Wednesday	A1			
+4_H_Ca	Wednesday	A2			
+4_H_Ca	Wednesday	A3	Sprout	Herbology	
+4_H_Ca	Thursday	M1	Snape	Potions	
+4_H_Ca	Thursday	M2	Snape	Potions	
+4_H_Ca	Thursday	M3			
+4_H_Ca	Thursday	M4			
+4_H_Ca	Thursday	Lunch			
+4_H_Ca	Thursday	A1			
+4_H_Ca	Thursday	A2			
+4_H_Ca	Thursday	A3	Binns	History of Magic	
+4_H_Ca	Friday	M1	McGonagall	Transfiguration	
+4_H_Ca	Friday	M2			
+4_H_Ca	Friday	M3			
+4_H_Ca	Friday	M4	CoMC teacher	Care of Magical Creatures	4_E3
+4_H_Ca	Friday	Lunch			
+4_H_Ca	Friday	A1	DADA Teacher	DADA	
+4_H_Ca	Friday	A2	Flitwick	Charms	
+4_H_Ca	Friday	A3	Sprout	Herbology	
+5_G_Ar	Monday	M1	DADA Teacher	DADA	
+5_G_Ar	Monday	M2			
+5_G_Ar	Monday	M3	Binns	History of Magic	
+5_G_Ar	Monday	M4	Binns	History of Magic	
+5_G_Ar	Monday	Lunch			
+5_G_Ar	Monday	A1			
+5_G_Ar	Monday	A2			
+5_G_Ar	Monday	A3	Snape	Potions	
+5_G_Ar	Tuesday	M1	Flitwick	Charms	
+5_G_Ar	Tuesday	M2	Flitwick	Charms	
+5_G_Ar	Tuesday	M3			
+5_G_Ar	Tuesday	M4			
+5_G_Ar	Tuesday	Lunch			
+5_G_Ar	Tuesday	A1	Vector	Arithmancy	5_E1
+5_G_Ar	Tuesday	A2	Sprout	Herbology	
+5_G_Ar	Tuesday	A3	Sprout	Herbology	
+5_G_Ar	Wednesday	M1	McGonagall	Transfiguration	
+5_G_Ar	Wednesday	M2	McGonagall	Transfiguration	
+5_G_Ar	Wednesday	M3			
+5_G_Ar	Wednesday	M4	Binns	History of Magic	
+5_G_Ar	Wednesday	Lunch			
+5_G_Ar	Wednesday	A1			
+5_G_Ar	Wednesday	A2	DADA Teacher	DADA	
+5_G_Ar	Wednesday	A3	DADA Teacher	DADA	
+5_G_Ar	Thursday	M1			
+5_G_Ar	Thursday	M2			
+5_G_Ar	Thursday	M3	Vector	Arithmancy	5_E1
+5_G_Ar	Thursday	M4	Vector	Arithmancy	5_E1
+5_G_Ar	Thursday	Lunch			
+5_G_Ar	Thursday	A1			
+5_G_Ar	Thursday	A2	Flitwick	Charms	
+5_G_Ar	Thursday	A3	Sprout	Herbology	
+5_G_Ar	Friday	M1	Snape	Potions	
+5_G_Ar	Friday	M2	Snape	Potions	
+5_G_Ar	Friday	M3			
+5_G_Ar	Friday	M4			
+5_G_Ar	Friday	Lunch			
+5_G_Ar	Friday	A1	McGonagall	Transfiguration	
+5_G_Ar	Friday	A2			
+5_G_Ar	Friday	A3			
+5_G_Mu	Monday	M1	DADA Teacher	DADA	
+5_G_Mu	Monday	M2			
+5_G_Mu	Monday	M3	Binns	History of Magic	
+5_G_Mu	Monday	M4	Binns	History of Magic	
+5_G_Mu	Monday	Lunch			
+5_G_Mu	Monday	A1			
+5_G_Mu	Monday	A2			
+5_G_Mu	Monday	A3	Snape	Potions	
+5_G_Mu	Tuesday	M1	Flitwick	Charms	
+5_G_Mu	Tuesday	M2	Flitwick	Charms	
+5_G_Mu	Tuesday	M3			
+5_G_Mu	Tuesday	M4			
+5_G_Mu	Tuesday	Lunch			
+5_G_Mu	Tuesday	A1	Burbage	Muggle Studies	5_E1
+5_G_Mu	Tuesday	A2	Sprout	Herbology	
+5_G_Mu	Tuesday	A3	Sprout	Herbology	
+5_G_Mu	Wednesday	M1	McGonagall	Transfiguration	
+5_G_Mu	Wednesday	M2	McGonagall	Transfiguration	
+5_G_Mu	Wednesday	M3			
+5_G_Mu	Wednesday	M4	Binns	History of Magic	
+5_G_Mu	Wednesday	Lunch			
+5_G_Mu	Wednesday	A1			
+5_G_Mu	Wednesday	A2	DADA Teacher	DADA	
+5_G_Mu	Wednesday	A3	DADA Teacher	DADA	
+5_G_Mu	Thursday	M1			
+5_G_Mu	Thursday	M2			
+5_G_Mu	Thursday	M3			
+5_G_Mu	Thursday	M4	Burbage	Muggle Studies	5_E1
+5_G_Mu	Thursday	Lunch			
+5_G_Mu	Thursday	A1			
+5_G_Mu	Thursday	A2	Flitwick	Charms	
+5_G_Mu	Thursday	A3	Sprout	Herbology	
+5_G_Mu	Friday	M1	Snape	Potions	
+5_G_Mu	Friday	M2	Snape	Potions	
+5_G_Mu	Friday	M3			
+5_G_Mu	Friday	M4			
+5_G_Mu	Friday	Lunch			
+5_G_Mu	Friday	A1	McGonagall	Transfiguration	
+5_G_Mu	Friday	A2			
+5_G_Mu	Friday	A3			
+5_G_Ru	Monday	M1	DADA Teacher	DADA	
+5_G_Ru	Monday	M2			
+5_G_Ru	Monday	M3	Binns	History of Magic	
+5_G_Ru	Monday	M4	Binns	History of Magic	
+5_G_Ru	Monday	Lunch			
+5_G_Ru	Monday	A1			
+5_G_Ru	Monday	A2			
+5_G_Ru	Monday	A3	Snape	Potions	
+5_G_Ru	Tuesday	M1	Flitwick	Charms	
+5_G_Ru	Tuesday	M2	Flitwick	Charms	
+5_G_Ru	Tuesday	M3			
+5_G_Ru	Tuesday	M4	Batsheda Babbling	Runes	5_E2
+5_G_Ru	Tuesday	Lunch			
+5_G_Ru	Tuesday	A1			
+5_G_Ru	Tuesday	A2	Sprout	Herbology	
+5_G_Ru	Tuesday	A3	Sprout	Herbology	
+5_G_Ru	Wednesday	M1	McGonagall	Transfiguration	
+5_G_Ru	Wednesday	M2	McGonagall	Transfiguration	
+5_G_Ru	Wednesday	M3			
+5_G_Ru	Wednesday	M4	Binns	History of Magic	
+5_G_Ru	Wednesday	Lunch			
+5_G_Ru	Wednesday	A1			
+5_G_Ru	Wednesday	A2	DADA Teacher	DADA	
+5_G_Ru	Wednesday	A3	DADA Teacher	DADA	
+5_G_Ru	Thursday	M1	Batsheda Babbling	Runes	5_E2
+5_G_Ru	Thursday	M2			
+5_G_Ru	Thursday	M3			
+5_G_Ru	Thursday	M4			
+5_G_Ru	Thursday	Lunch			
+5_G_Ru	Thursday	A1			
+5_G_Ru	Thursday	A2	Flitwick	Charms	
+5_G_Ru	Thursday	A3	Sprout	Herbology	
+5_G_Ru	Friday	M1	Snape	Potions	
+5_G_Ru	Friday	M2	Snape	Potions	
+5_G_Ru	Friday	M3			
+5_G_Ru	Friday	M4			
+5_G_Ru	Friday	Lunch			
+5_G_Ru	Friday	A1	McGonagall	Transfiguration	
+5_G_Ru	Friday	A2			
+5_G_Ru	Friday	A3	Batsheda Babbling	Runes	5_E2
+5_G_Di	Monday	M1	DADA Teacher	DADA	
+5_G_Di	Monday	M2			
+5_G_Di	Monday	M3	Binns	History of Magic	
+5_G_Di	Monday	M4	Binns	History of Magic	
+5_G_Di	Monday	Lunch			
+5_G_Di	Monday	A1			
+5_G_Di	Monday	A2			
+5_G_Di	Monday	A3	Snape	Potions	
+5_G_Di	Tuesday	M1	Flitwick	Charms	
+5_G_Di	Tuesday	M2	Flitwick	Charms	
+5_G_Di	Tuesday	M3			
+5_G_Di	Tuesday	M4	Div Teacher	Divination	5_E2
+5_G_Di	Tuesday	Lunch			
+5_G_Di	Tuesday	A1			
+5_G_Di	Tuesday	A2	Sprout	Herbology	
+5_G_Di	Tuesday	A3	Sprout	Herbology	
+5_G_Di	Wednesday	M1	McGonagall	Transfiguration	
+5_G_Di	Wednesday	M2	McGonagall	Transfiguration	
+5_G_Di	Wednesday	M3			
+5_G_Di	Wednesday	M4	Binns	History of Magic	
+5_G_Di	Wednesday	Lunch			
+5_G_Di	Wednesday	A1			
+5_G_Di	Wednesday	A2	DADA Teacher	DADA	
+5_G_Di	Wednesday	A3	DADA Teacher	DADA	
+5_G_Di	Thursday	M1			
+5_G_Di	Thursday	M2			
+5_G_Di	Thursday	M3			
+5_G_Di	Thursday	M4			
+5_G_Di	Thursday	Lunch			
+5_G_Di	Thursday	A1			
+5_G_Di	Thursday	A2	Flitwick	Charms	
+5_G_Di	Thursday	A3	Sprout	Herbology	
+5_G_Di	Friday	M1	Snape	Potions	
+5_G_Di	Friday	M2	Snape	Potions	
+5_G_Di	Friday	M3			
+5_G_Di	Friday	M4			
+5_G_Di	Friday	Lunch			
+5_G_Di	Friday	A1	McGonagall	Transfiguration	
+5_G_Di	Friday	A2			
+5_G_Di	Friday	A3	Div Teacher	Divination	5_E2
+5_G_Ca	Monday	M1	DADA Teacher	DADA	
+5_G_Ca	Monday	M2	CoMC teacher	Care of Magical Creatures	5_E3
+5_G_Ca	Monday	M3	Binns	History of Magic	
+5_G_Ca	Monday	M4	Binns	History of Magic	
+5_G_Ca	Monday	Lunch			
+5_G_Ca	Monday	A1			
+5_G_Ca	Monday	A2			
+5_G_Ca	Monday	A3	Snape	Potions	
+5_G_Ca	Tuesday	M1	Flitwick	Charms	
+5_G_Ca	Tuesday	M2	Flitwick	Charms	
+5_G_Ca	Tuesday	M3			
+5_G_Ca	Tuesday	M4			
+5_G_Ca	Tuesday	Lunch			
+5_G_Ca	Tuesday	A1			
+5_G_Ca	Tuesday	A2	Sprout	Herbology	
+5_G_Ca	Tuesday	A3	Sprout	Herbology	
+5_G_Ca	Wednesday	M1	McGonagall	Transfiguration	
+5_G_Ca	Wednesday	M2	McGonagall	Transfiguration	
+5_G_Ca	Wednesday	M3			
+5_G_Ca	Wednesday	M4	Binns	History of Magic	
+5_G_Ca	Wednesday	Lunch			
+5_G_Ca	Wednesday	A1	CoMC teacher	Care of Magical Creatures	5_E3
+5_G_Ca	Wednesday	A2	DADA Teacher	DADA	
+5_G_Ca	Wednesday	A3	DADA Teacher	DADA	
+5_G_Ca	Thursday	M1			
+5_G_Ca	Thursday	M2			
+5_G_Ca	Thursday	M3			
+5_G_Ca	Thursday	M4			
+5_G_Ca	Thursday	Lunch			
+5_G_Ca	Thursday	A1			
+5_G_Ca	Thursday	A2	Flitwick	Charms	
+5_G_Ca	Thursday	A3	Sprout	Herbology	
+5_G_Ca	Friday	M1	Snape	Potions	
+5_G_Ca	Friday	M2	Snape	Potions	
+5_G_Ca	Friday	M3	CoMC teacher	Care of Magical Creatures	5_E3
+5_G_Ca	Friday	M4			
+5_G_Ca	Friday	Lunch			
+5_G_Ca	Friday	A1	McGonagall	Transfiguration	
+5_G_Ca	Friday	A2			
+5_G_Ca	Friday	A3			
+5_S_Ar	Monday	M1	DADA Teacher	DADA	
+5_S_Ar	Monday	M2			
+5_S_Ar	Monday	M3			
+5_S_Ar	Monday	M4			
+5_S_Ar	Monday	Lunch			
+5_S_Ar	Monday	A1	Vector	Arithmancy	5_E1
+5_S_Ar	Monday	A2			
+5_S_Ar	Monday	A3	Snape	Potions	
+5_S_Ar	Tuesday	M1	Binns	History of Magic	
+5_S_Ar	Tuesday	M2			
+5_S_Ar	Tuesday	M3			
+5_S_Ar	Tuesday	M4			
+5_S_Ar	Tuesday	Lunch			
+5_S_Ar	Tuesday	A1	Sprout	Herbology	
+5_S_Ar	Tuesday	A2	McGonagall	Transfiguration	
+5_S_Ar	Tuesday	A3	McGonagall	Transfiguration	
+5_S_Ar	Wednesday	M1	Vector	Arithmancy	5_E1
+5_S_Ar	Wednesday	M2			
+5_S_Ar	Wednesday	M3	Flitwick	Charms	
+5_S_Ar	Wednesday	M4	Flitwick	Charms	
+5_S_Ar	Wednesday	Lunch			
+5_S_Ar	Wednesday	A1			
+5_S_Ar	Wednesday	A2	DADA Teacher	DADA	
+5_S_Ar	Wednesday	A3	DADA Teacher	DADA	
+5_S_Ar	Thursday	M1			
+5_S_Ar	Thursday	M2	Sprout	Herbology	
+5_S_Ar	Thursday	M3	Sprout	Herbology	
+5_S_Ar	Thursday	M4			
+5_S_Ar	Thursday	Lunch			
+5_S_Ar	Thursday	A1	Binns	History of Magic	
+5_S_Ar	Thursday	A2	Binns	History of Magic	
+5_S_Ar	Thursday	A3	McGonagall	Transfiguration	
+5_S_Ar	Friday	M1	Snape	Potions	
+5_S_Ar	Friday	M2	Snape	Potions	
+5_S_Ar	Friday	M3			
+5_S_Ar	Friday	M4			
+5_S_Ar	Friday	Lunch			
+5_S_Ar	Friday	A1	Vector	Arithmancy	5_E1
+5_S_Ar	Friday	A2			
+5_S_Ar	Friday	A3	Flitwick	Charms	
+5_S_Mu	Monday	M1	DADA Teacher	DADA	
+5_S_Mu	Monday	M2			
+5_S_Mu	Monday	M3			
+5_S_Mu	Monday	M4			
+5_S_Mu	Monday	Lunch			
+5_S_Mu	Monday	A1			
+5_S_Mu	Monday	A2			
+5_S_Mu	Monday	A3	Snape	Potions	
+5_S_Mu	Tuesday	M1	Binns	History of Magic	
+5_S_Mu	Tuesday	M2			
+5_S_Mu	Tuesday	M3			
+5_S_Mu	Tuesday	M4			
+5_S_Mu	Tuesday	Lunch			
+5_S_Mu	Tuesday	A1	Sprout	Herbology	
+5_S_Mu	Tuesday	A2	McGonagall	Transfiguration	
+5_S_Mu	Tuesday	A3	McGonagall	Transfiguration	
+5_S_Mu	Wednesday	M1	Burbage	Muggle Studies	5_E1
+5_S_Mu	Wednesday	M2			
+5_S_Mu	Wednesday	M3	Flitwick	Charms	
+5_S_Mu	Wednesday	M4	Flitwick	Charms	
+5_S_Mu	Wednesday	Lunch			
+5_S_Mu	Wednesday	A1			
+5_S_Mu	Wednesday	A2	DADA Teacher	DADA	
+5_S_Mu	Wednesday	A3	DADA Teacher	DADA	
+5_S_Mu	Thursday	M1			
+5_S_Mu	Thursday	M2	Sprout	Herbology	
+5_S_Mu	Thursday	M3	Sprout	Herbology	
+5_S_Mu	Thursday	M4			
+5_S_Mu	Thursday	Lunch			
+5_S_Mu	Thursday	A1	Binns	History of Magic	
+5_S_Mu	Thursday	A2	Binns	History of Magic	
+5_S_Mu	Thursday	A3	McGonagall	Transfiguration	
+5_S_Mu	Friday	M1	Snape	Potions	
+5_S_Mu	Friday	M2	Snape	Potions	
+5_S_Mu	Friday	M3			
+5_S_Mu	Friday	M4			
+5_S_Mu	Friday	Lunch			
+5_S_Mu	Friday	A1	Burbage	Muggle Studies	5_E1
+5_S_Mu	Friday	A2			
+5_S_Mu	Friday	A3	Flitwick	Charms	
+5_S_Ru	Monday	M1	DADA Teacher	DADA	
+5_S_Ru	Monday	M2			
+5_S_Ru	Monday	M3			
+5_S_Ru	Monday	M4			
+5_S_Ru	Monday	Lunch			
+5_S_Ru	Monday	A1			
+5_S_Ru	Monday	A2			
+5_S_Ru	Monday	A3	Snape	Potions	
+5_S_Ru	Tuesday	M1	Binns	History of Magic	
+5_S_Ru	Tuesday	M2	Batsheda Babbling	Runes	5_E2
+5_S_Ru	Tuesday	M3	Batsheda Babbling	Runes	5_E2
+5_S_Ru	Tuesday	M4			
+5_S_Ru	Tuesday	Lunch			
+5_S_Ru	Tuesday	A1	Sprout	Herbology	
+5_S_Ru	Tuesday	A2	McGonagall	Transfiguration	
+5_S_Ru	Tuesday	A3	McGonagall	Transfiguration	
+5_S_Ru	Wednesday	M1			
+5_S_Ru	Wednesday	M2			
+5_S_Ru	Wednesday	M3	Flitwick	Charms	
+5_S_Ru	Wednesday	M4	Flitwick	Charms	
+5_S_Ru	Wednesday	Lunch			
+5_S_Ru	Wednesday	A1			
+5_S_Ru	Wednesday	A2	DADA Teacher	DADA	
+5_S_Ru	Wednesday	A3	DADA Teacher	DADA	
+5_S_Ru	Thursday	M1			
+5_S_Ru	Thursday	M2	Sprout	Herbology	
+5_S_Ru	Thursday	M3	Sprout	Herbology	
+5_S_Ru	Thursday	M4			
+5_S_Ru	Thursday	Lunch			
+5_S_Ru	Thursday	A1	Binns	History of Magic	
+5_S_Ru	Thursday	A2	Binns	History of Magic	
+5_S_Ru	Thursday	A3	McGonagall	Transfiguration	
+5_S_Ru	Friday	M1	Snape	Potions	
+5_S_Ru	Friday	M2	Snape	Potions	
+5_S_Ru	Friday	M3			
+5_S_Ru	Friday	M4	Batsheda Babbling	Runes	5_E2
+5_S_Ru	Friday	Lunch			
+5_S_Ru	Friday	A1			
+5_S_Ru	Friday	A2			
+5_S_Ru	Friday	A3	Flitwick	Charms	
+5_S_Di	Monday	M1	DADA Teacher	DADA	
+5_S_Di	Monday	M2			
+5_S_Di	Monday	M3	Div Teacher	Divination	5_E2
+5_S_Di	Monday	M4			
+5_S_Di	Monday	Lunch			
+5_S_Di	Monday	A1			
+5_S_Di	Monday	A2			
+5_S_Di	Monday	A3	Snape	Potions	
+5_S_Di	Tuesday	M1	Binns	History of Magic	
+5_S_Di	Tuesday	M2			
+5_S_Di	Tuesday	M3			
+5_S_Di	Tuesday	M4			
+5_S_Di	Tuesday	Lunch			
+5_S_Di	Tuesday	A1	Sprout	Herbology	
+5_S_Di	Tuesday	A2	McGonagall	Transfiguration	
+5_S_Di	Tuesday	A3	McGonagall	Transfiguration	
+5_S_Di	Wednesday	M1			
+5_S_Di	Wednesday	M2			
+5_S_Di	Wednesday	M3	Flitwick	Charms	
+5_S_Di	Wednesday	M4	Flitwick	Charms	
+5_S_Di	Wednesday	Lunch			
+5_S_Di	Wednesday	A1			
+5_S_Di	Wednesday	A2	DADA Teacher	DADA	
+5_S_Di	Wednesday	A3	DADA Teacher	DADA	
+5_S_Di	Thursday	M1			
+5_S_Di	Thursday	M2	Sprout	Herbology	
+5_S_Di	Thursday	M3	Sprout	Herbology	
+5_S_Di	Thursday	M4			
+5_S_Di	Thursday	Lunch			
+5_S_Di	Thursday	A1	Binns	History of Magic	
+5_S_Di	Thursday	A2	Binns	History of Magic	
+5_S_Di	Thursday	A3	McGonagall	Transfiguration	
+5_S_Di	Friday	M1	Snape	Potions	
+5_S_Di	Friday	M2	Snape	Potions	
+5_S_Di	Friday	M3			
+5_S_Di	Friday	M4			
+5_S_Di	Friday	Lunch			
+5_S_Di	Friday	A1			
+5_S_Di	Friday	A2	Div Teacher	Divination	5_E2
+5_S_Di	Friday	A3	Flitwick	Charms	
+5_S_Ca	Monday	M1	DADA Teacher	DADA	
+5_S_Ca	Monday	M2	CoMC teacher	Care of Magical Creatures	5_E3
+5_S_Ca	Monday	M3			
+5_S_Ca	Monday	M4			
+5_S_Ca	Monday	Lunch			
+5_S_Ca	Monday	A1			
+5_S_Ca	Monday	A2			
+5_S_Ca	Monday	A3	Snape	Potions	
+5_S_Ca	Tuesday	M1	Binns	History of Magic	
+5_S_Ca	Tuesday	M2			
+5_S_Ca	Tuesday	M3			
+5_S_Ca	Tuesday	M4			
+5_S_Ca	Tuesday	Lunch			
+5_S_Ca	Tuesday	A1	Sprout	Herbology	
+5_S_Ca	Tuesday	A2	McGonagall	Transfiguration	
+5_S_Ca	Tuesday	A3	McGonagall	Transfiguration	
+5_S_Ca	Wednesday	M1			
+5_S_Ca	Wednesday	M2			
+5_S_Ca	Wednesday	M3	Flitwick	Charms	
+5_S_Ca	Wednesday	M4	Flitwick	Charms	
+5_S_Ca	Wednesday	Lunch			
+5_S_Ca	Wednesday	A1	CoMC teacher	Care of Magical Creatures	5_E3
+5_S_Ca	Wednesday	A2	DADA Teacher	DADA	
+5_S_Ca	Wednesday	A3	DADA Teacher	DADA	
+5_S_Ca	Thursday	M1			
+5_S_Ca	Thursday	M2	Sprout	Herbology	
+5_S_Ca	Thursday	M3	Sprout	Herbology	
+5_S_Ca	Thursday	M4			
+5_S_Ca	Thursday	Lunch			
+5_S_Ca	Thursday	A1	Binns	History of Magic	
+5_S_Ca	Thursday	A2	Binns	History of Magic	
+5_S_Ca	Thursday	A3	McGonagall	Transfiguration	
+5_S_Ca	Friday	M1	Snape	Potions	
+5_S_Ca	Friday	M2	Snape	Potions	
+5_S_Ca	Friday	M3	CoMC teacher	Care of Magical Creatures	5_E3
+5_S_Ca	Friday	M4			
+5_S_Ca	Friday	Lunch			
+5_S_Ca	Friday	A1			
+5_S_Ca	Friday	A2			
+5_S_Ca	Friday	A3	Flitwick	Charms	
+5_R_Ar	Monday	M1	Snape	Potions	
+5_R_Ar	Monday	M2	Snape	Potions	
+5_R_Ar	Monday	M3	Binns	History of Magic	
+5_R_Ar	Monday	M4	Binns	History of Magic	
+5_R_Ar	Monday	Lunch			
+5_R_Ar	Monday	A1	Vector	Arithmancy	5_E1
+5_R_Ar	Monday	A2	DADA Teacher	DADA	
+5_R_Ar	Monday	A3	DADA Teacher	DADA	
+5_R_Ar	Tuesday	M1	Flitwick	Charms	
+5_R_Ar	Tuesday	M2	Flitwick	Charms	
+5_R_Ar	Tuesday	M3			
+5_R_Ar	Tuesday	M4			
+5_R_Ar	Tuesday	Lunch			
+5_R_Ar	Tuesday	A1	Sprout	Herbology	
+5_R_Ar	Tuesday	A2	McGonagall	Transfiguration	
+5_R_Ar	Tuesday	A3	McGonagall	Transfiguration	
+5_R_Ar	Wednesday	M1	Vector	Arithmancy	5_E1
+5_R_Ar	Wednesday	M2			
+5_R_Ar	Wednesday	M3			
+5_R_Ar	Wednesday	M4	Binns	History of Magic	
+5_R_Ar	Wednesday	Lunch			
+5_R_Ar	Wednesday	A1			
+5_R_Ar	Wednesday	A2			
+5_R_Ar	Wednesday	A3			
+5_R_Ar	Thursday	M1			
+5_R_Ar	Thursday	M2	Sprout	Herbology	
+5_R_Ar	Thursday	M3	Sprout	Herbology	
+5_R_Ar	Thursday	M4			
+5_R_Ar	Thursday	Lunch			
+5_R_Ar	Thursday	A1			
+5_R_Ar	Thursday	A2	Flitwick	Charms	
+5_R_Ar	Thursday	A3	McGonagall	Transfiguration	
+5_R_Ar	Friday	M1	DADA Teacher	DADA	
+5_R_Ar	Friday	M2			
+5_R_Ar	Friday	M3	Snape	Potions	
+5_R_Ar	Friday	M4			
+5_R_Ar	Friday	Lunch			
+5_R_Ar	Friday	A1	Vector	Arithmancy	5_E1
+5_R_Ar	Friday	A2			
+5_R_Ar	Friday	A3			
+5_R_Mu	Monday	M1	Snape	Potions	
+5_R_Mu	Monday	M2	Snape	Potions	
+5_R_Mu	Monday	M3	Binns	History of Magic	
+5_R_Mu	Monday	M4	Binns	History of Magic	
+5_R_Mu	Monday	Lunch			
+5_R_Mu	Monday	A1			
+5_R_Mu	Monday	A2	DADA Teacher	DADA	
+5_R_Mu	Monday	A3	DADA Teacher	DADA	
+5_R_Mu	Tuesday	M1	Flitwick	Charms	
+5_R_Mu	Tuesday	M2	Flitwick	Charms	
+5_R_Mu	Tuesday	M3			
+5_R_Mu	Tuesday	M4			
+5_R_Mu	Tuesday	Lunch			
+5_R_Mu	Tuesday	A1	Sprout	Herbology	
+5_R_Mu	Tuesday	A2	McGonagall	Transfiguration	
+5_R_Mu	Tuesday	A3	McGonagall	Transfiguration	
+5_R_Mu	Wednesday	M1	Burbage	Muggle Studies	5_E1
+5_R_Mu	Wednesday	M2			
+5_R_Mu	Wednesday	M3			
+5_R_Mu	Wednesday	M4	Binns	History of Magic	
+5_R_Mu	Wednesday	Lunch			
+5_R_Mu	Wednesday	A1			
+5_R_Mu	Wednesday	A2			
+5_R_Mu	Wednesday	A3			
+5_R_Mu	Thursday	M1			
+5_R_Mu	Thursday	M2	Sprout	Herbology	
+5_R_Mu	Thursday	M3	Sprout	Herbology	
+5_R_Mu	Thursday	M4			
+5_R_Mu	Thursday	Lunch			
+5_R_Mu	Thursday	A1			
+5_R_Mu	Thursday	A2	Flitwick	Charms	
+5_R_Mu	Thursday	A3	McGonagall	Transfiguration	
+5_R_Mu	Friday	M1	DADA Teacher	DADA	
+5_R_Mu	Friday	M2			
+5_R_Mu	Friday	M3	Snape	Potions	
+5_R_Mu	Friday	M4			
+5_R_Mu	Friday	Lunch			
+5_R_Mu	Friday	A1	Burbage	Muggle Studies	5_E1
+5_R_Mu	Friday	A2			
+5_R_Mu	Friday	A3			
+5_R_Ru	Monday	M1	Snape	Potions	
+5_R_Ru	Monday	M2	Snape	Potions	
+5_R_Ru	Monday	M3	Binns	History of Magic	
+5_R_Ru	Monday	M4	Binns	History of Magic	
+5_R_Ru	Monday	Lunch			
+5_R_Ru	Monday	A1			
+5_R_Ru	Monday	A2	DADA Teacher	DADA	
+5_R_Ru	Monday	A3	DADA Teacher	DADA	
+5_R_Ru	Tuesday	M1	Flitwick	Charms	
+5_R_Ru	Tuesday	M2	Flitwick	Charms	
+5_R_Ru	Tuesday	M3			
+5_R_Ru	Tuesday	M4	Batsheda Babbling	Runes	5_E2
+5_R_Ru	Tuesday	Lunch			
+5_R_Ru	Tuesday	A1	Sprout	Herbology	
+5_R_Ru	Tuesday	A2	McGonagall	Transfiguration	
+5_R_Ru	Tuesday	A3	McGonagall	Transfiguration	
+5_R_Ru	Wednesday	M1			
+5_R_Ru	Wednesday	M2			
+5_R_Ru	Wednesday	M3			
+5_R_Ru	Wednesday	M4	Binns	History of Magic	
+5_R_Ru	Wednesday	Lunch			
+5_R_Ru	Wednesday	A1			
+5_R_Ru	Wednesday	A2			
+5_R_Ru	Wednesday	A3			
+5_R_Ru	Thursday	M1	Batsheda Babbling	Runes	5_E2
+5_R_Ru	Thursday	M2	Sprout	Herbology	
+5_R_Ru	Thursday	M3	Sprout	Herbology	
+5_R_Ru	Thursday	M4			
+5_R_Ru	Thursday	Lunch			
+5_R_Ru	Thursday	A1			
+5_R_Ru	Thursday	A2	Flitwick	Charms	
+5_R_Ru	Thursday	A3	McGonagall	Transfiguration	
+5_R_Ru	Friday	M1	DADA Teacher	DADA	
+5_R_Ru	Friday	M2			
+5_R_Ru	Friday	M3	Snape	Potions	
+5_R_Ru	Friday	M4			
+5_R_Ru	Friday	Lunch			
+5_R_Ru	Friday	A1			
+5_R_Ru	Friday	A2			
+5_R_Ru	Friday	A3	Batsheda Babbling	Runes	5_E2
+5_R_Di	Monday	M1	Snape	Potions	
+5_R_Di	Monday	M2	Snape	Potions	
+5_R_Di	Monday	M3	Binns	History of Magic	
+5_R_Di	Monday	M4	Binns	History of Magic	
+5_R_Di	Monday	Lunch			
+5_R_Di	Monday	A1			
+5_R_Di	Monday	A2	DADA Teacher	DADA	
+5_R_Di	Monday	A3	DADA Teacher	DADA	
+5_R_Di	Tuesday	M1	Flitwick	Charms	
+5_R_Di	Tuesday	M2	Flitwick	Charms	
+5_R_Di	Tuesday	M3			
+5_R_Di	Tuesday	M4	Div Teacher	Divination	5_E2
+5_R_Di	Tuesday	Lunch			
+5_R_Di	Tuesday	A1	Sprout	Herbology	
+5_R_Di	Tuesday	A2	McGonagall	Transfiguration	
+5_R_Di	Tuesday	A3	McGonagall	Transfiguration	
+5_R_Di	Wednesday	M1			
+5_R_Di	Wednesday	M2			
+5_R_Di	Wednesday	M3			
+5_R_Di	Wednesday	M4	Binns	History of Magic	
+5_R_Di	Wednesday	Lunch			
+5_R_Di	Wednesday	A1			
+5_R_Di	Wednesday	A2			
+5_R_Di	Wednesday	A3			
+5_R_Di	Thursday	M1			
+5_R_Di	Thursday	M2	Sprout	Herbology	
+5_R_Di	Thursday	M3	Sprout	Herbology	
+5_R_Di	Thursday	M4			
+5_R_Di	Thursday	Lunch			
+5_R_Di	Thursday	A1			
+5_R_Di	Thursday	A2	Flitwick	Charms	
+5_R_Di	Thursday	A3	McGonagall	Transfiguration	
+5_R_Di	Friday	M1	DADA Teacher	DADA	
+5_R_Di	Friday	M2			
+5_R_Di	Friday	M3	Snape	Potions	
+5_R_Di	Friday	M4			
+5_R_Di	Friday	Lunch			
+5_R_Di	Friday	A1			
+5_R_Di	Friday	A2			
+5_R_Di	Friday	A3	Div Teacher	Divination	5_E2
+5_R_Ca	Monday	M1	Snape	Potions	
+5_R_Ca	Monday	M2	Snape	Potions	
+5_R_Ca	Monday	M3	Binns	History of Magic	
+5_R_Ca	Monday	M4	Binns	History of Magic	
+5_R_Ca	Monday	Lunch			
+5_R_Ca	Monday	A1			
+5_R_Ca	Monday	A2	DADA Teacher	DADA	
+5_R_Ca	Monday	A3	DADA Teacher	DADA	
+5_R_Ca	Tuesday	M1	Flitwick	Charms	
+5_R_Ca	Tuesday	M2	Flitwick	Charms	
+5_R_Ca	Tuesday	M3			
+5_R_Ca	Tuesday	M4			
+5_R_Ca	Tuesday	Lunch			
+5_R_Ca	Tuesday	A1	Sprout	Herbology	
+5_R_Ca	Tuesday	A2	McGonagall	Transfiguration	
+5_R_Ca	Tuesday	A3	McGonagall	Transfiguration	
+5_R_Ca	Wednesday	M1			
+5_R_Ca	Wednesday	M2			
+5_R_Ca	Wednesday	M3			
+5_R_Ca	Wednesday	M4	Binns	History of Magic	
+5_R_Ca	Wednesday	Lunch			
+5_R_Ca	Wednesday	A1			
+5_R_Ca	Wednesday	A2	CoMC teacher	Care of Magical Creatures	5_E3
+5_R_Ca	Wednesday	A3	CoMC teacher	Care of Magical Creatures	5_E3
+5_R_Ca	Thursday	M1			
+5_R_Ca	Thursday	M2	Sprout	Herbology	
+5_R_Ca	Thursday	M3	Sprout	Herbology	
+5_R_Ca	Thursday	M4			
+5_R_Ca	Thursday	Lunch			
+5_R_Ca	Thursday	A1			
+5_R_Ca	Thursday	A2	Flitwick	Charms	
+5_R_Ca	Thursday	A3	McGonagall	Transfiguration	
+5_R_Ca	Friday	M1	DADA Teacher	DADA	
+5_R_Ca	Friday	M2	CoMC teacher	Care of Magical Creatures	5_E3
+5_R_Ca	Friday	M3	Snape	Potions	
+5_R_Ca	Friday	M4			
+5_R_Ca	Friday	Lunch			
+5_R_Ca	Friday	A1			
+5_R_Ca	Friday	A2			
+5_R_Ca	Friday	A3			
+5_H_Ar	Monday	M1	Snape	Potions	
+5_H_Ar	Monday	M2	Snape	Potions	
+5_H_Ar	Monday	M3			
+5_H_Ar	Monday	M4			
+5_H_Ar	Monday	Lunch			
+5_H_Ar	Monday	A1			
+5_H_Ar	Monday	A2	DADA Teacher	DADA	
+5_H_Ar	Monday	A3	DADA Teacher	DADA	
+5_H_Ar	Tuesday	M1	Binns	History of Magic	
+5_H_Ar	Tuesday	M2			
+5_H_Ar	Tuesday	M3			
+5_H_Ar	Tuesday	M4			
+5_H_Ar	Tuesday	Lunch			
+5_H_Ar	Tuesday	A1	Vector	Arithmancy	5_E1
+5_H_Ar	Tuesday	A2	Sprout	Herbology	
+5_H_Ar	Tuesday	A3	Sprout	Herbology	
+5_H_Ar	Wednesday	M1	McGonagall	Transfiguration	
+5_H_Ar	Wednesday	M2	McGonagall	Transfiguration	
+5_H_Ar	Wednesday	M3	Flitwick	Charms	
+5_H_Ar	Wednesday	M4	Flitwick	Charms	
+5_H_Ar	Wednesday	Lunch			
+5_H_Ar	Wednesday	A1			
+5_H_Ar	Wednesday	A2			
+5_H_Ar	Wednesday	A3			
+5_H_Ar	Thursday	M1			
+5_H_Ar	Thursday	M2			
+5_H_Ar	Thursday	M3	Vector	Arithmancy	5_E1
+5_H_Ar	Thursday	M4	Vector	Arithmancy	5_E1
+5_H_Ar	Thursday	Lunch			
+5_H_Ar	Thursday	A1	Binns	History of Magic	
+5_H_Ar	Thursday	A2	Binns	History of Magic	
+5_H_Ar	Thursday	A3	Sprout	Herbology	
+5_H_Ar	Friday	M1	DADA Teacher	DADA	
+5_H_Ar	Friday	M2			
+5_H_Ar	Friday	M3	Snape	Potions	
+5_H_Ar	Friday	M4			
+5_H_Ar	Friday	Lunch			
+5_H_Ar	Friday	A1	McGonagall	Transfiguration	
+5_H_Ar	Friday	A2			
+5_H_Ar	Friday	A3	Flitwick	Charms	
+5_H_Mu	Monday	M1	Snape	Potions	
+5_H_Mu	Monday	M2	Snape	Potions	
+5_H_Mu	Monday	M3			
+5_H_Mu	Monday	M4			
+5_H_Mu	Monday	Lunch			
+5_H_Mu	Monday	A1			
+5_H_Mu	Monday	A2	DADA Teacher	DADA	
+5_H_Mu	Monday	A3	DADA Teacher	DADA	
+5_H_Mu	Tuesday	M1	Binns	History of Magic	
+5_H_Mu	Tuesday	M2			
+5_H_Mu	Tuesday	M3			
+5_H_Mu	Tuesday	M4			
+5_H_Mu	Tuesday	Lunch			
+5_H_Mu	Tuesday	A1	Burbage	Muggle Studies	5_E1
+5_H_Mu	Tuesday	A2	Sprout	Herbology	
+5_H_Mu	Tuesday	A3	Sprout	Herbology	
+5_H_Mu	Wednesday	M1	McGonagall	Transfiguration	
+5_H_Mu	Wednesday	M2	McGonagall	Transfiguration	
+5_H_Mu	Wednesday	M3	Flitwick	Charms	
+5_H_Mu	Wednesday	M4	Flitwick	Charms	
+5_H_Mu	Wednesday	Lunch			
+5_H_Mu	Wednesday	A1			
+5_H_Mu	Wednesday	A2			
+5_H_Mu	Wednesday	A3			
+5_H_Mu	Thursday	M1			
+5_H_Mu	Thursday	M2			
+5_H_Mu	Thursday	M3			
+5_H_Mu	Thursday	M4	Burbage	Muggle Studies	5_E1
+5_H_Mu	Thursday	Lunch			
+5_H_Mu	Thursday	A1	Binns	History of Magic	
+5_H_Mu	Thursday	A2	Binns	History of Magic	
+5_H_Mu	Thursday	A3	Sprout	Herbology	
+5_H_Mu	Friday	M1	DADA Teacher	DADA	
+5_H_Mu	Friday	M2			
+5_H_Mu	Friday	M3	Snape	Potions	
+5_H_Mu	Friday	M4			
+5_H_Mu	Friday	Lunch			
+5_H_Mu	Friday	A1	McGonagall	Transfiguration	
+5_H_Mu	Friday	A2			
+5_H_Mu	Friday	A3	Flitwick	Charms	
+5_H_Ru	Monday	M1	Snape	Potions	
+5_H_Ru	Monday	M2	Snape	Potions	
+5_H_Ru	Monday	M3			
+5_H_Ru	Monday	M4			
+5_H_Ru	Monday	Lunch			
+5_H_Ru	Monday	A1			
+5_H_Ru	Monday	A2	DADA Teacher	DADA	
+5_H_Ru	Monday	A3	DADA Teacher	DADA	
+5_H_Ru	Tuesday	M1	Binns	History of Magic	
+5_H_Ru	Tuesday	M2	Batsheda Babbling	Runes	5_E2
+5_H_Ru	Tuesday	M3	Batsheda Babbling	Runes	5_E2
+5_H_Ru	Tuesday	M4			
+5_H_Ru	Tuesday	Lunch			
+5_H_Ru	Tuesday	A1			
+5_H_Ru	Tuesday	A2	Sprout	Herbology	
+5_H_Ru	Tuesday	A3	Sprout	Herbology	
+5_H_Ru	Wednesday	M1	McGonagall	Transfiguration	
+5_H_Ru	Wednesday	M2	McGonagall	Transfiguration	
+5_H_Ru	Wednesday	M3	Flitwick	Charms	
+5_H_Ru	Wednesday	M4	Flitwick	Charms	
+5_H_Ru	Wednesday	Lunch			
+5_H_Ru	Wednesday	A1			
+5_H_Ru	Wednesday	A2			
+5_H_Ru	Wednesday	A3			
+5_H_Ru	Thursday	M1			
+5_H_Ru	Thursday	M2			
+5_H_Ru	Thursday	M3			
+5_H_Ru	Thursday	M4			
+5_H_Ru	Thursday	Lunch			
+5_H_Ru	Thursday	A1	Binns	History of Magic	
+5_H_Ru	Thursday	A2	Binns	History of Magic	
+5_H_Ru	Thursday	A3	Sprout	Herbology	
+5_H_Ru	Friday	M1	DADA Teacher	DADA	
+5_H_Ru	Friday	M2			
+5_H_Ru	Friday	M3	Snape	Potions	
+5_H_Ru	Friday	M4	Batsheda Babbling	Runes	5_E2
+5_H_Ru	Friday	Lunch			
+5_H_Ru	Friday	A1	McGonagall	Transfiguration	
+5_H_Ru	Friday	A2			
+5_H_Ru	Friday	A3	Flitwick	Charms	
+5_H_Di	Monday	M1	Snape	Potions	
+5_H_Di	Monday	M2	Snape	Potions	
+5_H_Di	Monday	M3	Div Teacher	Divination	5_E2
+5_H_Di	Monday	M4			
+5_H_Di	Monday	Lunch			
+5_H_Di	Monday	A1			
+5_H_Di	Monday	A2	DADA Teacher	DADA	
+5_H_Di	Monday	A3	DADA Teacher	DADA	
+5_H_Di	Tuesday	M1	Binns	History of Magic	
+5_H_Di	Tuesday	M2			
+5_H_Di	Tuesday	M3			
+5_H_Di	Tuesday	M4			
+5_H_Di	Tuesday	Lunch			
+5_H_Di	Tuesday	A1			
+5_H_Di	Tuesday	A2	Sprout	Herbology	
+5_H_Di	Tuesday	A3	Sprout	Herbology	
+5_H_Di	Wednesday	M1	McGonagall	Transfiguration	
+5_H_Di	Wednesday	M2	McGonagall	Transfiguration	
+5_H_Di	Wednesday	M3	Flitwick	Charms	
+5_H_Di	Wednesday	M4	Flitwick	Charms	
+5_H_Di	Wednesday	Lunch			
+5_H_Di	Wednesday	A1			
+5_H_Di	Wednesday	A2			
+5_H_Di	Wednesday	A3			
+5_H_Di	Thursday	M1			
+5_H_Di	Thursday	M2			
+5_H_Di	Thursday	M3			
+5_H_Di	Thursday	M4			
+5_H_Di	Thursday	Lunch			
+5_H_Di	Thursday	A1	Binns	History of Magic	
+5_H_Di	Thursday	A2	Binns	History of Magic	
+5_H_Di	Thursday	A3	Sprout	Herbology	
+5_H_Di	Friday	M1	DADA Teacher	DADA	
+5_H_Di	Friday	M2			
+5_H_Di	Friday	M3	Snape	Potions	
+5_H_Di	Friday	M4			
+5_H_Di	Friday	Lunch			
+5_H_Di	Friday	A1	McGonagall	Transfiguration	
+5_H_Di	Friday	A2	Div Teacher	Divination	5_E2
+5_H_Di	Friday	A3	Flitwick	Charms	
+5_H_Ca	Monday	M1	Snape	Potions	
+5_H_Ca	Monday	M2	Snape	Potions	
+5_H_Ca	Monday	M3			
+5_H_Ca	Monday	M4			
+5_H_Ca	Monday	Lunch			
+5_H_Ca	Monday	A1			
+5_H_Ca	Monday	A2	DADA Teacher	DADA	
+5_H_Ca	Monday	A3	DADA Teacher	DADA	
+5_H_Ca	Tuesday	M1	Binns	History of Magic	
+5_H_Ca	Tuesday	M2			
+5_H_Ca	Tuesday	M3			
+5_H_Ca	Tuesday	M4			
+5_H_Ca	Tuesday	Lunch			
+5_H_Ca	Tuesday	A1			
+5_H_Ca	Tuesday	A2	Sprout	Herbology	
+5_H_Ca	Tuesday	A3	Sprout	Herbology	
+5_H_Ca	Wednesday	M1	McGonagall	Transfiguration	
+5_H_Ca	Wednesday	M2	McGonagall	Transfiguration	
+5_H_Ca	Wednesday	M3	Flitwick	Charms	
+5_H_Ca	Wednesday	M4	Flitwick	Charms	
+5_H_Ca	Wednesday	Lunch			
+5_H_Ca	Wednesday	A1			
+5_H_Ca	Wednesday	A2	CoMC teacher	Care of Magical Creatures	5_E3
+5_H_Ca	Wednesday	A3	CoMC teacher	Care of Magical Creatures	5_E3
+5_H_Ca	Thursday	M1			
+5_H_Ca	Thursday	M2			
+5_H_Ca	Thursday	M3			
+5_H_Ca	Thursday	M4			
+5_H_Ca	Thursday	Lunch			
+5_H_Ca	Thursday	A1	Binns	History of Magic	
+5_H_Ca	Thursday	A2	Binns	History of Magic	
+5_H_Ca	Thursday	A3	Sprout	Herbology	
+5_H_Ca	Friday	M1	DADA Teacher	DADA	
+5_H_Ca	Friday	M2	CoMC teacher	Care of Magical Creatures	5_E3
+5_H_Ca	Friday	M3	Snape	Potions	
+5_H_Ca	Friday	M4			
+5_H_Ca	Friday	Lunch			
+5_H_Ca	Friday	A1	McGonagall	Transfiguration	
+5_H_Ca	Friday	A2			
+5_H_Ca	Friday	A3	Flitwick	Charms	
+6 Automatic Group Automatic Subgroup	Monday	M1	CoMC teacher	Care of Magical Creatures	
+6 Automatic Group Automatic Subgroup	Monday	M2	Binns	History of Magic	
+6 Automatic Group Automatic Subgroup	Monday	M3	Batsheda Babbling	Runes	
+6 Automatic Group Automatic Subgroup	Monday	M4	Burbage	Muggle Studies	
+6 Automatic Group Automatic Subgroup	Monday	Lunch			
+6 Automatic Group Automatic Subgroup	Monday	A1	DADA Teacher	DADA	
+6 Automatic Group Automatic Subgroup	Monday	A2	Vector	Arithmancy	
+6 Automatic Group Automatic Subgroup	Monday	A3	Flitwick	Charms	
+6 Automatic Group Automatic Subgroup	Tuesday	M1	McGonagall	Transfiguration	
+6 Automatic Group Automatic Subgroup	Tuesday	M2	Burbage	Muggle Studies	
+6 Automatic Group Automatic Subgroup	Tuesday	M3	Sprout	Herbology	
+6 Automatic Group Automatic Subgroup	Tuesday	M4			
+6 Automatic Group Automatic Subgroup	Tuesday	Lunch			
+6 Automatic Group Automatic Subgroup	Tuesday	A1			
+6 Automatic Group Automatic Subgroup	Tuesday	A2			
+6 Automatic Group Automatic Subgroup	Tuesday	A3	Snape	Potions	
+6 Automatic Group Automatic Subgroup	Wednesday	M1	DADA Teacher	DADA	
+6 Automatic Group Automatic Subgroup	Wednesday	M2	Div Teacher	Divination	
+6 Automatic Group Automatic Subgroup	Wednesday	M3	CoMC teacher	Care of Magical Creatures	
+6 Automatic Group Automatic Subgroup	Wednesday	M4	Vector	Arithmancy	
+6 Automatic Group Automatic Subgroup	Wednesday	Lunch			
+6 Automatic Group Automatic Subgroup	Wednesday	A1	Batsheda Babbling	Runes	
+6 Automatic Group Automatic Subgroup	Wednesday	A2			
+6 Automatic Group Automatic Subgroup	Wednesday	A3	Flitwick	Charms	
+6 Automatic Group Automatic Subgroup	Thursday	M1	Burbage	Muggle Studies	
+6 Automatic Group Automatic Subgroup	Thursday	M2	Binns	History of Magic	
+6 Automatic Group Automatic Subgroup	Thursday	M3	McGonagall	Transfiguration	
+6 Automatic Group Automatic Subgroup	Thursday	M4	McGonagall	Transfiguration	
+6 Automatic Group Automatic Subgroup	Thursday	Lunch			
+6 Automatic Group Automatic Subgroup	Thursday	A1			
+6 Automatic Group Automatic Subgroup	Thursday	A2	Snape	Potions	
+6 Automatic Group Automatic Subgroup	Thursday	A3	Snape	Potions	
+6 Automatic Group Automatic Subgroup	Friday	M1	Flitwick	Charms	
+6 Automatic Group Automatic Subgroup	Friday	M2	DADA Teacher	DADA	
+6 Automatic Group Automatic Subgroup	Friday	M3	Vector	Arithmancy	
+6 Automatic Group Automatic Subgroup	Friday	M4	Div Teacher	Divination	
+6 Automatic Group Automatic Subgroup	Friday	Lunch			
+6 Automatic Group Automatic Subgroup	Friday	A1	Sprout	Herbology	
+6 Automatic Group Automatic Subgroup	Friday	A2	Batsheda Babbling	Runes	
+6 Automatic Group Automatic Subgroup	Friday	A3	CoMC teacher	Care of Magical Creatures	
+7 Automatic Group Automatic Subgroup	Monday	M1	Sprout	Herbology	
+7 Automatic Group Automatic Subgroup	Monday	M2			
+7 Automatic Group Automatic Subgroup	Monday	M3	DADA Teacher	DADA	
+7 Automatic Group Automatic Subgroup	Monday	M4	CoMC teacher	Care of Magical Creatures	
+7 Automatic Group Automatic Subgroup	Monday	Lunch			
+7 Automatic Group Automatic Subgroup	Monday	A1	Flitwick	Charms	
+7 Automatic Group Automatic Subgroup	Monday	A2	Batsheda Babbling	Runes	
+7 Automatic Group Automatic Subgroup	Monday	A3	McGonagall	Transfiguration	
+7 Automatic Group Automatic Subgroup	Tuesday	M1	Vector	Arithmancy	
+7 Automatic Group Automatic Subgroup	Tuesday	M2	Binns	History of Magic	
+7 Automatic Group Automatic Subgroup	Tuesday	M3	Div Teacher	Divination	
+7 Automatic Group Automatic Subgroup	Tuesday	M4			
+7 Automatic Group Automatic Subgroup	Tuesday	Lunch			
+7 Automatic Group Automatic Subgroup	Tuesday	A1	McGonagall	Transfiguration	
+7 Automatic Group Automatic Subgroup	Tuesday	A2			
+7 Automatic Group Automatic Subgroup	Tuesday	A3	Burbage	Muggle Studies	
+7 Automatic Group Automatic Subgroup	Wednesday	M1	Sprout	Herbology	
+7 Automatic Group Automatic Subgroup	Wednesday	M2	CoMC teacher	Care of Magical Creatures	
+7 Automatic Group Automatic Subgroup	Wednesday	M3	DADA Teacher	DADA	
+7 Automatic Group Automatic Subgroup	Wednesday	M4	Batsheda Babbling	Runes	
+7 Automatic Group Automatic Subgroup	Wednesday	Lunch			
+7 Automatic Group Automatic Subgroup	Wednesday	A1			
+7 Automatic Group Automatic Subgroup	Wednesday	A2	Snape	Potions	
+7 Automatic Group Automatic Subgroup	Wednesday	A3	Snape	Potions	
+7 Automatic Group Automatic Subgroup	Thursday	M1	McGonagall	Transfiguration	
+7 Automatic Group Automatic Subgroup	Thursday	M2	Flitwick	Charms	
+7 Automatic Group Automatic Subgroup	Thursday	M3	Burbage	Muggle Studies	
+7 Automatic Group Automatic Subgroup	Thursday	M4	Div Teacher	Divination	
+7 Automatic Group Automatic Subgroup	Thursday	Lunch			
+7 Automatic Group Automatic Subgroup	Thursday	A1			
+7 Automatic Group Automatic Subgroup	Thursday	A2	Vector	Arithmancy	
+7 Automatic Group Automatic Subgroup	Thursday	A3	DADA Teacher	DADA	
+7 Automatic Group Automatic Subgroup	Friday	M1	Burbage	Muggle Studies	
+7 Automatic Group Automatic Subgroup	Friday	M2	Batsheda Babbling	Runes	
+7 Automatic Group Automatic Subgroup	Friday	M3	Binns	History of Magic	
+7 Automatic Group Automatic Subgroup	Friday	M4	Flitwick	Charms	
+7 Automatic Group Automatic Subgroup	Friday	Lunch			
+7 Automatic Group Automatic Subgroup	Friday	A1	CoMC teacher	Care of Magical Creatures	
+7 Automatic Group Automatic Subgroup	Friday	A2	Vector	Arithmancy	
+7 Automatic Group Automatic Subgroup	Friday	A3	Snape	Potions	
