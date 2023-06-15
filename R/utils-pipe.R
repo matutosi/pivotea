@@ -1,9 +1,3 @@
-#' @importFrom rlang :=
-NULL
-
-#' @importFrom rlang .data
-NULL
-
 #' Pipe operator
 #'
 #' See \code{magrittr::\link[magrittr:pipe]{\%>\%}} for details.
