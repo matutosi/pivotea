@@ -1,5 +1,11 @@
 # pivotea release news
 
+# pivotea 1.0.0.9000
+
+* 2023-07-??
+
+* Add data: `hogwarts` which includes timetable in Hogwarts School of Witchcraft and Wizardry. 
+
 # pivotea 1.0.0
 
 * 2023-06-15

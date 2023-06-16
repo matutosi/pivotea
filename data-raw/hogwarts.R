@@ -10,7 +10,7 @@ hour <-
 wday <- 
   tibble::tibble(
     wday = lubridate::wday(2:6, label = TRUE, abbr = FALSE, locale = "EN"), 
-    wd = tolower(stringr::str_sub(wday, 1, 3)))
+    wd = ordered(tolower(stringr::str_sub(wday, 1, 3)), levels = tolower(stringr::str_sub(wday, 1, 3))))
 
 url <- "https://github.com/Arcfej/HogwartsTimetable/raw/master/GeneratedTimetable.xlsx"
 tmp <- fs::file_temp(ext = "xlsx")

@@ -23,6 +23,8 @@ library(ggplot2)
 You can use pivot to make a pivot table easily.
 
 ```{r}
+hogwarts %>%
+  pivot(row = "hour", col = "wday", value = c("subject", "teacher", "room"), split = c("house", "grade"))
 starwars %>%
   pivot(row = "homeworld", col = "species", value = "name", split = "sex")
 msleep %>%
