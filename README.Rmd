@@ -27,7 +27,7 @@ You can install the development version of pivotea from [GitHub](https://github.
 
 ```{r, eval = FALSE}
 # install.packages("devtools")
-devtools::install_github("matutosi/pivotea")
+remotes::install_github("matutosi/pivotea")
 ```
 
 
@@ -41,10 +41,13 @@ install.packages("pivotea")
 
 You can use pivot to make a pivot table easily.
 
-```{r example}
+```{r example, eval = FALSE}
 library(pivotea)
 library(dplyr)
 library(ggplot2)
+library(pivotea)
+hogwarts %>%
+  pivot(row = "hour", col = "wday", value = c("subject", "teacher", "room"), split = c("house", "grade"))
 starwars %>%
   pivot(row = "homeworld", col = "species", value = "name", split = "sex")
 msleep %>%
