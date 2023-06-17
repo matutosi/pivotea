@@ -61,8 +61,8 @@ na2empty <- function(df){
 #' @param df,replace         A dataframe.
 #' @return A dataframe.
 #' @examples
-#' (state <- tibble(state = state.name, area = state.area))
-#' (abb <- tibble(state = state.name, abb = state.abb))
+#' (state <- tibble::tibble(state = state.name, area = state.area))
+#' (abb <- tibble::tibble(state = state.name, abb = state.abb))
 #' replace_col(state, abb)
 #' 
 #' @export
@@ -70,15 +70,15 @@ replace_col <- function(df, replace){
   common <-  intersect(colnames(replace), colnames(df))
   new_col <- setdiff(colnames(replace),  colnames(df))
   if(common == ""){
-    warinng("No common col !")
+    warning("No common col !")
     return(NULL)
   }
   df <- 
     df %>%
     dplyr::left_join(replace) %>%
-    dplyr::select(-tidyselect::all_of(common)) %>%
+    dplyr::select(-dplyr::all_of(common)) %>%
     dplyr::mutate(`:=`({{common}}, .data[[new_col]])) %>%
-    dplyr::select(-tidyselect::all_of(new_col)) %>%
-    dplyr::relocate(tidyselect::all_of(colnames(df)))
+    dplyr::select(-dplyr::all_of(new_col)) %>%
+    dplyr::relocate(dplyr::all_of(colnames(df)))
   return(df)
 }

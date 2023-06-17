@@ -16,8 +16,8 @@ A dataframe.
 Replace a col with a data.frame.
 }
 \examples{
-(state <- tibble(state = state.name, area = state.area))
-(abb <- tibble(state = state.name, abb = state.abb))
+(state <- tibble::tibble(state = state.name, area = state.area))
+(abb <- tibble::tibble(state = state.name, abb = state.abb))
 replace_col(state, abb)
 
 }

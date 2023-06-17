@@ -25,7 +25,7 @@
 #'   pivot(row = "vore", col = "conservation", value = "name") %>%
 #'   na2empty() %>%
 #'   print(n = nrow(.))
-#' as_tibble(Titanic) %>%
+#' tibble::as_tibble(Titanic) %>%
 #'   pivot(row = "Age", col = c("Sex", "Survived"), 
 #'         value = "n", split = "Class")
 #' diamonds %>%
@@ -102,6 +102,7 @@ split_force <- function(df, split){
   if(is.null(split)){
     df <- base::split(df, "")
   }else{
+    split <- sort(seq(split), decreasing = TRUE)
     df <- base::split(df, df[split])
   }
   return(df)
