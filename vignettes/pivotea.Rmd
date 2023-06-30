@@ -20,7 +20,7 @@ library(dplyr)
 library(ggplot2)
 ```
 
-You can use pivot to make a pivot table easily.
+You can use `pivot()` to make a pivot table easily.
 
 ```{r}
 hogwarts %>%
