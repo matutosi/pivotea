@@ -27,7 +27,7 @@ install.packages("pivotea")
 
 ## Example
 
-You can use pivot to make a pivot table easily.
+You can use `pivot()` to make a pivot table easily.
 
 ``` r
 library(pivotea)
@@ -44,12 +44,56 @@ library(ggplot2)
 library(pivotea)
 hogwarts %>%
   pivot(row = "hour", col = "wday", value = c("subject", "teacher", "room"), split = c("house", "grade"))
-#> $Automatic.1
+#> $`1.Automatic`
 #> # A tibble: 0 × 8
 #> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
 #> #   wed <chr>, thu <chr>, fri <chr>
 #> 
-#> $G.1
+#> $`2.Automatic`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`3.Automatic`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`4.Automatic`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`5.Automatic`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`6.Automatic`
+#> # A tibble: 7 × 8
+#>   house     grade  hour mon                              tue   wed   thu   fri  
+#>   <chr>     <chr> <int> <chr>                            <chr> <chr> <chr> <chr>
+#> 1 Automatic 6         1 Muggle Studies_Burbage_NA        <NA>  Arit… Tran… Divi…
+#> 2 Automatic 6         2 DADA_DADA Teacher_NA             <NA>  Rune… <NA>  Herb…
+#> 3 Automatic 6         3 Arithmancy_Vector_NA             <NA>  <NA>  Poti… Rune…
+#> 4 Automatic 6         4 Charms_Flitwick_NA               Poti… Char… Poti… Care…
+#> 5 Automatic 6         5 Care of Magical Creatures_CoMC … Tran… DADA… Mugg… Char…
+#> 6 Automatic 6         6 History of Magic_Binns_NA        Mugg… Divi… Hist… DADA…
+#> 7 Automatic 6         7 Runes_Batsheda Babbling_NA       Herb… Care… Tran… Arit…
+#> 
+#> $`7.Automatic`
+#> # A tibble: 7 × 8
+#>   house     grade  hour mon                              tue   wed   thu   fri  
+#>   <chr>     <chr> <int> <chr>                            <chr> <chr> <chr> <chr>
+#> 1 Automatic 7         1 Care of Magical Creatures_CoMC … <NA>  Rune… Divi… Char…
+#> 2 Automatic 7         2 Charms_Flitwick_NA               Tran… <NA>  <NA>  Care…
+#> 3 Automatic 7         3 Runes_Batsheda Babbling_NA       <NA>  Poti… Arit… Arit…
+#> 4 Automatic 7         4 Transfiguration_McGonagall_NA    Mugg… Poti… DADA… Poti…
+#> 5 Automatic 7         5 Herbology_Sprout_NA              Arit… Herb… Tran… Mugg…
+#> 6 Automatic 7         6 <NA>                             Hist… Care… Char… Rune…
+#> 7 Automatic 7         7 DADA_DADA Teacher_NA             Divi… DADA… Mugg… Hist…
+#> 
+#> $`1.G`
 #> # A tibble: 4 × 8
 #>   house grade  hour mon                  tue                   wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                <chr>                 <chr> <chr> <chr>
@@ -58,39 +102,7 @@ hogwarts %>%
 #> 3 G     1         6 <NA>                 <NA>                  Poti… Tran… Char…
 #> 4 G     1         7 <NA>                 Charms_Flitwick_NA    Poti… Hist… <NA> 
 #> 
-#> $H.1
-#> # A tibble: 4 × 8
-#>   house grade  hour mon                 tue                    wed   thu   fri  
-#>   <chr> <chr> <int> <chr>               <chr>                  <chr> <chr> <chr>
-#> 1 H     1         1 Potions_Snape_NA    Transfiguration_McGon… <NA>  <NA>  <NA> 
-#> 2 H     1         2 Herbology_Sprout_NA Charms_Flitwick_NA     Herb… <NA>  Flyi…
-#> 3 H     1         6 <NA>                <NA>                   DADA… Tran… Hist…
-#> 4 H     1         7 Potions_Snape_NA    History of Magic_Binn… <NA>  Char… <NA> 
-#> 
-#> $R.1
-#> # A tibble: 4 × 8
-#>   house grade  hour mon              tue                       wed   thu   fri  
-#>   <chr> <chr> <int> <chr>            <chr>                     <chr> <chr> <chr>
-#> 1 R     1         1 Potions_Snape_NA Herbology_Sprout_NA       <NA>  Herb… Tran…
-#> 2 R     1         2 <NA>             History of Magic_Binns_NA Tran… <NA>  Flyi…
-#> 3 R     1         6 <NA>             <NA>                      DADA… <NA>  Char…
-#> 4 R     1         7 Potions_Snape_NA Charms_Flitwick_NA        <NA>  Hist… <NA> 
-#> 
-#> $S.1
-#> # A tibble: 4 × 8
-#>   house grade  hour mon                  tue                   wed   thu   fri  
-#>   <chr> <chr> <int> <chr>                <chr>                 <chr> <chr> <chr>
-#> 1 S     1         1 DADA_DADA Teacher_NA Herbology_Sprout_NA   <NA>  Herb… Tran…
-#> 2 S     1         2 <NA>                 Charms_Flitwick_NA    Tran… Flyi… <NA> 
-#> 3 S     1         6 <NA>                 <NA>                  Poti… <NA>  Hist…
-#> 4 S     1         7 <NA>                 History of Magic_Bin… Poti… Char… <NA> 
-#> 
-#> $Automatic.2
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $G.2
+#> $`2.G`
 #> # A tibble: 5 × 8
 #>   house grade  hour mon                           tue          wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
@@ -100,42 +112,7 @@ hogwarts %>%
 #> 4 G     2         6 <NA>                          <NA>         Char… DADA… <NA> 
 #> 5 G     2         7 Charms_Flitwick_NA            <NA>         <NA>  <NA>  Tran…
 #> 
-#> $H.2
-#> # A tibble: 5 × 8
-#>   house grade  hour mon                           tue          wed   thu   fri  
-#>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
-#> 1 H     2         1 Transfiguration_McGonagall_NA Charms_Flit… Poti… Char… <NA> 
-#> 2 H     2         2 History of Magic_Binns_NA     <NA>         DADA… Herb… <NA> 
-#> 3 H     2         3 Herbology_Sprout_NA           <NA>         Tran… Herb… DADA…
-#> 4 H     2         6 DADA_DADA Teacher_NA          Potions_Sna… Hist… <NA>  <NA> 
-#> 5 H     2         7 <NA>                          Potions_Sna… <NA>  <NA>  Tran…
-#> 
-#> $R.2
-#> # A tibble: 5 × 8
-#>   house grade  hour mon                           tue          wed   thu   fri  
-#>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
-#> 1 R     2         1 <NA>                          History of … Poti… Hist… <NA> 
-#> 2 R     2         2 <NA>                          <NA>         DADA… Tran… <NA> 
-#> 3 R     2         3 Transfiguration_McGonagall_NA <NA>         <NA>  Tran… DADA…
-#> 4 R     2         6 DADA_DADA Teacher_NA          Potions_Sna… Char… <NA>  Herb…
-#> 5 R     2         7 Charms_Flitwick_NA            Potions_Sna… Herb… <NA>  Herb…
-#> 
-#> $S.2
-#> # A tibble: 5 × 8
-#>   house grade  hour mon                           tue          wed   thu   fri  
-#>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
-#> 1 S     2         1 <NA>                          Charms_Flit… <NA>  Char… <NA> 
-#> 2 S     2         2 History of Magic_Binns_NA     DADA_DADA T… Poti… Tran… Poti…
-#> 3 S     2         3 Transfiguration_McGonagall_NA DADA_DADA T… <NA>  Tran… Poti…
-#> 4 S     2         6 <NA>                          <NA>         Hist… DADA… Herb…
-#> 5 S     2         7 <NA>                          <NA>         Herb… <NA>  Herb…
-#> 
-#> $Automatic.3
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $G.3
+#> $`3.G`
 #> # A tibble: 10 × 8
 #>    house grade  hour mon                          tue          wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                        <chr>        <chr> <chr> <chr>
@@ -150,58 +127,7 @@ hogwarts %>%
 #>  9 G     3         7 Arithmancy_Vector_3_E1       Transfigura… Rune… Care… Char…
 #> 10 G     3         7 Muggle Studies_Burbage_3_E1  <NA>         Divi… <NA>  <NA> 
 #> 
-#> $H.3
-#> # A tibble: 10 × 8
-#>    house grade  hour mon                                 tue   wed   thu   fri  
-#>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
-#>  1 H     3         1 Charms_Flitwick_NA                  <NA>  <NA>  DADA… Herb…
-#>  2 H     3         2 Care of Magical Creatures_CoMC tea… Poti… Char… Poti… Char…
-#>  3 H     3         3 Care of Magical Creatures_CoMC tea… Poti… Rune… Care… Tran…
-#>  4 H     3         3 <NA>                                <NA>  Divi… <NA>  <NA> 
-#>  5 H     3         5 Runes_Batsheda Babbling_3_E2        DADA… Care… <NA>  Hist…
-#>  6 H     3         5 Divination_Div Teacher_3_E2         <NA>  <NA>  <NA>  <NA> 
-#>  7 H     3         6 Herbology_Sprout_NA                 Tran… Herb… Arit… Arit…
-#>  8 H     3         6 <NA>                                <NA>  <NA>  Mugg… <NA> 
-#>  9 H     3         7 Arithmancy_Vector_3_E1              Tran… Hist… DADA… Rune…
-#> 10 H     3         7 Muggle Studies_Burbage_3_E1         <NA>  <NA>  <NA>  Divi…
-#> 
-#> $R.3
-#> # A tibble: 10 × 8
-#>    house grade  hour mon                                 tue   wed   thu   fri  
-#>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
-#>  1 R     3         1 Runes_Batsheda Babbling_3_E2        <NA>  Tran… DADA… Arit…
-#>  2 R     3         1 Divination_Div Teacher_3_E2         <NA>  <NA>  <NA>  Mugg…
-#>  3 R     3         2 Care of Magical Creatures_CoMC tea… Poti… Hist… Poti… Hist…
-#>  4 R     3         3 Care of Magical Creatures_CoMC tea… Poti… Char… Care… Herb…
-#>  5 R     3         5 Charms_Flitwick_NA                  DADA… Care… Herb… Rune…
-#>  6 R     3         5 <NA>                                <NA>  <NA>  <NA>  Divi…
-#>  7 R     3         6 Arithmancy_Vector_3_E1              Herb… <NA>  <NA>  Tran…
-#>  8 R     3         6 Muggle Studies_Burbage_3_E1         <NA>  <NA>  <NA>  <NA> 
-#>  9 R     3         7 Transfiguration_McGonagall_NA       Arit… Rune… DADA… Char…
-#> 10 R     3         7 <NA>                                <NA>  Divi… <NA>  <NA> 
-#> 
-#> $S.3
-#> # A tibble: 11 × 8
-#>    house grade  hour mon                           tue         wed   thu   fri  
-#>    <chr> <chr> <int> <chr>                         <chr>       <chr> <chr> <chr>
-#>  1 S     3         1 Charms_Flitwick_NA            DADA_DADA … Tran… Care… Arit…
-#>  2 S     3         1 <NA>                          <NA>        <NA>  <NA>  Mugg…
-#>  3 S     3         2 Potions_Snape_NA              Care of Ma… Char… DADA… Char…
-#>  4 S     3         3 Potions_Snape_NA              Care of Ma… Rune… DADA… Herb…
-#>  5 S     3         3 <NA>                          <NA>        Divi… <NA>  <NA> 
-#>  6 S     3         5 Runes_Batsheda Babbling_3_E2  <NA>        Poti… Herb… Hist…
-#>  7 S     3         5 Divination_Div Teacher_3_E2   <NA>        <NA>  <NA>  <NA> 
-#>  8 S     3         6 Arithmancy_Vector_3_E1        Herbology_… <NA>  <NA>  Tran…
-#>  9 S     3         6 Muggle Studies_Burbage_3_E1   <NA>        <NA>  <NA>  <NA> 
-#> 10 S     3         7 Transfiguration_McGonagall_NA Arithmancy… Hist… Care… Rune…
-#> 11 S     3         7 <NA>                          <NA>        <NA>  <NA>  Divi…
-#> 
-#> $Automatic.4
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $G.4
+#> $`4.G`
 #> # A tibble: 11 × 8
 #>    house grade  hour mon                                 tue   wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
@@ -217,7 +143,66 @@ hogwarts %>%
 #> 10 G     4         6 Divination_Div Teacher_4_E2         <NA>  <NA>  <NA>  <NA> 
 #> 11 G     4         7 Care of Magical Creatures_CoMC tea… <NA>  Tran… Poti… DADA…
 #> 
-#> $H.4
+#> $`5.G`
+#> # A tibble: 10 × 8
+#>    house grade  hour mon                                 tue   wed   thu   fri  
+#>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
+#>  1 G     5         1 History of Magic_Binns_NA           Rune… Hist… Arit… <NA> 
+#>  2 G     5         1 <NA>                                Divi… <NA>  Mugg… <NA> 
+#>  3 G     5         2 <NA>                                Arit… Care… <NA>  Tran…
+#>  4 G     5         2 <NA>                                Mugg… <NA>  <NA>  <NA> 
+#>  5 G     5         3 <NA>                                Herb… DADA… Char… <NA> 
+#>  6 G     5         4 Potions_Snape_NA                    Herb… DADA… Herb… Rune…
+#>  7 G     5         4 <NA>                                <NA>  <NA>  <NA>  Divi…
+#>  8 G     5         5 DADA_DADA Teacher_NA                Char… Tran… Rune… Poti…
+#>  9 G     5         6 Care of Magical Creatures_CoMC tea… Char… Tran… <NA>  Poti…
+#> 10 G     5         7 History of Magic_Binns_NA           <NA>  <NA>  Arit… Care…
+#> 
+#> $`6.G`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`7.G`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`1.H`
+#> # A tibble: 4 × 8
+#>   house grade  hour mon                 tue                    wed   thu   fri  
+#>   <chr> <chr> <int> <chr>               <chr>                  <chr> <chr> <chr>
+#> 1 H     1         1 Potions_Snape_NA    Transfiguration_McGon… <NA>  <NA>  <NA> 
+#> 2 H     1         2 Herbology_Sprout_NA Charms_Flitwick_NA     Herb… <NA>  Flyi…
+#> 3 H     1         6 <NA>                <NA>                   DADA… Tran… Hist…
+#> 4 H     1         7 Potions_Snape_NA    History of Magic_Binn… <NA>  Char… <NA> 
+#> 
+#> $`2.H`
+#> # A tibble: 5 × 8
+#>   house grade  hour mon                           tue          wed   thu   fri  
+#>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
+#> 1 H     2         1 Transfiguration_McGonagall_NA Charms_Flit… Poti… Char… <NA> 
+#> 2 H     2         2 History of Magic_Binns_NA     <NA>         DADA… Herb… <NA> 
+#> 3 H     2         3 Herbology_Sprout_NA           <NA>         Tran… Herb… DADA…
+#> 4 H     2         6 DADA_DADA Teacher_NA          Potions_Sna… Hist… <NA>  <NA> 
+#> 5 H     2         7 <NA>                          Potions_Sna… <NA>  <NA>  Tran…
+#> 
+#> $`3.H`
+#> # A tibble: 10 × 8
+#>    house grade  hour mon                                 tue   wed   thu   fri  
+#>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
+#>  1 H     3         1 Charms_Flitwick_NA                  <NA>  <NA>  DADA… Herb…
+#>  2 H     3         2 Care of Magical Creatures_CoMC tea… Poti… Char… Poti… Char…
+#>  3 H     3         3 Care of Magical Creatures_CoMC tea… Poti… Rune… Care… Tran…
+#>  4 H     3         3 <NA>                                <NA>  Divi… <NA>  <NA> 
+#>  5 H     3         5 Runes_Batsheda Babbling_3_E2        DADA… Care… <NA>  Hist…
+#>  6 H     3         5 Divination_Div Teacher_3_E2         <NA>  <NA>  <NA>  <NA> 
+#>  7 H     3         6 Herbology_Sprout_NA                 Tran… Herb… Arit… Arit…
+#>  8 H     3         6 <NA>                                <NA>  <NA>  Mugg… <NA> 
+#>  9 H     3         7 Arithmancy_Vector_3_E1              Tran… Hist… DADA… Rune…
+#> 10 H     3         7 Muggle Studies_Burbage_3_E1         <NA>  <NA>  <NA>  Divi…
+#> 
+#> $`4.H`
 #> # A tibble: 10 × 8
 #>    house grade  hour mon                           tue         wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                         <chr>       <chr> <chr> <chr>
@@ -232,7 +217,65 @@ hogwarts %>%
 #>  9 H     4         6 Charms_Flitwick_NA            DADA_DADA … <NA>  Poti… <NA> 
 #> 10 H     4         7 <NA>                          DADA_DADA … Tran… <NA>  <NA> 
 #> 
-#> $R.4
+#> $`5.H`
+#> # A tibble: 9 × 8
+#>   house grade  hour mon                         tue            wed   thu   fri  
+#>   <chr> <chr> <int> <chr>                       <chr>          <chr> <chr> <chr>
+#> 1 H     5         1 <NA>                        <NA>           Char… Arit… Rune…
+#> 2 H     5         1 <NA>                        <NA>           <NA>  Mugg… <NA> 
+#> 3 H     5         2 <NA>                        Arithmancy_Ve… <NA>  Hist… Tran…
+#> 4 H     5         2 <NA>                        Muggle Studie… <NA>  <NA>  <NA> 
+#> 5 H     5         3 DADA_DADA Teacher_NA        Herbology_Spr… Care… Hist… Divi…
+#> 6 H     5         4 DADA_DADA Teacher_NA        Herbology_Spr… Care… Herb… Char…
+#> 7 H     5         5 Potions_Snape_NA            History of Ma… Tran… <NA>  DADA…
+#> 8 H     5         6 Potions_Snape_NA            Runes_Batshed… Tran… <NA>  Care…
+#> 9 H     5         7 Divination_Div Teacher_5_E2 Runes_Batshed… Char… Arit… Poti…
+#> 
+#> $`6.H`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`7.H`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`1.R`
+#> # A tibble: 4 × 8
+#>   house grade  hour mon              tue                       wed   thu   fri  
+#>   <chr> <chr> <int> <chr>            <chr>                     <chr> <chr> <chr>
+#> 1 R     1         1 Potions_Snape_NA Herbology_Sprout_NA       <NA>  Herb… Tran…
+#> 2 R     1         2 <NA>             History of Magic_Binns_NA Tran… <NA>  Flyi…
+#> 3 R     1         6 <NA>             <NA>                      DADA… <NA>  Char…
+#> 4 R     1         7 Potions_Snape_NA Charms_Flitwick_NA        <NA>  Hist… <NA> 
+#> 
+#> $`2.R`
+#> # A tibble: 5 × 8
+#>   house grade  hour mon                           tue          wed   thu   fri  
+#>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
+#> 1 R     2         1 <NA>                          History of … Poti… Hist… <NA> 
+#> 2 R     2         2 <NA>                          <NA>         DADA… Tran… <NA> 
+#> 3 R     2         3 Transfiguration_McGonagall_NA <NA>         <NA>  Tran… DADA…
+#> 4 R     2         6 DADA_DADA Teacher_NA          Potions_Sna… Char… <NA>  Herb…
+#> 5 R     2         7 Charms_Flitwick_NA            Potions_Sna… Herb… <NA>  Herb…
+#> 
+#> $`3.R`
+#> # A tibble: 10 × 8
+#>    house grade  hour mon                                 tue   wed   thu   fri  
+#>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
+#>  1 R     3         1 Runes_Batsheda Babbling_3_E2        <NA>  Tran… DADA… Arit…
+#>  2 R     3         1 Divination_Div Teacher_3_E2         <NA>  <NA>  <NA>  Mugg…
+#>  3 R     3         2 Care of Magical Creatures_CoMC tea… Poti… Hist… Poti… Hist…
+#>  4 R     3         3 Care of Magical Creatures_CoMC tea… Poti… Char… Care… Herb…
+#>  5 R     3         5 Charms_Flitwick_NA                  DADA… Care… Herb… Rune…
+#>  6 R     3         5 <NA>                                <NA>  <NA>  <NA>  Divi…
+#>  7 R     3         6 Arithmancy_Vector_3_E1              Herb… <NA>  <NA>  Tran…
+#>  8 R     3         6 Muggle Studies_Burbage_3_E1         <NA>  <NA>  <NA>  <NA> 
+#>  9 R     3         7 Transfiguration_McGonagall_NA       Arit… Rune… DADA… Char…
+#> 10 R     3         7 <NA>                                <NA>  Divi… <NA>  <NA> 
+#> 
+#> $`4.R`
 #> # A tibble: 12 × 8
 #>    house grade  hour mon                           tue         wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                         <chr>       <chr> <chr> <chr>
@@ -249,57 +292,7 @@ hogwarts %>%
 #> 11 R     4         7 <NA>                          DADA_DADA … Arit… <NA>  <NA> 
 #> 12 R     4         7 <NA>                          <NA>        Mugg… <NA>  <NA> 
 #> 
-#> $S.4
-#> # A tibble: 11 × 8
-#>    house grade  hour mon                                 tue   wed   thu   fri  
-#>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
-#>  1 S     4         1 <NA>                                Poti… <NA>  Poti… DADA…
-#>  2 S     4         2 Transfiguration_McGonagall_NA       Rune… <NA>  Rune… <NA> 
-#>  3 S     4         2 <NA>                                Divi… <NA>  Divi… <NA> 
-#>  4 S     4         3 History of Magic_Binns_NA           Rune… Herb… <NA>  Char…
-#>  5 S     4         3 <NA>                                Divi… <NA>  <NA>  <NA> 
-#>  6 S     4         4 Herbology_Sprout_NA                 DADA… Tran… Hist… Tran…
-#>  7 S     4         5 Arithmancy_Vector_4_E1              Care… Char… Care… Herb…
-#>  8 S     4         5 Muggle Studies_Burbage_4_E1         <NA>  <NA>  <NA>  <NA> 
-#>  9 S     4         6 Charms_Flitwick_NA                  <NA>  Arit… <NA>  <NA> 
-#> 10 S     4         7 Care of Magical Creatures_CoMC tea… <NA>  Arit… Poti… DADA…
-#> 11 S     4         7 <NA>                                <NA>  Mugg… <NA>  <NA> 
-#> 
-#> $Automatic.5
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $G.5
-#> # A tibble: 10 × 8
-#>    house grade  hour mon                                 tue   wed   thu   fri  
-#>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
-#>  1 G     5         1 History of Magic_Binns_NA           Rune… Hist… Arit… <NA> 
-#>  2 G     5         1 <NA>                                Divi… <NA>  Mugg… <NA> 
-#>  3 G     5         2 <NA>                                Arit… Care… <NA>  Tran…
-#>  4 G     5         2 <NA>                                Mugg… <NA>  <NA>  <NA> 
-#>  5 G     5         3 <NA>                                Herb… DADA… Char… <NA> 
-#>  6 G     5         4 Potions_Snape_NA                    Herb… DADA… Herb… Rune…
-#>  7 G     5         4 <NA>                                <NA>  <NA>  <NA>  Divi…
-#>  8 G     5         5 DADA_DADA Teacher_NA                Char… Tran… Rune… Poti…
-#>  9 G     5         6 Care of Magical Creatures_CoMC tea… Char… Tran… <NA>  Poti…
-#> 10 G     5         7 History of Magic_Binns_NA           <NA>  <NA>  Arit… Care…
-#> 
-#> $H.5
-#> # A tibble: 9 × 8
-#>   house grade  hour mon                         tue            wed   thu   fri  
-#>   <chr> <chr> <int> <chr>                       <chr>          <chr> <chr> <chr>
-#> 1 H     5         1 <NA>                        <NA>           Char… Arit… Rune…
-#> 2 H     5         1 <NA>                        <NA>           <NA>  Mugg… <NA> 
-#> 3 H     5         2 <NA>                        Arithmancy_Ve… <NA>  Hist… Tran…
-#> 4 H     5         2 <NA>                        Muggle Studie… <NA>  <NA>  <NA> 
-#> 5 H     5         3 DADA_DADA Teacher_NA        Herbology_Spr… Care… Hist… Divi…
-#> 6 H     5         4 DADA_DADA Teacher_NA        Herbology_Spr… Care… Herb… Char…
-#> 7 H     5         5 Potions_Snape_NA            History of Ma… Tran… <NA>  DADA…
-#> 8 H     5         6 Potions_Snape_NA            Runes_Batshed… Tran… <NA>  Care…
-#> 9 H     5         7 Divination_Div Teacher_5_E2 Runes_Batshed… Char… Arit… Poti…
-#> 
-#> $R.5
+#> $`5.R`
 #> # A tibble: 11 × 8
 #>    house grade  hour mon                       tue             wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                     <chr>           <chr> <chr> <chr>
@@ -315,7 +308,68 @@ hogwarts %>%
 #> 10 R     5         6 Potions_Snape_NA          Charms_Flitwic… <NA>  Herb… Care…
 #> 11 R     5         7 History of Magic_Binns_NA <NA>            <NA>  Herb… Poti…
 #> 
-#> $S.5
+#> $`6.R`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`7.R`
+#> # A tibble: 0 × 8
+#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
+#> #   wed <chr>, thu <chr>, fri <chr>
+#> 
+#> $`1.S`
+#> # A tibble: 4 × 8
+#>   house grade  hour mon                  tue                   wed   thu   fri  
+#>   <chr> <chr> <int> <chr>                <chr>                 <chr> <chr> <chr>
+#> 1 S     1         1 DADA_DADA Teacher_NA Herbology_Sprout_NA   <NA>  Herb… Tran…
+#> 2 S     1         2 <NA>                 Charms_Flitwick_NA    Tran… Flyi… <NA> 
+#> 3 S     1         6 <NA>                 <NA>                  Poti… <NA>  Hist…
+#> 4 S     1         7 <NA>                 History of Magic_Bin… Poti… Char… <NA> 
+#> 
+#> $`2.S`
+#> # A tibble: 5 × 8
+#>   house grade  hour mon                           tue          wed   thu   fri  
+#>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
+#> 1 S     2         1 <NA>                          Charms_Flit… <NA>  Char… <NA> 
+#> 2 S     2         2 History of Magic_Binns_NA     DADA_DADA T… Poti… Tran… Poti…
+#> 3 S     2         3 Transfiguration_McGonagall_NA DADA_DADA T… <NA>  Tran… Poti…
+#> 4 S     2         6 <NA>                          <NA>         Hist… DADA… Herb…
+#> 5 S     2         7 <NA>                          <NA>         Herb… <NA>  Herb…
+#> 
+#> $`3.S`
+#> # A tibble: 11 × 8
+#>    house grade  hour mon                           tue         wed   thu   fri  
+#>    <chr> <chr> <int> <chr>                         <chr>       <chr> <chr> <chr>
+#>  1 S     3         1 Charms_Flitwick_NA            DADA_DADA … Tran… Care… Arit…
+#>  2 S     3         1 <NA>                          <NA>        <NA>  <NA>  Mugg…
+#>  3 S     3         2 Potions_Snape_NA              Care of Ma… Char… DADA… Char…
+#>  4 S     3         3 Potions_Snape_NA              Care of Ma… Rune… DADA… Herb…
+#>  5 S     3         3 <NA>                          <NA>        Divi… <NA>  <NA> 
+#>  6 S     3         5 Runes_Batsheda Babbling_3_E2  <NA>        Poti… Herb… Hist…
+#>  7 S     3         5 Divination_Div Teacher_3_E2   <NA>        <NA>  <NA>  <NA> 
+#>  8 S     3         6 Arithmancy_Vector_3_E1        Herbology_… <NA>  <NA>  Tran…
+#>  9 S     3         6 Muggle Studies_Burbage_3_E1   <NA>        <NA>  <NA>  <NA> 
+#> 10 S     3         7 Transfiguration_McGonagall_NA Arithmancy… Hist… Care… Rune…
+#> 11 S     3         7 <NA>                          <NA>        <NA>  <NA>  Divi…
+#> 
+#> $`4.S`
+#> # A tibble: 11 × 8
+#>    house grade  hour mon                                 tue   wed   thu   fri  
+#>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
+#>  1 S     4         1 <NA>                                Poti… <NA>  Poti… DADA…
+#>  2 S     4         2 Transfiguration_McGonagall_NA       Rune… <NA>  Rune… <NA> 
+#>  3 S     4         2 <NA>                                Divi… <NA>  Divi… <NA> 
+#>  4 S     4         3 History of Magic_Binns_NA           Rune… Herb… <NA>  Char…
+#>  5 S     4         3 <NA>                                Divi… <NA>  <NA>  <NA> 
+#>  6 S     4         4 Herbology_Sprout_NA                 DADA… Tran… Hist… Tran…
+#>  7 S     4         5 Arithmancy_Vector_4_E1              Care… Char… Care… Herb…
+#>  8 S     4         5 Muggle Studies_Burbage_4_E1         <NA>  <NA>  <NA>  <NA> 
+#>  9 S     4         6 Charms_Flitwick_NA                  <NA>  Arit… <NA>  <NA> 
+#> 10 S     4         7 Care of Magical Creatures_CoMC tea… <NA>  Arit… Poti… DADA…
+#> 11 S     4         7 <NA>                                <NA>  Mugg… <NA>  <NA> 
+#> 
+#> $`5.S`
 #> # A tibble: 9 × 8
 #>   house grade  hour mon                                  tue   wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                                <chr> <chr> <chr> <chr>
@@ -329,66 +383,12 @@ hogwarts %>%
 #> 8 S     5         6 Care of Magical Creatures_CoMC teac… Rune… <NA>  Herb… Poti…
 #> 9 S     5         7 Divination_Div Teacher_5_E2          Rune… Char… Herb… Care…
 #> 
-#> $Automatic.6
-#> # A tibble: 7 × 8
-#>   house     grade  hour mon                              tue   wed   thu   fri  
-#>   <chr>     <chr> <int> <chr>                            <chr> <chr> <chr> <chr>
-#> 1 Automatic 6         1 Muggle Studies_Burbage_NA        <NA>  Arit… Tran… Divi…
-#> 2 Automatic 6         2 DADA_DADA Teacher_NA             <NA>  Rune… <NA>  Herb…
-#> 3 Automatic 6         3 Arithmancy_Vector_NA             <NA>  <NA>  Poti… Rune…
-#> 4 Automatic 6         4 Charms_Flitwick_NA               Poti… Char… Poti… Care…
-#> 5 Automatic 6         5 Care of Magical Creatures_CoMC … Tran… DADA… Mugg… Char…
-#> 6 Automatic 6         6 History of Magic_Binns_NA        Mugg… Divi… Hist… DADA…
-#> 7 Automatic 6         7 Runes_Batsheda Babbling_NA       Herb… Care… Tran… Arit…
-#> 
-#> $G.6
+#> $`6.S`
 #> # A tibble: 0 × 8
 #> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
 #> #   wed <chr>, thu <chr>, fri <chr>
 #> 
-#> $H.6
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $R.6
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $S.6
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $Automatic.7
-#> # A tibble: 7 × 8
-#>   house     grade  hour mon                              tue   wed   thu   fri  
-#>   <chr>     <chr> <int> <chr>                            <chr> <chr> <chr> <chr>
-#> 1 Automatic 7         1 Care of Magical Creatures_CoMC … <NA>  Rune… Divi… Char…
-#> 2 Automatic 7         2 Charms_Flitwick_NA               Tran… <NA>  <NA>  Care…
-#> 3 Automatic 7         3 Runes_Batsheda Babbling_NA       <NA>  Poti… Arit… Arit…
-#> 4 Automatic 7         4 Transfiguration_McGonagall_NA    Mugg… Poti… DADA… Poti…
-#> 5 Automatic 7         5 Herbology_Sprout_NA              Arit… Herb… Tran… Mugg…
-#> 6 Automatic 7         6 <NA>                             Hist… Care… Char… Rune…
-#> 7 Automatic 7         7 DADA_DADA Teacher_NA             Divi… DADA… Mugg… Hist…
-#> 
-#> $G.7
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $H.7
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $R.7
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $S.7
+#> $`7.S`
 #> # A tibble: 0 × 8
 #> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
 #> #   wed <chr>, thu <chr>, fri <chr>

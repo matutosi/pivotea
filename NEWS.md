@@ -5,6 +5,7 @@
 * 2023-07-??
 
 * Add data: `hogwarts` which includes timetable in Hogwarts School of Witchcraft and Wizardry. 
+* Fix bug in `split_force()`.
 
 # pivotea 1.0.0
 

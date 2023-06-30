@@ -39,7 +39,7 @@ install.packages("pivotea")
 
 ## Example
 
-You can use pivot to make a pivot table easily.
+You can use `pivot()` to make a pivot table easily.
 
 ```{r example}
 library(pivotea)
