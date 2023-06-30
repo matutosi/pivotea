@@ -102,7 +102,7 @@ split_force <- function(df, split){
   if(is.null(split)){
     df <- base::split(df, "")
   }else{
-    split <- sort(seq(split), decreasing = TRUE)
+    split <- split[length(split):1]
     df <- base::split(df, df[split])
   }
   return(df)
