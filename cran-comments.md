@@ -17,22 +17,17 @@ There were 0 errors  | 0 warnings  | 0 notes
 
 ## devtools::check_win_devel() and devtools::check_rhub()
 
-There were 0 errors  | 0 warnings  | 4 notes
+There were 0 errors  | 0 warnings  | 3 notes
 
-* checking CRAN incoming feasibility ... NOTE
-  Maintainer: 'Toshikazu Matsumura <matutosi@gmail.com>'
-  New submission
+* Examples with CPU (user + system) or elapsed time > 5s
+        user system elapsed
+  pivot 4.65   0.08    5.05
 
 * checking for non-standard things in the check directory ... NOTE
-  Found the following files/directories:
-    ''NULL''
 
 * checking for detritus in the temp directory ... NOTE
   Found the following files/directories:
     'lastMiKTeXException'
-
-* checking HTML version of manual ... NOTE
-  Skipping checking HTML validation: no command 'tidy' found
 
 # Downstream dependencies
 
