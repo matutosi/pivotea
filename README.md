@@ -11,7 +11,7 @@ columns, values and split.
 
 ## Installation
 
-You can install the development version of pivotea from
+You can install the development version from
 [GitHub](https://github.com/) with:
 
 ``` r
@@ -41,7 +41,6 @@ library(dplyr)
 #> 
 #>     intersect, setdiff, setequal, union
 library(ggplot2)
-library(pivotea)
 hogwarts %>%
   pivot(row = "hour", col = "wday", value = c("subject", "teacher", "room"), split = c("house", "grade"))
 #> $`1.Automatic`
@@ -654,5 +653,5 @@ diamonds %>%
 
 ## Citation
 
-Toshikazu Matsumura (2023) Create Pivot Table Easily.
+Toshikazu Matsumura (2023) pivotea. Create Pivot Table Easily.
 <https://github.com/matutosi/pivotea/>.

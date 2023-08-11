@@ -23,7 +23,7 @@ The goal of pivotea is to make pivot table easily by specifying rows, columns, v
 
 ## Installation
 
-You can install the development version of pivotea from [GitHub](https://github.com/) with:
+You can install the development version from [GitHub](https://github.com/) with:
 
 ```{r, eval = FALSE}
 # install.packages("devtools")
@@ -45,7 +45,6 @@ You can use `pivot()` to make a pivot table easily.
 library(pivotea)
 library(dplyr)
 library(ggplot2)
-library(pivotea)
 hogwarts %>%
   pivot(row = "hour", col = "wday", value = c("subject", "teacher", "room"), split = c("house", "grade"))
 starwars %>%
@@ -61,4 +60,4 @@ diamonds %>%
 ```
 ## Citation
 
-Toshikazu Matsumura (2023) Create Pivot Table Easily. https://github.com/matutosi/pivotea/.
+Toshikazu Matsumura (2023) pivotea. Create Pivot Table Easily. https://github.com/matutosi/pivotea/.
