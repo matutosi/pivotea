@@ -12,12 +12,12 @@
 #' library(purrr)
 #' library(ggplot2)
 #' hogwarts %>%
-#'   pivot(row = "hour", col = "wday", 
-#'         value = c("subject", "teacher", "room"), 
+#'   pivot(row = "hour", col = "wday",
+#'         value = c("subject", "teacher", "room"),
 #'         split = c("house", "grade"))
 #' hogwarts %>%
-#'   pivot(row = "hour", col = "wday", 
-#'         value = c("subject", "room", "house", "grade"), 
+#'   pivot(row = "hour", col = "wday",
+#'         value = c("subject", "room", "house", "grade"),
 #'         split = c("teacher"))
 #' starwars %>%
 #'   pivot(row = "homeworld", col = "species", value = "name", split = "sex")
@@ -26,11 +26,11 @@
 #'   na2empty() %>%
 #'   print(n = nrow(.))
 #' tibble::as_tibble(Titanic) %>%
-#'   pivot(row = "Age", col = c("Sex", "Survived"), 
+#'   pivot(row = "Age", col = c("Sex", "Survived"),
 #'         value = "n", split = "Class")
 #' diamonds %>%
 #'   pivot(row = "cut", col = "color", value = "price", split = "clarity")
-#' 
+#'
 #' @export
 pivot <- function(df, row, col, value, split = NULL, sep = "_"){
   cols <- c(row, col, value, split)
@@ -49,21 +49,26 @@ pivot <- function(df, row, col, value, split = NULL, sep = "_"){
     dplyr::distinct(dplyr::pick(dplyr::all_of(cols))) %>%
     split_force(split) %>%
     purrr::map(add_group_sub, c(row, col), sep = sep, tmp_col = tmp_col) %>%
-    purrr::map(tidyr::pivot_wider, 
-      names_from = dplyr::all_of(col), 
+    purrr::map(tidyr::pivot_wider,
+      names_from = dplyr::all_of(col),
       names_sep = sep, names_sort = TRUE, names_expand = TRUE,
       values_from = dplyr::all_of(value)) %>%
     purrr::map(dplyr::arrange, dplyr::across(dplyr::all_of(row))) %>%
     purrr::map(dplyr::select, -dplyr::all_of(tmp_col)) %>%
     purrr::map(dplyr::relocate, dplyr::any_of(split))
 
-  if(is.null(split)){ df <- df[[1]] }
+  if(is.null(split)){
+    df <- df[[1]]
+  }else{
+    name <- names(df) %>% sort()
+    df <- df[name]
+  }
   return(df)
 }
 
 #' Add sub index within group
 #' @param group   A string or string vector.
-#'                When vector, the first string will be used for 
+#'                When vector, the first string will be used for
 #'                adding sub index.
 #' @param tmp_col A string of colnames for temporary use.
 #' @inherit pivot
@@ -71,7 +76,7 @@ pivot <- function(df, row, col, value, split = NULL, sep = "_"){
 #' library(dplyr)
 #' add_group_sub(mtcars, c("am", "gear"))
 #' add_group_sub(mtcars, c("cyl", "am"))
-#' 
+#'
 #' @export
 add_group_sub <- function(df, group, sep = "_", tmp_col = "tmp_col"){
   g <- group[1]
@@ -96,13 +101,12 @@ validate_col <- function(df, col){
 #' @examples
 #' split_force(mtcars, split = NULL)
 #' split_force(mtcars, split = c("cyl"))
-#' 
+#'
 #' @export
 split_force <- function(df, split){
   if(is.null(split)){
     df <- base::split(df, "")
   }else{
-    split <- split[length(split):1]
     df <- base::split(df, df[split])
   }
   return(df)
