@@ -1,10 +1,11 @@
 #' Pivot easily by specifying rows, columns, values and split.
 #' @name pivot
-#' @param df         A dataframe.
-#' @param row,value  A string or string vector.
-#' @param col        A string or string vector.
-#' @param split      A string or string vector.
-#' @param sep        A string for separator.
+#' @param df          A dataframe.
+#' @param row,value   A string or string vector.
+#' @param col         A string or string vector.
+#' @param split       A string or string vector.
+#' @param sep         A string for separator.
+#' @param rm_empty_df A logical for removign empty df.
 #' @return A dataframe.
 #' @examples
 #' library(tidyr)
@@ -32,7 +33,7 @@
 #'   pivot(row = "cut", col = "color", value = "price", split = "clarity")
 #'
 #' @export
-pivot <- function(df, row, col, value, split = NULL, sep = "_"){
+pivot <- function(df, row, col, value, split = NULL, sep = "_", rm_empty_df = TRUE){
   cols <- c(row, col, value, split)
   validate_col(df, cols)
 
@@ -62,6 +63,10 @@ pivot <- function(df, row, col, value, split = NULL, sep = "_"){
   }else{
     name <- names(df) %>% sort()
     df <- df[name]
+    if(rm_empty_df){
+      has_rows <- purrr::map_lgl(df, function(x) nrow(x) > 0)
+      df <- df[has_rows]
+    }
   }
   return(df)
 }
