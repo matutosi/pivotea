@@ -23,12 +23,12 @@ library(dplyr)
 library(purrr)
 library(ggplot2)
 hogwarts \%>\%
-  pivot(row = "hour", col = "wday", 
-        value = c("subject", "teacher", "room"), 
+  pivot(row = "hour", col = "wday",
+        value = c("subject", "teacher", "room"),
         split = c("house", "grade"))
 hogwarts \%>\%
-  pivot(row = "hour", col = "wday", 
-        value = c("subject", "room", "house", "grade"), 
+  pivot(row = "hour", col = "wday",
+        value = c("subject", "room", "house", "grade"),
         split = c("teacher"))
 starwars \%>\%
   pivot(row = "homeworld", col = "species", value = "name", split = "sex")
@@ -37,7 +37,7 @@ msleep \%>\%
   na2empty() \%>\%
   print(n = nrow(.))
 tibble::as_tibble(Titanic) \%>\%
-  pivot(row = "Age", col = c("Sex", "Survived"), 
+  pivot(row = "Age", col = c("Sex", "Survived"),
         value = "n", split = "Class")
 diamonds \%>\%
   pivot(row = "cut", col = "color", value = "price", split = "clarity")
