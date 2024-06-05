@@ -15,7 +15,7 @@ You can install the development version from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
+# install.packages("remotes")
 remotes::install_github("matutosi/pivotea")
 ```
 
@@ -32,14 +32,6 @@ You can use `pivot()` to make a pivot table easily.
 ``` r
 library(pivotea)
 library(dplyr)
-#> 
-#> Attaching package: 'dplyr'
-#> The following objects are masked from 'package:stats':
-#> 
-#>     filter, lag
-#> The following objects are masked from 'package:base':
-#> 
-#>     intersect, setdiff, setequal, union
 library(ggplot2)
 hogwarts %>%
   pivot(row = "hour", col = "wday", value = c("subject", "teacher", "room"), split = c("house", "grade"))
@@ -391,6 +383,9 @@ hogwarts %>%
 #> # A tibble: 0 × 8
 #> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
 #> #   wed <chr>, thu <chr>, fri <chr>
+```
+
+``` r
 starwars %>%
   pivot(row = "homeworld", col = "species", value = "name", split = "sex")
 #> $female
@@ -403,15 +398,15 @@ starwars %>%
 #>  4 fema… Kamino    <NA>     <NA>  Taun We  <NA>     <NA>       <NA>    <NA>     
 #>  5 fema… Mirial    <NA>     <NA>  <NA>     Luminar… <NA>       <NA>    <NA>     
 #>  6 fema… Mirial    <NA>     <NA>  <NA>     Barriss… <NA>       <NA>    <NA>     
-#>  7 fema… Naboo     <NA>     Cordé <NA>     <NA>     <NA>       <NA>    <NA>     
+#>  7 fema… Naboo     <NA>     Padm… <NA>     <NA>     <NA>       <NA>    <NA>     
 #>  8 fema… Naboo     <NA>     Dormé <NA>     <NA>     <NA>       <NA>    <NA>     
-#>  9 fema… Naboo     <NA>     Padm… <NA>     <NA>     <NA>       <NA>    <NA>     
-#> 10 fema… Ryloth    <NA>     <NA>  <NA>     <NA>     <NA>       <NA>    Ayla Sec…
-#> 11 fema… Shili     <NA>     <NA>  <NA>     <NA>     <NA>       Shaak … <NA>     
-#> 12 fema… Tatooine  <NA>     Beru… <NA>     <NA>     <NA>       <NA>    <NA>     
-#> 13 fema… Tatooine  <NA>     Shmi… <NA>     <NA>     <NA>       <NA>    <NA>     
-#> 14 fema… Zolan     Zam Wes… <NA>  <NA>     <NA>     <NA>       <NA>    <NA>     
-#> 15 fema… <NA>      <NA>     Rey   <NA>     <NA>     <NA>       <NA>    <NA>     
+#>  9 fema… Ryloth    <NA>     <NA>  <NA>     <NA>     <NA>       <NA>    Ayla Sec…
+#> 10 fema… Shili     <NA>     <NA>  <NA>     <NA>     <NA>       Shaak … <NA>     
+#> 11 fema… Tatooine  <NA>     Beru… <NA>     <NA>     <NA>       <NA>    <NA>     
+#> 12 fema… Tatooine  <NA>     Shmi… <NA>     <NA>     <NA>       <NA>    <NA>     
+#> 13 fema… Zolan     Zam Wes… <NA>  <NA>     <NA>     <NA>       <NA>    <NA>     
+#> 14 fema… <NA>      <NA>     Rey   <NA>     <NA>     <NA>       <NA>    <NA>     
+#> 15 fema… <NA>      <NA>     Capt… <NA>     <NA>     <NA>       <NA>    <NA>     
 #> 
 #> $hermaphroditic
 #> # A tibble: 1 × 3
@@ -420,20 +415,20 @@ starwars %>%
 #> 1 hermaphroditic Nal Hutta Jabba Desilijic Tiure
 #> 
 #> $male
-#> # A tibble: 56 × 33
+#> # A tibble: 55 × 33
 #>    sex   homeworld  Aleena Besalisk Cerean Chagrian Dug   Ewok  Geonosian Gungan
 #>    <chr> <chr>      <chr>  <chr>    <chr>  <chr>    <chr> <chr> <chr>     <chr> 
 #>  1 male  Alderaan   <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
 #>  2 male  Alderaan   <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
 #>  3 male  Aleen Min… Ratts… <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
 #>  4 male  Bespin     <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
-#>  5 male  Bestine IV <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
-#>  6 male  Cato Neim… <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
-#>  7 male  Cerea      <NA>   <NA>     Ki-Ad… <NA>     <NA>  <NA>  <NA>      <NA>  
-#>  8 male  Champala   <NA>   <NA>     <NA>   Mas Ame… <NA>  <NA>  <NA>      <NA>  
-#>  9 male  Concord D… <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
+#>  5 male  Cato Neim… <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
+#>  6 male  Cerea      <NA>   <NA>     Ki-Ad… <NA>     <NA>  <NA>  <NA>      <NA>  
+#>  7 male  Champala   <NA>   <NA>     <NA>   Mas Ame… <NA>  <NA>  <NA>      <NA>  
+#>  8 male  Concord D… <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
+#>  9 male  Corellia   <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
 #> 10 male  Corellia   <NA>   <NA>     <NA>   <NA>     <NA>  <NA>  <NA>      <NA>  
-#> # ℹ 46 more rows
+#> # ℹ 45 more rows
 #> # ℹ 23 more variables: Human <chr>, Iktotchi <chr>, Kaleesh <chr>,
 #> #   Kaminoan <chr>, `Kel Dor` <chr>, `Mon Calamari` <chr>, Muun <chr>,
 #> #   Nautolan <chr>, Neimodian <chr>, `Pau'an` <chr>, Quermian <chr>,
@@ -451,6 +446,9 @@ starwars %>%
 #> 4 none  <NA>      IG-88 
 #> 5 none  <NA>      R4-P17
 #> 6 none  <NA>      BB8
+```
+
+``` r
 msleep %>%
   pivot(row = "vore", col = "conservation", value = "name") %>%
   na2empty() %>%
@@ -491,6 +489,9 @@ msleep %>%
 #> 31 ""        ""            ""             ""             ""    ""    ""    "Pha…
 #> 32 ""        ""            ""             ""             ""    ""    ""    "Mol…
 #> 33 ""        ""            ""             ""             ""    ""    ""    "Mus…
+```
+
+``` r
 as_tibble(Titanic) %>%
   pivot(row = "Age", col = c("Sex", "Survived"), value = "n", split = "Class")
 #> $`1st`
@@ -520,6 +521,9 @@ as_tibble(Titanic) %>%
 #>   <chr> <chr>     <dbl>      <dbl>   <dbl>    <dbl>
 #> 1 Crew  Adult         3         20     670      192
 #> 2 Crew  Child         0          0       0        0
+```
+
+``` r
 diamonds %>%
   pivot(row = "cut", col = "color", value = "price", split = "clarity")
 #> $I1
