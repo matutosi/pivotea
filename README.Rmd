@@ -26,7 +26,7 @@ The goal of pivotea is to make pivot table easily by specifying rows, columns, v
 You can install the development version from [GitHub](https://github.com/) with:
 
 ```{r, eval = FALSE}
-# install.packages("devtools")
+# install.packages("remotes")
 remotes::install_github("matutosi/pivotea")
 ```
 
