@@ -1,7 +1,6 @@
 pandoc: 3.1.11
-pkgdown: 2.0.9
+pkgdown: 2.1.0
 pkgdown_sha: ~
 articles:
   pivotea: pivotea.html
-last_built: 2024-06-05T13:19Z
-
+last_built: 2024-07-13T06:18Z
