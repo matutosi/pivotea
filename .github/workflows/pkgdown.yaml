@@ -11,11 +11,6 @@ on:
 
 name: pkgdown
 
-<<<<<<< HEAD
-permissions: read-all
-
-=======
->>>>>>> 1ef01099cdbde1db7dd2171e2c302c67c7aa030e
 jobs:
   pkgdown:
     runs-on: ubuntu-latest
@@ -44,11 +39,7 @@ jobs:
         run: pkgdown::build_site_github_pages(new_process = FALSE, install = FALSE)
         shell: Rscript {0}
 
-<<<<<<< HEAD
       - name: Deploy to GitHub pages 🚀
-=======
-      - name: Deploy to GitHub pages
->>>>>>> 1ef01099cdbde1db7dd2171e2c302c67c7aa030e
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:

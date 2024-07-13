@@ -17,7 +17,7 @@ pivot(df, row, col, value, split = NULL, sep = "_", rm_empty_df = TRUE)
 
 \item{sep}{A string for separator.}
 
-\item{rm_empty_df}{A logical for removign empty df.}
+\item{rm_empty_df}{A logical for removing empty df.}
 }
 \value{
 A dataframe.
@@ -30,24 +30,24 @@ library(tidyr)
 library(dplyr)
 library(purrr)
 library(ggplot2)
-hogwarts \%>\%
+hogwarts |>
   pivot(row = "hour", col = "wday",
         value = c("subject", "teacher", "room"),
         split = c("house", "grade"))
-hogwarts \%>\%
+hogwarts |>
   pivot(row = "hour", col = "wday",
         value = c("subject", "room", "house", "grade"),
         split = c("teacher"))
-starwars \%>\%
+starwars |>
   pivot(row = "homeworld", col = "species", value = "name", split = "sex")
-msleep \%>\%
-  pivot(row = "vore", col = "conservation", value = "name") \%>\%
-  na2empty() \%>\%
-  print(n = nrow(.))
-tibble::as_tibble(Titanic) \%>\%
+msleep |>
+  pivot(row = "vore", col = "conservation", value = "name") |>
+  na2empty() |>
+  print(n = Inf)
+tibble::as_tibble(Titanic) |>
   pivot(row = "Age", col = c("Sex", "Survived"),
         value = "n", split = "Class")
-diamonds \%>\%
+diamonds |>
   pivot(row = "cut", col = "color", value = "price", split = "clarity")
 
 }

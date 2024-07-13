@@ -33,34 +33,9 @@ You can use `pivot()` to make a pivot table easily.
 library(pivotea)
 library(dplyr)
 library(ggplot2)
-hogwarts %>%
+hogwarts |>
   pivot(row = "hour", col = "wday", value = c("subject", "teacher", "room"), split = c("house", "grade"))
-#> $`1.Automatic`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`2.Automatic`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`3.Automatic`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`4.Automatic`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`5.Automatic`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`6.Automatic`
+#> $Automatic.6
 #> # A tibble: 7 × 8
 #>   house     grade  hour mon                              tue   wed   thu   fri  
 #>   <chr>     <chr> <int> <chr>                            <chr> <chr> <chr> <chr>
@@ -72,7 +47,7 @@ hogwarts %>%
 #> 6 Automatic 6         6 History of Magic_Binns_NA        Mugg… Divi… Hist… DADA…
 #> 7 Automatic 6         7 Runes_Batsheda Babbling_NA       Herb… Care… Tran… Arit…
 #> 
-#> $`7.Automatic`
+#> $Automatic.7
 #> # A tibble: 7 × 8
 #>   house     grade  hour mon                              tue   wed   thu   fri  
 #>   <chr>     <chr> <int> <chr>                            <chr> <chr> <chr> <chr>
@@ -84,7 +59,7 @@ hogwarts %>%
 #> 6 Automatic 7         6 <NA>                             Hist… Care… Char… Rune…
 #> 7 Automatic 7         7 DADA_DADA Teacher_NA             Divi… DADA… Mugg… Hist…
 #> 
-#> $`1.G`
+#> $G.1
 #> # A tibble: 4 × 8
 #>   house grade  hour mon                  tue                   wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                <chr>                 <chr> <chr> <chr>
@@ -93,7 +68,7 @@ hogwarts %>%
 #> 3 G     1         6 <NA>                 <NA>                  Poti… Tran… Char…
 #> 4 G     1         7 <NA>                 Charms_Flitwick_NA    Poti… Hist… <NA> 
 #> 
-#> $`2.G`
+#> $G.2
 #> # A tibble: 5 × 8
 #>   house grade  hour mon                           tue          wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
@@ -103,7 +78,7 @@ hogwarts %>%
 #> 4 G     2         6 <NA>                          <NA>         Char… DADA… <NA> 
 #> 5 G     2         7 Charms_Flitwick_NA            <NA>         <NA>  <NA>  Tran…
 #> 
-#> $`3.G`
+#> $G.3
 #> # A tibble: 10 × 8
 #>    house grade  hour mon                          tue          wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                        <chr>        <chr> <chr> <chr>
@@ -118,7 +93,7 @@ hogwarts %>%
 #>  9 G     3         7 Arithmancy_Vector_3_E1       Transfigura… Rune… Care… Char…
 #> 10 G     3         7 Muggle Studies_Burbage_3_E1  <NA>         Divi… <NA>  <NA> 
 #> 
-#> $`4.G`
+#> $G.4
 #> # A tibble: 11 × 8
 #>    house grade  hour mon                                 tue   wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
@@ -134,7 +109,7 @@ hogwarts %>%
 #> 10 G     4         6 Divination_Div Teacher_4_E2         <NA>  <NA>  <NA>  <NA> 
 #> 11 G     4         7 Care of Magical Creatures_CoMC tea… <NA>  Tran… Poti… DADA…
 #> 
-#> $`5.G`
+#> $G.5
 #> # A tibble: 10 × 8
 #>    house grade  hour mon                                 tue   wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
@@ -149,17 +124,7 @@ hogwarts %>%
 #>  9 G     5         6 Care of Magical Creatures_CoMC tea… Char… Tran… <NA>  Poti…
 #> 10 G     5         7 History of Magic_Binns_NA           <NA>  <NA>  Arit… Care…
 #> 
-#> $`6.G`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`7.G`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`1.H`
+#> $H.1
 #> # A tibble: 4 × 8
 #>   house grade  hour mon                 tue                    wed   thu   fri  
 #>   <chr> <chr> <int> <chr>               <chr>                  <chr> <chr> <chr>
@@ -168,7 +133,7 @@ hogwarts %>%
 #> 3 H     1         6 <NA>                <NA>                   DADA… Tran… Hist…
 #> 4 H     1         7 Potions_Snape_NA    History of Magic_Binn… <NA>  Char… <NA> 
 #> 
-#> $`2.H`
+#> $H.2
 #> # A tibble: 5 × 8
 #>   house grade  hour mon                           tue          wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
@@ -178,7 +143,7 @@ hogwarts %>%
 #> 4 H     2         6 DADA_DADA Teacher_NA          Potions_Sna… Hist… <NA>  <NA> 
 #> 5 H     2         7 <NA>                          Potions_Sna… <NA>  <NA>  Tran…
 #> 
-#> $`3.H`
+#> $H.3
 #> # A tibble: 10 × 8
 #>    house grade  hour mon                                 tue   wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
@@ -193,7 +158,7 @@ hogwarts %>%
 #>  9 H     3         7 Arithmancy_Vector_3_E1              Tran… Hist… DADA… Rune…
 #> 10 H     3         7 Muggle Studies_Burbage_3_E1         <NA>  <NA>  <NA>  Divi…
 #> 
-#> $`4.H`
+#> $H.4
 #> # A tibble: 10 × 8
 #>    house grade  hour mon                           tue         wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                         <chr>       <chr> <chr> <chr>
@@ -208,7 +173,7 @@ hogwarts %>%
 #>  9 H     4         6 Charms_Flitwick_NA            DADA_DADA … <NA>  Poti… <NA> 
 #> 10 H     4         7 <NA>                          DADA_DADA … Tran… <NA>  <NA> 
 #> 
-#> $`5.H`
+#> $H.5
 #> # A tibble: 9 × 8
 #>   house grade  hour mon                         tue            wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                       <chr>          <chr> <chr> <chr>
@@ -222,17 +187,7 @@ hogwarts %>%
 #> 8 H     5         6 Potions_Snape_NA            Runes_Batshed… Tran… <NA>  Care…
 #> 9 H     5         7 Divination_Div Teacher_5_E2 Runes_Batshed… Char… Arit… Poti…
 #> 
-#> $`6.H`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`7.H`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`1.R`
+#> $R.1
 #> # A tibble: 4 × 8
 #>   house grade  hour mon              tue                       wed   thu   fri  
 #>   <chr> <chr> <int> <chr>            <chr>                     <chr> <chr> <chr>
@@ -241,7 +196,7 @@ hogwarts %>%
 #> 3 R     1         6 <NA>             <NA>                      DADA… <NA>  Char…
 #> 4 R     1         7 Potions_Snape_NA Charms_Flitwick_NA        <NA>  Hist… <NA> 
 #> 
-#> $`2.R`
+#> $R.2
 #> # A tibble: 5 × 8
 #>   house grade  hour mon                           tue          wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
@@ -251,7 +206,7 @@ hogwarts %>%
 #> 4 R     2         6 DADA_DADA Teacher_NA          Potions_Sna… Char… <NA>  Herb…
 #> 5 R     2         7 Charms_Flitwick_NA            Potions_Sna… Herb… <NA>  Herb…
 #> 
-#> $`3.R`
+#> $R.3
 #> # A tibble: 10 × 8
 #>    house grade  hour mon                                 tue   wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
@@ -266,7 +221,7 @@ hogwarts %>%
 #>  9 R     3         7 Transfiguration_McGonagall_NA       Arit… Rune… DADA… Char…
 #> 10 R     3         7 <NA>                                <NA>  Divi… <NA>  <NA> 
 #> 
-#> $`4.R`
+#> $R.4
 #> # A tibble: 12 × 8
 #>    house grade  hour mon                           tue         wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                         <chr>       <chr> <chr> <chr>
@@ -283,7 +238,7 @@ hogwarts %>%
 #> 11 R     4         7 <NA>                          DADA_DADA … Arit… <NA>  <NA> 
 #> 12 R     4         7 <NA>                          <NA>        Mugg… <NA>  <NA> 
 #> 
-#> $`5.R`
+#> $R.5
 #> # A tibble: 11 × 8
 #>    house grade  hour mon                       tue             wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                     <chr>           <chr> <chr> <chr>
@@ -299,17 +254,7 @@ hogwarts %>%
 #> 10 R     5         6 Potions_Snape_NA          Charms_Flitwic… <NA>  Herb… Care…
 #> 11 R     5         7 History of Magic_Binns_NA <NA>            <NA>  Herb… Poti…
 #> 
-#> $`6.R`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`7.R`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`1.S`
+#> $S.1
 #> # A tibble: 4 × 8
 #>   house grade  hour mon                  tue                   wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                <chr>                 <chr> <chr> <chr>
@@ -318,7 +263,7 @@ hogwarts %>%
 #> 3 S     1         6 <NA>                 <NA>                  Poti… <NA>  Hist…
 #> 4 S     1         7 <NA>                 History of Magic_Bin… Poti… Char… <NA> 
 #> 
-#> $`2.S`
+#> $S.2
 #> # A tibble: 5 × 8
 #>   house grade  hour mon                           tue          wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                         <chr>        <chr> <chr> <chr>
@@ -328,7 +273,7 @@ hogwarts %>%
 #> 4 S     2         6 <NA>                          <NA>         Hist… DADA… Herb…
 #> 5 S     2         7 <NA>                          <NA>         Herb… <NA>  Herb…
 #> 
-#> $`3.S`
+#> $S.3
 #> # A tibble: 11 × 8
 #>    house grade  hour mon                           tue         wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                         <chr>       <chr> <chr> <chr>
@@ -344,7 +289,7 @@ hogwarts %>%
 #> 10 S     3         7 Transfiguration_McGonagall_NA Arithmancy… Hist… Care… Rune…
 #> 11 S     3         7 <NA>                          <NA>        <NA>  <NA>  Divi…
 #> 
-#> $`4.S`
+#> $S.4
 #> # A tibble: 11 × 8
 #>    house grade  hour mon                                 tue   wed   thu   fri  
 #>    <chr> <chr> <int> <chr>                               <chr> <chr> <chr> <chr>
@@ -360,7 +305,7 @@ hogwarts %>%
 #> 10 S     4         7 Care of Magical Creatures_CoMC tea… <NA>  Arit… Poti… DADA…
 #> 11 S     4         7 <NA>                                <NA>  Mugg… <NA>  <NA> 
 #> 
-#> $`5.S`
+#> $S.5
 #> # A tibble: 9 × 8
 #>   house grade  hour mon                                  tue   wed   thu   fri  
 #>   <chr> <chr> <int> <chr>                                <chr> <chr> <chr> <chr>
@@ -373,20 +318,7 @@ hogwarts %>%
 #> 7 S     5         5 <NA>                                 <NA>  Mugg… <NA>  <NA> 
 #> 8 S     5         6 Care of Magical Creatures_CoMC teac… Rune… <NA>  Herb… Poti…
 #> 9 S     5         7 Divination_Div Teacher_5_E2          Rune… Char… Herb… Care…
-#> 
-#> $`6.S`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-#> 
-#> $`7.S`
-#> # A tibble: 0 × 8
-#> # ℹ 8 variables: house <chr>, grade <chr>, hour <int>, mon <chr>, tue <chr>,
-#> #   wed <chr>, thu <chr>, fri <chr>
-```
-
-``` r
-starwars %>%
+starwars |>
   pivot(row = "homeworld", col = "species", value = "name", split = "sex")
 #> $female
 #> # A tibble: 15 × 9
@@ -446,13 +378,10 @@ starwars %>%
 #> 4 none  <NA>      IG-88 
 #> 5 none  <NA>      R4-P17
 #> 6 none  <NA>      BB8
-```
-
-``` r
-msleep %>%
-  pivot(row = "vore", col = "conservation", value = "name") %>%
-  na2empty() %>%
-  print(n = nrow(.))
+msleep |>
+  pivot(row = "vore", col = "conservation", value = "name") |>
+  na2empty() |>
+  print(n = Inf)
 #> # A tibble: 33 × 8
 #>    vore      cd            domesticated   en             lc    nt    vu    `NA` 
 #>    <chr>     <chr>         <chr>          <chr>          <chr> <chr> <chr> <chr>
@@ -489,10 +418,7 @@ msleep %>%
 #> 31 ""        ""            ""             ""             ""    ""    ""    "Pha…
 #> 32 ""        ""            ""             ""             ""    ""    ""    "Mol…
 #> 33 ""        ""            ""             ""             ""    ""    ""    "Mus…
-```
-
-``` r
-as_tibble(Titanic) %>%
+as_tibble(Titanic) |>
   pivot(row = "Age", col = c("Sex", "Survived"), value = "n", split = "Class")
 #> $`1st`
 #> # A tibble: 2 × 6
@@ -521,10 +447,7 @@ as_tibble(Titanic) %>%
 #>   <chr> <chr>     <dbl>      <dbl>   <dbl>    <dbl>
 #> 1 Crew  Adult         3         20     670      192
 #> 2 Crew  Child         0          0       0        0
-```
-
-``` r
-diamonds %>%
+diamonds |>
   pivot(row = "cut", col = "color", value = "price", split = "clarity")
 #> $I1
 #> # A tibble: 176 × 9
@@ -542,21 +465,21 @@ diamonds %>%
 #> 10 I1      Fair     NA    NA   613  6817  4648  5750  6289
 #> # ℹ 166 more rows
 #> 
-#> $SI2
-#> # A tibble: 1,494 × 9
+#> $IF
+#> # A tibble: 362 × 9
 #>    clarity cut       D     E     F     G     H     I     J
 #>    <ord>   <ord> <int> <int> <int> <int> <int> <int> <int>
-#>  1 SI2     Fair   2848  2757  2759  2834  2763  2811  2789
-#>  2 SI2     Fair   2885  2797  2815  2856  2777  2884  2992
-#>  3 SI2     Fair   2974  2815  2867  2858  2818  2948  3119
-#>  4 SI2     Fair   3003  2855  2958  2942  2823  3054  3149
-#>  5 SI2     Fair   3079  2862  2964  3027  2825  3084  3199
-#>  6 SI2     Fair   3205  2930  2996  3104  2846  3290  3246
-#>  7 SI2     Fair   3304  2948  3062  3142  2856  3348  3302
-#>  8 SI2     Fair   3384  2982  3146  3172  2875  3530  3403
-#>  9 SI2     Fair   3473  3011  3170  3173  2883  3669  3984
-#> 10 SI2     Fair   3634  3084  3210  3332  2912  3802  4056
-#> # ℹ 1,484 more rows
+#>  1 IF      Fair   1208    NA  2861  1127    NA    NA    NA
+#>  2 IF      Fair   1440    NA  3205  1849    NA    NA    NA
+#>  3 IF      Fair   2211    NA  1166    NA    NA    NA    NA
+#>  4 IF      Fair     NA    NA  2144    NA    NA    NA    NA
+#>  5 IF      Good   3378   597  2980  3304  6703  3669  5361
+#>  6 IF      Good   3509  6804  3393  3583 13248  3734  6299
+#>  7 IF      Good  15081   612  9451  5771  1440   631   827
+#>  8 IF      Good  15928   813  9660  5855  2404   886  1061
+#>  9 IF      Good  16406   912  9867  8973    NA   945  2053
+#> 10 IF      Good  17499  1052   633 13998    NA    NA    NA
+#> # ℹ 352 more rows
 #> 
 #> $SI1
 #> # A tibble: 1,828 × 9
@@ -574,21 +497,21 @@ diamonds %>%
 #> 10 SI1     Fair   4276  4140  3437  3358  3387  3920  4838
 #> # ℹ 1,818 more rows
 #> 
-#> $VS2
-#> # A tibble: 1,526 × 9
+#> $SI2
+#> # A tibble: 1,494 × 9
 #>    clarity cut       D     E     F     G     H     I     J
 #>    <ord>   <ord> <int> <int> <int> <int> <int> <int> <int>
-#>  1 VS2     Fair   2858   337  2762  3418  3226  2921  2811
-#>  2 VS2     Fair   3077  2902  2805  4032  3375  3033  2815
-#>  3 VS2     Fair   3931  2940  3172  4072  3538  3166  2854
-#>  4 VS2     Fair   4107  3875  3750  4309  3593  3215  3190
-#>  5 VS2     Fair   4277  4057  3837  4435  3658  3246  3422
-#>  6 VS2     Fair   4439  4125  3931  4480  3697  3258  3443
-#>  7 VS2     Fair   4765   581  3992  4838  3725  3265  3886
-#>  8 VS2     Fair    592  4480  4229  4860  3733  3597  3980
-#>  9 VS2     Fair   5078  4525  4312  4887  3819  4553   416
-#> 10 VS2     Fair   5797  4550  4474  5161  4166  4695  5846
-#> # ℹ 1,516 more rows
+#>  1 SI2     Fair   2848  2757  2759  2834  2763  2811  2789
+#>  2 SI2     Fair   2885  2797  2815  2856  2777  2884  2992
+#>  3 SI2     Fair   2974  2815  2867  2858  2818  2948  3119
+#>  4 SI2     Fair   3003  2855  2958  2942  2823  3054  3149
+#>  5 SI2     Fair   3079  2862  2964  3027  2825  3084  3199
+#>  6 SI2     Fair   3205  2930  2996  3104  2846  3290  3246
+#>  7 SI2     Fair   3304  2948  3062  3142  2856  3348  3302
+#>  8 SI2     Fair   3384  2982  3146  3172  2875  3530  3403
+#>  9 SI2     Fair   3473  3011  3170  3173  2883  3669  3984
+#> 10 SI2     Fair   3634  3084  3210  3332  2912  3802  4056
+#> # ℹ 1,484 more rows
 #> 
 #> $VS1
 #> # A tibble: 1,355 × 9
@@ -606,21 +529,21 @@ diamonds %>%
 #> 10 VS1     Fair     NA  1778  5833  5633  5460 12244 14750
 #> # ℹ 1,345 more rows
 #> 
-#> $VVS2
-#> # A tibble: 885 × 9
+#> $VS2
+#> # A tibble: 1,526 × 9
 #>    clarity cut       D     E     F     G     H     I     J
 #>    <ord>   <ord> <int> <int> <int> <int> <int> <int> <int>
-#>  1 VVS2    Fair   3296  3813  3920  2959  4312  3074  2998
-#>  2 VVS2    Fair   4040   586  4368  3323  4355  3288    NA
-#>  3 VVS2    Fair   8716  5430  6863  4534  5171  7303    NA
-#>  4 VVS2    Fair  10562  5551 16364  4928  7476  1401    NA
-#>  5 VVS2    Fair    772  7553   693  6736   922  2117    NA
-#>  6 VVS2    Fair    997  7918   743   629  1227  2131    NA
-#>  7 VVS2    Fair   1011   738   757 13553  2500  2292    NA
-#>  8 VVS2    Fair   1089   945  1902   369  2608  2351    NA
-#>  9 VVS2    Fair   1980  1069  2088   819  2699    NA    NA
-#> 10 VVS2    Fair     NA  1705  2484   833  2717    NA    NA
-#> # ℹ 875 more rows
+#>  1 VS2     Fair   2858   337  2762  3418  3226  2921  2811
+#>  2 VS2     Fair   3077  2902  2805  4032  3375  3033  2815
+#>  3 VS2     Fair   3931  2940  3172  4072  3538  3166  2854
+#>  4 VS2     Fair   4107  3875  3750  4309  3593  3215  3190
+#>  5 VS2     Fair   4277  4057  3837  4435  3658  3246  3422
+#>  6 VS2     Fair   4439  4125  3931  4480  3697  3258  3443
+#>  7 VS2     Fair   4765   581  3992  4838  3725  3265  3886
+#>  8 VS2     Fair    592  4480  4229  4860  3733  3597  3980
+#>  9 VS2     Fair   5078  4525  4312  4887  3819  4553   416
+#> 10 VS2     Fair   5797  4550  4474  5161  4166  4695  5846
+#> # ℹ 1,516 more rows
 #> 
 #> $VVS1
 #> # A tibble: 578 × 9
@@ -638,21 +561,21 @@ diamonds %>%
 #> 10 VVS1    Good   8239   597  3536  3380  4847  4187    NA
 #> # ℹ 568 more rows
 #> 
-#> $IF
-#> # A tibble: 362 × 9
+#> $VVS2
+#> # A tibble: 885 × 9
 #>    clarity cut       D     E     F     G     H     I     J
 #>    <ord>   <ord> <int> <int> <int> <int> <int> <int> <int>
-#>  1 IF      Fair   1208    NA  2861  1127    NA    NA    NA
-#>  2 IF      Fair   1440    NA  3205  1849    NA    NA    NA
-#>  3 IF      Fair   2211    NA  1166    NA    NA    NA    NA
-#>  4 IF      Fair     NA    NA  2144    NA    NA    NA    NA
-#>  5 IF      Good   3378   597  2980  3304  6703  3669  5361
-#>  6 IF      Good   3509  6804  3393  3583 13248  3734  6299
-#>  7 IF      Good  15081   612  9451  5771  1440   631   827
-#>  8 IF      Good  15928   813  9660  5855  2404   886  1061
-#>  9 IF      Good  16406   912  9867  8973    NA   945  2053
-#> 10 IF      Good  17499  1052   633 13998    NA    NA    NA
-#> # ℹ 352 more rows
+#>  1 VVS2    Fair   3296  3813  3920  2959  4312  3074  2998
+#>  2 VVS2    Fair   4040   586  4368  3323  4355  3288    NA
+#>  3 VVS2    Fair   8716  5430  6863  4534  5171  7303    NA
+#>  4 VVS2    Fair  10562  5551 16364  4928  7476  1401    NA
+#>  5 VVS2    Fair    772  7553   693  6736   922  2117    NA
+#>  6 VVS2    Fair    997  7918   743   629  1227  2131    NA
+#>  7 VVS2    Fair   1011   738   757 13553  2500  2292    NA
+#>  8 VVS2    Fair   1089   945  1902   369  2608  2351    NA
+#>  9 VVS2    Fair   1980  1069  2088   819  2699    NA    NA
+#> 10 VVS2    Fair     NA  1705  2484   833  2717    NA    NA
+#> # ℹ 875 more rows
 ```
 
 ## Citation

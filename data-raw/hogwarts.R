@@ -16,13 +16,13 @@ url <- "https://github.com/Arcfej/HogwartsTimetable/raw/master/GeneratedTimetabl
 tmp <- fs::file_temp(ext = "xlsx")
 curl::curl_download(url, tmp)
 hogwarts <-
-  readxl::read_xlsx(tmp, sheet = "Students", range = "A1:F2801") %>%
-  dplyr::rename_with(tolower) %>%
-  replace_col(hour) %>%
-  dplyr::rename(wday = day) %>%
-  replace_col(wday) %>%
-  tidyr::separate(subgroup, into = c("grade", "house"), extra = "drop") %>%
-  dplyr::filter(!is.na(subject) & !is.na(teacher)) %>%
+  readxl::read_xlsx(tmp, sheet = "Students", range = "A1:F2801") |>
+  dplyr::rename_with(tolower) |>
+  replace_col(hour) |>
+  dplyr::rename(wday = day) |>
+  replace_col(wday) |>
+  tidyr::separate(subgroup, into = c("grade", "house"), extra = "drop") |>
+  dplyr::filter(!is.na(subject) & !is.na(teacher)) |>
   dplyr::distinct()
 
 usethis::use_data(hogwarts, overwrite = TRUE)

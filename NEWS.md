@@ -2,10 +2,11 @@
 
 # pivotea 1.0.2
 
-* 2024-01-11
+* 2024-07-15
 
 * Remove duplicated data in `hogwarts`. 
-* add argument rm_empty_df in pivot().
+* Add argument rm_empty_df in `pivot()`.
+* Use pkgdown.
 
 # pivotea 1.0.1
 

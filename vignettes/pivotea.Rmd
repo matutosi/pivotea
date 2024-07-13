@@ -23,16 +23,16 @@ library(ggplot2)
 You can use `pivot()` to make a pivot table easily.
 
 ```{r}
-hogwarts %>%
+hogwarts |>
   pivot(row = "hour", col = "wday", value = c("subject", "teacher", "room"), split = c("house", "grade"))
-starwars %>%
+starwars |>
   pivot(row = "homeworld", col = "species", value = "name", split = "sex")
-msleep %>%
-  pivot(row = "vore", col = "conservation", value = "name") %>%
-  na2empty() %>%
-  print(n = nrow(.))
-as_tibble(Titanic) %>%
+msleep |>
+  pivot(row = "vore", col = "conservation", value = "name") |>
+  na2empty() |>
+  print(n = Inf)
+as_tibble(Titanic) |>
   pivot(row = "Age", col = c("Sex", "Survived"), value = "n", split = "Class")
-diamonds %>%
+diamonds |>
   pivot(row = "cut", col = "color", value = "price", split = "clarity")
 ```

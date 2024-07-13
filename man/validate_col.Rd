@@ -22,24 +22,24 @@ library(tidyr)
 library(dplyr)
 library(purrr)
 library(ggplot2)
-hogwarts \%>\%
+hogwarts |>
   pivot(row = "hour", col = "wday",
         value = c("subject", "teacher", "room"),
         split = c("house", "grade"))
-hogwarts \%>\%
+hogwarts |>
   pivot(row = "hour", col = "wday",
         value = c("subject", "room", "house", "grade"),
         split = c("teacher"))
-starwars \%>\%
+starwars |>
   pivot(row = "homeworld", col = "species", value = "name", split = "sex")
-msleep \%>\%
-  pivot(row = "vore", col = "conservation", value = "name") \%>\%
-  na2empty() \%>\%
-  print(n = nrow(.))
-tibble::as_tibble(Titanic) \%>\%
+msleep |>
+  pivot(row = "vore", col = "conservation", value = "name") |>
+  na2empty() |>
+  print(n = Inf)
+tibble::as_tibble(Titanic) |>
   pivot(row = "Age", col = c("Sex", "Survived"),
         value = "n", split = "Class")
-diamonds \%>\%
+diamonds |>
   pivot(row = "cut", col = "color", value = "price", split = "clarity")
 
 }

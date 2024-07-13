@@ -34,8 +34,8 @@ omit_na_cols <- function(df){
   nr <- nrow(df)
   cnames <- colnames(df)
   nas <- 
-    cnames %>%
-    purrr::map(extract_col, df) %>%
+    cnames |>
+    purrr::map(extract_col, df) |>
     purrr::map_int(function(x) sum(is.na(x)))
   non_na <- nas != nr
   dplyr::select(df, dplyr::all_of(cnames[non_na]))
@@ -53,7 +53,7 @@ extract_col <- function(col, df){
 #' @inherit pivot
 #' @export
 na2empty <- function(df){
-  df %>%
+  df |>
     dplyr::mutate_if(is.character, function(x){ tidyr::replace_na(x, "") })
 }
 
@@ -74,11 +74,11 @@ replace_col <- function(df, replace){
     return(NULL)
   }
   df <- 
-    df %>%
-    dplyr::left_join(replace) %>%
-    dplyr::select(-dplyr::all_of(common)) %>%
-    dplyr::mutate(`:=`({{common}}, .data[[new_col]])) %>%
-    dplyr::select(-dplyr::all_of(new_col)) %>%
+    df |>
+    dplyr::left_join(replace) |>
+    dplyr::select(-dplyr::all_of(common)) |>
+    dplyr::mutate(`:=`({{common}}, .data[[new_col]])) |>
+    dplyr::select(-dplyr::all_of(new_col)) |>
     dplyr::relocate(dplyr::all_of(colnames(df)))
   return(df)
 }
