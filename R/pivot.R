@@ -113,6 +113,7 @@ split_force <- function(df, split){
     df <- base::split(df, "")
   }else{
     df <- base::split(df, df[split])
+    names(df) <- stringr::str_replace(names(df), "\\.", "_")
   }
   return(df)
 }
