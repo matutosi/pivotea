@@ -4,6 +4,7 @@
 # pivotea
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 The goal of pivotea is to make pivot table easily by specifying rows,

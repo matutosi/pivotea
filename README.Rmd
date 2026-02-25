@@ -58,6 +58,7 @@ as_tibble(Titanic) |>
 diamonds |>
   pivot(row = "cut", col = "color", value = "price", split = "clarity")
 ```
+
 ## Citation
 
 Toshikazu Matsumura (2023) pivotea. Create Pivot Table Easily. https://github.com/matutosi/pivotea/.
