@@ -9,6 +9,7 @@ You can install the development version from
 [GitHub](https://github.com/) with:
 
 ``` r
+
 # install.packages("remotes")
 remotes::install_github("matutosi/pivotea")
 ```
@@ -16,6 +17,7 @@ remotes::install_github("matutosi/pivotea")
 You can also install from CRAN:
 
 ``` r
+
 install.packages("pivotea")
 ```
 
@@ -25,6 +27,7 @@ You can use [`pivot()`](reference/pivot.md) to make a pivot table
 easily.
 
 ``` r
+
 library(pivotea)
 library(dplyr)
 library(ggplot2)

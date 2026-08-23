@@ -8,7 +8,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/matutosi/pivotea/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/matutosi/pivotea/blob/develop/DESCRIPTION)
 
 Matsumura T (2026). *pivotea: Create Pivot Table Easily*. R package
 version 1.0.2.9000, <https://github.com/matutosi/pivotea>.

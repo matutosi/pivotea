@@ -1,6 +1,7 @@
 # pivotea
 
 ``` r
+
 library(pivotea)
 library(dplyr)
 #> 
@@ -18,6 +19,7 @@ You can use [`pivot()`](../reference/pivot.md) to make a pivot table
 easily.
 
 ``` r
+
 hogwarts |>
   pivot(row = "hour", col = "wday", value = c("subject", "teacher", "room"), split = c("house", "grade"))
 #> $Automatic_6
